@@ -77,9 +77,10 @@ But Minh pressed on: “Even amongst themselves, I sense little exchange. Yes, t
 
 I shook my head and pointed across the street at a young couple laughing together. “See? They do talk.”  
 
-Minh persisted. “Perhaps. But from what I’ve seen, people are taught from childhood not to speak to strangers, not to meddle. ‘Keep to yourself, don’t draw trouble,’ isn’t that the lesson here?”  
+Minh watched a pair of young lovers laughing together and then shook his head.
+“Couples here seem so alive with one another,” he said, “yet beyond their little circle, there’s no connection at all. It’s as if the warmth stops at the edge.”
 
-I sighed. “Yes. That’s how our parents raised us.”  
+I answered with a weary smile. “That’s how we were brought up. From childhood we were told not to talk to strangers, not to meddle in other people’s affairs, not to invite trouble. Reserve became a kind of shield — protection.”
 
 Vincent interjected, with his characteristic exaggeration: “It’s driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
