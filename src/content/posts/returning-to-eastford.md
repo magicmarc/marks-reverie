@@ -59,7 +59,7 @@ I glanced. She was simply dressed as an office worker.
 
 “That’s just professional attire,” I explained. “Here, looking polished is part of the job. Men wear suits and ties, women wear dresses, heels, a touch of make-up. It’s not about self-expression, it’s about professionalism. In fact, our HR departments issue very specific dress codes: what fabrics are acceptable, what colour lipstick, even the height of heels.”
 
-I paused, remembering. “I once wore a shirt that had faded slightly from too many washes — and my boss scolded me for looking careless. And I still recall my first interview in Australia: I arrived in a full suit and tie, only to find the interviewer in a short-sleeved shirt. The whole hospital office was dressed casually, and I was the only one in a suit. You can imagine my embarrassment.”
+I paused, remembering. “I once wore a shirt that had faded slightly from too many washes — and my boss scolded me for looking careless. And I still recall my first interview in Australia: I arrived in a full suit and tie, only to find the interviewer in a short-sleeved shirt. The whole office was dressed casually, and I was the only one in a suit. You can imagine my embarrassment.”
 
 They both stared in disbelief.
 
