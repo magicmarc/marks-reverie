@@ -1,5 +1,5 @@
 ---
-title: "Returning to Eastford"
+title: "Returning to Eastford - a 'Homecoming'"
 excerpt: "A journey back to a city once called home, seen anew through the eyes of foreign friends — with all its details, contrasts, and burdens."
 publishedAt: "2025-09-22"
 readTime: 18
@@ -7,7 +7,7 @@ tags: ["travel", "culture", "reflection", "memoir"]
 slug: "returning-to-eastford-complete"
 ---
 
-# Returning to Eastford
+# Returning to Eastford - a 'Homecoming'
 
 Before moving to Australia, I lived in **Eastford**. 
 
@@ -21,7 +21,7 @@ At first they were enchanted — dazzled by the food, the glittering harbour lig
 
 Intrigued, I pressed them for details.
 
-## Lost in the Maze
+## The 'Maze'
 
 Both explained that in Australia, their sense of direction was impeccable. Having grown up driving, they rarely needed a map. But in Eastford, where life is tethered to the sprawling underground railway, they were constantly disoriented. I, who knew the stations and exits by heart, could navigate with ease. For me, spotting the nearest station was enough to regain my bearings.
 
@@ -31,7 +31,7 @@ I reassured them: “Here you don’t need direction. Just follow the signs.” 
 
 “How can life be lived without direction?” he asked, half-serious. We laughed, though the unease lingered.
 
-## Connections
+## The 'Connections'
 
 Vincent was troubled by something else. He remarked that the women of Eastford were strikingly beautiful, impeccably dressed, yet not once had one smiled at him.
 
@@ -59,7 +59,7 @@ They both stared in disbelief.
 
 Vincent threw up his hands. “This must be a nightmare! I need to wake up.”
 
-## The Expat Bubble
+## The 'Expats'
 
 Later I brought them into my English-speaking circle at a European-style bar. Wine glasses clinked, conversations flowed in a dozen accents. Surely, I thought, this would give them the warmth they craved.
 
@@ -83,7 +83,7 @@ I sighed. “Yes. That’s how our parents raised us.”
 
 Vincent interjected, with his characteristic exaggeration: “It’s driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
-## Escaping Mainland
+## 'Escaping' Mainland
 
 Eventually, Minh pleaded, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
 
@@ -103,7 +103,7 @@ Indeed, willingness to connect mattered more than the tools of communication.
 
 “We are so happy,” they both said with wonder, as though the air itself had changed.
 
-## Eastfordian Buddha
+## Eastfordian 'Buddha'
 
 Back in Eastford, on our way to the great Buddha, we took a taxi. I sat up front with Mr. Chan, who chatted in Eastfordian about his family, his children’s schooling, and the hardships of city life.
 
@@ -117,7 +117,7 @@ My friends listened from the back seat, delighted to hear such a torrent of hear
 
 Minh was thrilled to witness, for the first time, an Eastfordian conversation alive with passion.
 
-## A Warm Farewell
+## A 'Warm' Farewell
 
 On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared, digging frantically through my phone until I produced the PDF.
 
