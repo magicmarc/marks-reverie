@@ -105,9 +105,9 @@ Indeed, willingness to connect mattered more than the tools of communication.
 
 “We are so happy,” they both said with wonder, as though the air itself had changed.
 
-## Eastfordian 'Buddha'
+## A Eastfordian Conversation
 
-Back in Eastford, on our way to the great Buddha, we took a taxi. I sat up front with Mr. Chan, who chatted in Eastfordian about his family, his children’s schooling, and the hardships of city life.
+Back in Eastford, we took a taxi. I sat up front with our driver, who chatted in Eastfordian about his family, his children’s schooling, and the hardships of city life.
 
 When he asked if my friends had enjoyed the city, I admitted, “They find it a little cold compared with Australia.”
 
