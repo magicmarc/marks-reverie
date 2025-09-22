@@ -10,7 +10,7 @@ const HeroSection = styled.section`
   background: linear-gradient(
     135deg,
     ${({ theme }) => theme.colors.background.main} 0%,
-    ${({ theme }) => theme.colors.paleBlue} 100%
+    ${({ theme }) => theme.colors.primary.paleBlue} 100%
   );
   border-radius: 0 0 40px 40px;
   margin-bottom: ${({ theme }) => theme.spacing['3xl']};
