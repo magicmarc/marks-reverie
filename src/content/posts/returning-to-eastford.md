@@ -181,7 +181,7 @@ My friends, sensing the friction though not the words, asked if I was in trouble
 
 Tomorrow my friends would wake from this dream. Eastford is a journey.
 
-For me, it was a homecoming that pressed its weight upon me with every familiar sound and gesture. The city did not let me drift as a guest; it claimed me, reminded me that I once belonged entirely to its rhythm.
+Yet for me, it was a homecoming that pressed its weight upon me with every familiar sound and gesture. The city did not let me drift as a guest; it claimed me, reminded me that I once belonged entirely to its rhythm.
 
 I cannot simply lay it down, nor would I wish to erase it. Yet I yearn for the day when memory loosens its grip.
 
