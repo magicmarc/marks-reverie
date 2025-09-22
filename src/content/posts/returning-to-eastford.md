@@ -31,7 +31,7 @@ I reassured them: “Here you don’t need direction. Just follow the signs.” 
 
 “How can life be lived without direction?” he asked, half-serious. We laughed, though the unease lingered.
 
-## The 'Connections'
+## A Lack of Holiday Romance
 
 Vincent was troubled by something else. He remarked that the women of Eastford were strikingly beautiful, impeccably dressed, yet not once had one smiled at him.
 
@@ -85,7 +85,7 @@ I sighed. “That is the lesson we were given from childhood: do not speak to st
 
 Vincent interjected, with his characteristic exaggeration: “It’s driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
-## 'Escaping' Mainland
+## The Escape
 
 Eventually, Minh pleaded, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
 
