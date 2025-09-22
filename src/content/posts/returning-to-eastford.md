@@ -27,7 +27,7 @@ But by the third day, Minh admitted that something about the city unsettled him.
 
 Intrigued, I pressed them for details.
 
-## The 'Maze'
+## The Maze
 
 Both explained that in Australia, their sense of direction was impeccable. Having grown up driving, they rarely needed a map. But in Eastford, where life is tethered to the sprawling underground railway, they were constantly disoriented. I, who knew the stations and exits by heart, could navigate with ease. For me, spotting the nearest station was enough to regain my bearings.
 
@@ -71,11 +71,11 @@ They both stared in disbelief.
 
 Vincent threw up his hands. “This must be a nightmare! I need to wake up.”
 
-## The 'Expats'
+## The Expats
 
 Later I brought them into my English-speaking circle at a European-style bar. Wine glasses clinked, conversations flowed in a dozen accents. Surely, I thought, this would give them the warmth they craved.
 
-I introduced them to Edward, a long-settled Englishman, and Julien from France. 
+I introduced them to **Edward**, a long-settled Englishman, and **Julien**, visiting from France. 
 
 As the night deepened and the glasses refilled, Edward leaned back with a sly grin.
 
@@ -159,7 +159,7 @@ My friends listened from the back seat, delighted to hear such a torrent of loca
 
 Minh was thrilled to witness, for the first time, an Eastfordian conversation alive with passion.
 
-## A 'Warm' Farewell
+## A Warm Farewell
 
 On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared, digging frantically through my phone until I produced the PDF.
 
