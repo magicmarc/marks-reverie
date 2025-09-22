@@ -113,7 +113,7 @@ When he asked if my friends had enjoyed the city, I admitted, “They find it a 
 
 “You’re not wrong,” he replied. “Here, people lack trust. In the villages, neighbours knew one another. In the city, everyone guards against everyone else. That’s the way to survive. What we’re best at here is oppressing one another.”
 
-My friends listened from the back seat, delighted to hear such a torrent of heartfelt words, even if they couldn’t understand them.
+My friends listened from the back seat, delighted to hear such a torrent of local words, even if they couldn’t understand them.
 
 "Good job, Mark." 
 
