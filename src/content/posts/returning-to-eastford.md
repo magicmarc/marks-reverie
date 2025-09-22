@@ -76,7 +76,7 @@ Later I brought them into my English-speaking circle at a European-style bar. Wi
 
 I introduced them to **Edward**, a long-settled Englishman, and **Julien**, visiting from France. 
 
-As the night deepened and the glasses refilled, Edward leaned back with a rueful grin. “First week in the frat house, I thought I could hold my liquor. They kept pouring shots, and I kept saying yes. Next thing I knew, I woke up with marker all over my face — moustaches, devil horns, the works — and my mates were hauling me back across campus like a sack of potatoes. I remember stumbling into the bathroom, trying to scrub it all off, throwing up between splashes of cold water. My parents only laughed when I told them later — ‘That’s part of the education,’ they said.”
+As the night deepened and the glasses refilled, Edward leaned back with a rueful grin. “First week in the frat house, I thought I could hold my liquor. They kept pouring shots, and I kept saying yes. Next thing I knew, I woke up with marker all over my face — moustaches, devil horns, the works — and my mates were hauling me back across campus like a sack of potatoes. I remember stumbling into the bathroom, trying to scrub it all off, throwing up between splashes of cold water. 
 
 Julien clapped his hands, eyes shining. “Mine was back in Bordeaux. I drank far more than I should have at a family dinner — wine flowing, uncles egging me on. I felt perfectly steady, certain I could walk a straight line. But when I tried to climb the stairs, my legs betrayed me. My parents stood at the bottom, laughing, whispering to each other, ‘If he can make it up, perhaps he’ll manage in life after all.’ Only then did I realise — I was hopelessly drunk.”
 
