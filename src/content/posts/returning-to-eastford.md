@@ -13,7 +13,7 @@ Before moving to Australia, I lived in **Eastford**.
 
 The city shaped me in countless ways — its relentless rhythm, its understated courtesies, its curious balance of warmth and reserve. Time and distance softened my memories, yet Eastford remained imprinted on me like an old watermark.
 
-Years later, I returned — not alone, but with two Australian friends: *Vincent*, of European background, and *Minh*, whose family roots are in Vietnam. For me it was a homecoming; for them it was an adventure into the unknown.
+Years later, I returned — not alone, but with two Australian friends: **Vincent**, of European background, and **Minh**, whose family roots are in Vietnam. For me it was a homecoming; for them it was an adventure into the unknown.
 
 As the plane lifted from Eastford towards Sydney at the end of our journey, I felt compelled to set down what had passed. For whilst I had revisited familiar streets, I also discovered them anew, reflected through their foreign eyes.
 
