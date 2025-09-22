@@ -86,7 +86,7 @@ The two of them laughed, shoulders shaking, swapping anecdotes of seaside summer
 
 Edward and Julien spoke animatedly about their lives, but when asked whether they had local friends, Edward shrugged - “Not really. We just have different ways.” Julien explained he was often between Europe and Eastford, with little time for deeper ties.
 
-On our way back to the hotel, Vincent burst out: “They know nothing of the locals! They live entirely inside an English-speaking bubble.”
+On our way back to the hotel, Vincent laughed as he replayed Edward and Julien’s stories. “They’re wonderful company — I could sit with them all night,” he admitted. Then his tone grew softer. “But I still don’t feel I’ve learnt anything about the locals. It’s as if that door remains closed.”
 
 I told them the local tongue was fiendishly hard to learn, which is why outsiders rarely manage to fit in.
 
