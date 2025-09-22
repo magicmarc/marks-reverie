@@ -89,7 +89,7 @@ Eventually, Minh pleaded as well, “Mark, take us anywhere, even across to the 
 
 ## The Escape
 
-So we boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Newbridge*, in which the heroine escaped the suffocation of the mainland by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
+We boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Newbridge*, in which the heroine escaped the suffocation of the Newbridge by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
 
 Once there, we were struck by the contrast. The streets teemed with groups — colleagues sneaking out for milk tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
 
