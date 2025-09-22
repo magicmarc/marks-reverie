@@ -83,7 +83,7 @@ Minh gaze lingered on the couple as they walked past.
 
 I sighed. “That is the lesson we were given from childhood: do not speak to strangers, do not invite yourself into another’s troubles. We learnt to fold our warmth inward, to guard against the world. Protection, yes — but also distance.”
 
-Vincent interjected, with his characteristic exaggeration: “It’s driving me mad. Get us out of here, Mark. Anywhere else. Please.”
+Vincent interjected, with his characteristic exaggeration: “It’s a dystopia and it's driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
 ## The Escape
 
