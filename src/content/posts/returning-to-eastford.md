@@ -53,7 +53,8 @@ Vincent then nodded towards a young woman nearby. “Look at her — she’s stu
 
 Minh’s gaze lingered longer than Vincent’s. Where Vincent saw only emptiness, Minh seemed to search for the story behind her silence. “It isn’t that her eyes are empty,” he said softly, “it’s that they’re guarded. As if every glance has been rehearsed, every expression weighed.”
 
-I glanced. She was simply dressed as an office worker.
+I looked again. To me, it wasn’t glass or armour that I saw, but fatigue — the kind that seeps in after too many hours beneath fluorescent light, after too many days spent measuring words and appearances. She was simply dressed as an office worker, nothing more, nothing less.
+
 
 “That’s just professional attire,” I explained. “Here, looking polished is part of the job. Men wear suits and ties, women wear dresses, heels, a touch of make-up. It’s not about self-expression, it’s about professionalism. In fact, our HR departments issue very specific dress codes: what fabrics are acceptable, what colour lipstick, even the height of heels.”
 
