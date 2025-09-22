@@ -85,9 +85,9 @@ I sighed. “That is the lesson we were given from childhood: do not speak to st
 
 Vincent interjected, with his characteristic exaggeration: “It’s a dystopia and it's driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
-## The Escape
+Eventually, Minh pleaded as well, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
 
-Eventually, Minh pleaded, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
+## The Escape
 
 So we boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Newbridge*, in which the heroine escaped the suffocation of the mainland by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
 
