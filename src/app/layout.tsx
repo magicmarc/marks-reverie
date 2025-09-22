@@ -8,6 +8,11 @@ export const metadata: Metadata = {
   description: 'A personal blog for thoughts, reflections, and literary musings',
   keywords: ['blog', 'literature', 'reflections', 'writing', 'thoughts'],
   authors: [{ name: 'Mark' }],
+  icons: {
+    icon: '/logos/logo-light.png',
+    shortcut: '/logos/logo-light.png',
+    apple: '/logos/logo-light.png',
+  },
   openGraph: {
     title: "Mark's Reverie",
     description: 'A personal blog for thoughts, reflections, and literary musings',

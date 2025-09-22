@@ -3,6 +3,7 @@
 import styled from 'styled-components'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import Logo from '@/components/Logo'
 
 const HeaderContainer = styled.header`
   background-color: ${({ theme }) => theme.colors.background.paper};
@@ -24,17 +25,12 @@ const HeaderContent = styled.div`
   align-items: center;
 `
 
-const Logo = styled(Link)`
-  font-family: ${({ theme }) => theme.typography.fontFamily.serif};
-  font-size: ${({ theme }) => theme.typography.fontSize['2xl']};
-  font-weight: ${({ theme }) => theme.typography.fontWeight.semibold};
-  color: ${({ theme }) => theme.colors.text.primary};
+const LogoLink = styled(Link)`
   text-decoration: none;
-  letter-spacing: 0.5px;
-  transition: color 0.3s ease;
+  transition: all 0.3s ease;
 
   &:hover {
-    color: ${({ theme }) => theme.colors.accent.gold};
+    transform: translateY(-1px);
   }
 `
 
@@ -81,7 +77,9 @@ const Header = () => {
   return (
     <HeaderContainer>
       <HeaderContent>
-        <Logo href="/">Mark&apos;s Reverie</Logo>
+        <LogoLink href="/">
+          <Logo size="md" showText={true} />
+        </LogoLink>
         <Navigation>
           <NavLink href="/" $isActive={pathname === '/'}>
             Home
