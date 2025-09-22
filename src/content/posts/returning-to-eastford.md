@@ -150,9 +150,11 @@ As we rolled past the harbour lights, he leaned closer, lowering his voice. “I
 
 When he asked if my friends had enjoyed the city, I admitted, “They find it a little cold compared with Australia.”
 
-“You’re not wrong,” he replied after a pause, eyes fixed on the stream of headlights ahead. “Out in the villages, people still left their doors open; neighbours borrowed rice without asking, quarrelled loudly, then shared a drink the next day. In the city, we bolt our gates, and even when we smile, we measure the cost. Everyone is wary, always calculating, as if survival depended on suspicion.”
+“You’re not wrong,” he said after a pause, eyes following the red tail-lights ahead. “When I was young, neighbours still looked out for each other. If trouble came, someone would step in, or at least shout your name. There was fear, yes — but there was also a kind of rough loyalty, a sense that you weren’t entirely alone.
 
-He drummed his fingers on the wheel, then added more softly, “And yet… look around. Where else could a man find work to raise his children, schools to push them further than we ever went? The city suffocates you, yes, but it also feeds you. We curse it every morning and still cling to it at night. That’s the truth of Eastford - it bruises you, and still you can’t let go.”
+Now Eastford has grown taller and sharper. With every new tower and every new device, life has sped up, and so has the rivalry. Families move in and out, faces change too quickly to remember, and everyone builds their own shield. The busier the city, the stronger the guard. Trust has become the rarest thing of all”
+
+He drummed his fingers on the wheel, then added more softly, “And yet… look around. The city suffocates you, yes, but it also feeds you. We curse it every morning and still cling to it at night. That’s the truth of Eastford - it bruises you, and still you can’t let go.”
 
 My friends listened from the back seat, delighted to hear such a torrent of local words, even if they couldn’t understand them.
 
