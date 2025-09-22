@@ -87,7 +87,7 @@ Vincent interjected, with his characteristic exaggeration: “It’s driving me 
 
 Eventually, Minh pleaded, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
 
-So we boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Mainland*, in which the heroine escaped the suffocation of the mainland by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
+So we boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Newbridge*, in which the heroine escaped the suffocation of the mainland by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
 
 Once there, we were struck by the contrast. The streets teemed with groups — colleagues sneaking out for milk tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
 
