@@ -103,4 +103,4 @@ They shivered at the thought.
 
 ## Epilogue
 
-Tomorrow they would awake from this strange dream, carrying only fragments of Eastford with them. As for me, I would remain, sleeves brushed clean, carrying no cloud — yet perhaps, one day, even these fragments may rise like a cloud of their own.
+Tomorrow my companions would rise from this dream, leaving it behind as morning mist leaves the valley. Yet I remain, carrying it, longing for the day when such weight may soften into a cloud and quietly float away.
