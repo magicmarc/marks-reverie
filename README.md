@@ -102,23 +102,6 @@ Modify components in `src/components/Layout/` to adjust:
 - Footer content
 - Overall page structure
 
-## 📚 Documentation
-
-For detailed technical documentation, see [TECHNICAL_DOCUMENTATION.md](./TECHNICAL_DOCUMENTATION.md).
-
-## 🌐 Deployment
-
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy with zero configuration
-
-### Other Platforms
-The site can be deployed to any platform that supports Next.js:
-- Netlify
-- AWS Amplify
-- Railway
-- DigitalOcean App Platform
 
 ## 🔮 Future Enhancements
 
