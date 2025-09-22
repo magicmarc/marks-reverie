@@ -165,7 +165,7 @@ Minh was thrilled to witness, for the first time, an Eastfordian conversation al
 
 ## A Warm Farewell
 
-On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared, digging frantically through my phone until I produced the PDF.
+On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled, digging frantically through my phone until I produced the PDF.
 
 At last the papers were in order. My friends prepared to leave the desk when Clara leaned in, eyes fierce beneath her immaculate make-up, and said in Eastfordian: “Be clever out there, Eastford boy.” Her tone was sharp, almost scolding, and her gaze cut through me like a reprimand. For a moment I felt like a schoolboy caught misbehaving, shrinking under her authority.
 
