@@ -1,15 +1,15 @@
 ---
 title: "Returning to Eastford"
-excerpt: "A journey back to a city once called home, seen anew through the eyes of foreign friends."
+excerpt: "A journey back to a city once called home, seen anew through the eyes of foreign friends — with all its details, contrasts, and burdens."
 publishedAt: "2025-09-22"
-readTime: 12
-tags: ["travel", "culture", "reflection"]
-slug: "returning-to-eastford"
+readTime: 18
+tags: ["travel", "culture", "reflection", "memoir"]
+slug: "returning-to-eastford-complete"
 ---
 
 # Returning to Eastford
 
-I lived in **Eastford** before moving to Australia. The city shaped me in countless ways — its relentless rhythm, its understated courtesies, its curious balance of warmth and reserve. Time and distance softened my memories, yet Eastford remained imprinted on me like an old watermark.
+I lived in **Eastford** for nearly ten years before moving to Australia. The city shaped me in countless ways — its relentless rhythm, its understated courtesies, its curious balance of warmth and reserve. Time and distance softened my memories, yet Eastford remained imprinted on me like an old watermark.
 
 Years later, I returned — not alone, but with two Australian friends: *Vincent*, of European background, and *Minh*, whose family roots are in Vietnam. For me it was a homecoming; for them it was an adventure into the unknown.
 
@@ -43,7 +43,9 @@ Vincent then nodded towards a young woman nearby. “Look at her — she’s stu
 
 I glanced. She was simply dressed as an office worker.
 
-“That’s just professional attire,” I explained. “Here, looking polished is part of the job. Men wear suits and ties, women wear dresses, heels, a touch of make-up. It’s not about self-expression, it’s about professionalism.”
+“That’s just professional attire,” I explained. “Here, looking polished is part of the job. Men wear suits and ties, women wear dresses, heels, a touch of make-up. It’s not about self-expression, it’s about professionalism. In fact, our HR departments issue very specific dress codes: what fabrics are acceptable, what colour lipstick, even the height of heels.”
+
+I paused, remembering. “I once wore a shirt that had faded slightly from too many washes — and my boss scolded me for looking careless. And I still recall my first interview in Australia: I arrived in a full suit and tie, only to find the interviewer in a short-sleeved shirt. The whole hospital office was dressed casually, and I was the only one in a suit. You can imagine my embarrassment.”
 
 They both stared in disbelief.
 
@@ -52,6 +54,8 @@ They both stared in disbelief.
 “Of course,” I said. “Who would want to conduct business with someone scruffy?”
 
 “That,” Minh murmured, “is even more unsettling.”
+
+Vincent threw up his hands. “This must be a nightmare! I need to wake up.”
 
 ## The Expat Bubble
 
@@ -65,21 +69,37 @@ On our way back to the hotel, Vincent burst out: “They know nothing of the loc
 
 But Minh was thoughtful. “It’s not just the language. It’s the lack of desire to connect. The body speaks when words fail, but here, even when people understand English, they don’t seem to want the exchange.”
 
+I countered, a little defensive: “Local people don’t owe you their time. They work hard all day, then go home to families to feed. They’re not like Australians who can linger over coffee or wine after work. They’ve no energy left for idle chatter.”  
+
+But Minh pressed on: “Even amongst themselves, I sense little exchange. Yes, there are couples and families, but even they seem to walk side by side without speaking.”  
+
+I shook my head and pointed across the street at a young couple laughing together. “See? They do talk.”  
+
+Minh persisted. “Perhaps. But from what I’ve seen, people are taught from childhood not to speak to strangers, not to meddle. ‘Keep to yourself, don’t draw trouble,’ isn’t that the lesson here?”  
+
+I sighed. “Yes. That’s how our parents raised us.”  
+
+Vincent interjected, with his characteristic exaggeration: “It’s driving me mad. Get us out of here, Mark. Anywhere else. Please.”
+
 ## Crossing to Newbridge
 
 Eventually, Minh pleaded, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
 
-So we boarded the new high-speed rail to Newbridge.
+So we boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Spring*, in which the heroine escaped the suffocation of the mainland by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
 
 Once there, we were struck by the contrast. The streets teemed with groups — colleagues sneaking out for milk tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
 
 “Good heavens, she smiled at me!” Vincent exclaimed. A modest, slightly plump young woman had glanced our way and, catching his gaze, blushed and smiled before walking on. He was radiant.
 
-Over lunch, the waiter enthusiastically described each dish — even though he must have known we barely understood a word. Still, he wanted us to feel part of the meal.
+Over lunch, the waiter enthusiastically described each dish — even though he must have known we barely understood a word. Still, he wanted us to feel part of the meal, pointing out ingredients, gesturing with delight.  
 
 “Do you feel it, Mark?” Minh said excitedly. “Even without language, he wanted to share something with us — not merely perform a duty.”
 
-Indeed, willingness to connect mattered more than the tools of communication.
+When we left, the young waiter waved vigorously, sensing we did not understand his words but eager to leave us with warmth. Minh waved back with equal force.  
+
+Indeed, willingness to connect mattered more than the tools of communication.  
+
+“We are so happy,” they both said with wonder, as though the air itself had changed.
 
 ## An Honest Driver
 
@@ -87,20 +107,20 @@ Back in Eastford, on our way to the great Buddha, we took a taxi. I sat up front
 
 When he asked if my friends had enjoyed the city, I admitted, “They find it a little cold compared with Australia.”
 
-“You’re not wrong,” he replied. “Here, people lack trust. In the villages, neighbours knew one another. In the city, everyone guards against everyone else. That’s the way to survive.”
+“You’re not wrong,” he replied. “Here, people lack trust. In the villages, neighbours knew one another. In the city, everyone guards against everyone else. That’s the way to survive. What we’re best at here is oppressing one another.”
 
 My friends listened from the back seat, delighted to hear such a torrent of heartfelt words, even if they couldn’t understand them.
 
 ## The Final Encounter
 
-On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared.
+On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared, digging frantically through my phone until I produced the PDF.
 
-Afterwards she leaned in, eyes fierce beneath her immaculate make-up, and said in Eastfordian: “Be clever out there, Eastford boy.” Whether rebuke or encouragement, I could not tell.
+She frowned. “Your baggage form is wrong. Rewrite it.” I scrambled, feeling like a child who had failed to finish his homework.  
 
-My friends asked if something was wrong. I smiled faintly. “This is just how we speak to each other here.”
+At last the papers were in order. My friends prepared to leave the desk when Clara leaned in, eyes fierce beneath her immaculate make-up, and said in Eastfordian: “Be clever out there, Eastford boy.” Her eyes bulged with an intensity that could be read as warning, encouragement, or threat.  
 
-They shivered at the thought.
+My friends, sensing the friction though not the words, asked if I was in trouble. I forced a smile. “This is simply how we speak to one another here.” They shuddered visibly at the thought.
 
 ## Epilogue
 
-Tomorrow my companions would rise from this dream, leaving it behind as morning mist leaves the valley. Yet I remain, carrying it, longing for the day when such weight may soften into a cloud and quietly float away.
+Tomorrow my friends would awaken from this dream and step lightly back into their lives. I, however, must go on with it — hoping that, in time, it will thin to vapour and drift away as a cloud of its own.
