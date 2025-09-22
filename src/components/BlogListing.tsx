@@ -145,9 +145,9 @@ export default function BlogListing({ posts }: BlogListingProps) {
   return (
     <BlogContainer>
       <PageHeader>
-        <PageTitle>Blog</PageTitle>
+        <PageTitle>Blogs</PageTitle>
         <PageSubtitle>
-          Thoughts, reflections, and literary musings from the quiet corners of my mind
+          Thoughts, reflections, and literary musings
         </PageSubtitle>
       </PageHeader>
 
