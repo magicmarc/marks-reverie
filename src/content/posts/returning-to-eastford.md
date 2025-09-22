@@ -121,8 +121,8 @@ She frowned. “Your baggage form is wrong. Rewrite it.” I scrambled, feeling 
 
 At last the papers were in order. My friends prepared to leave the desk when Clara leaned in, eyes fierce beneath her immaculate make-up, and said in Eastfordian: “Be clever out there, Eastford boy.” Her eyes bulged with an intensity that could be read as warning, encouragement, or threat.  
 
-My friends, sensing the friction though not the words, asked if I was in trouble. I forced a smile. “This is simply how we speak to one another here.” They shuddered visibly at the thought.
+My friends, sensing the friction though not the words, asked if I was in trouble. I forced a smile. “This is simply how we Eastfordian speak to one another.” They shuddered visibly at the thought.
 
 ## Epilogue
 
-Tomorrow my friends would awaken from this dream and step lightly back into their lives. I, however, must go on with it — hoping that, in time, it will thin to vapour and drift away as a cloud of its own.
+Tomorrow my friends would awaken from this dream and step lightly back into their lives. I, however, must go on with it — hoping that, in time, it will thin to vapour and drift away as a *cloud* of its own.
