@@ -160,7 +160,9 @@ My friends listened from the back seat, delighted to hear such a torrent of loca
 
 “Good job, Mark,” Vincent grinned, giving me a playful nudge.
 
-Minh’s eyes shone. For the first time he was watching an Eastfordian conversation carried with such fire, and he took it as proof of warmth. To them it was a moment of connection — a doorway cracked open at last. They smiled, believing they had glimpsed the city’s hidden heart, never realising that beneath the driver’s passion lay a harsher truth.
+Minh’s eyes shone. For the first time he was watching an Eastfordian conversation carried with such fire, and he took it as proof of warmth. 
+
+To them it was a moment of connection — a doorway cracked open at last. They smiled, believing they had glimpsed the city’s hidden heart, never realising that beneath the driver’s passion lay a harsher truth.
 
 ## A Warm Farewell
 
