@@ -61,7 +61,7 @@ I introduced them to Edward, a long-settled Englishman, and Julien from France. 
 
 On our way back to the hotel, Vincent burst out: “They know nothing of the locals! They live entirely inside an English-speaking bubble.”
 
-“Cantonese is terribly hard,” I replied. “Even Mandarin would be easier.”
+“Eastfordian is terribly hard,” I replied. “Even Newbridgian would be easier.”
 
 But Minh was thoughtful. “It’s not just the language. It’s the lack of desire to connect. The body speaks when words fail, but here, even when people understand English, they don’t seem to want the exchange.”
 
@@ -83,7 +83,7 @@ Indeed, willingness to connect mattered more than the tools of communication.
 
 ## An Honest Driver
 
-Back in Eastford, on our way to the great Buddha, we took a taxi. I sat up front with Mr. Chan, who chatted in Cantonese about his family, his children’s schooling, and the hardships of city life.
+Back in Eastford, on our way to the great Buddha, we took a taxi. I sat up front with Mr. Chan, who chatted in Eastfordian about his family, his children’s schooling, and the hardships of city life.
 
 When he asked if my friends had enjoyed the city, I admitted, “They find it a little cold compared with Australia.”
 
@@ -95,7 +95,7 @@ My friends listened from the back seat, delighted to hear such a torrent of hear
 
 On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared.
 
-Afterwards she leaned in, eyes fierce beneath her immaculate make-up, and said in Cantonese: “Be clever out there, Eastford boy.” Whether rebuke or encouragement, I could not tell.
+Afterwards she leaned in, eyes fierce beneath her immaculate make-up, and said in Eastfordian: “Be clever out there, Eastford boy.” Whether rebuke or encouragement, I could not tell.
 
 My friends asked if something was wrong. I smiled faintly. “This is just how we speak to each other here.”
 
