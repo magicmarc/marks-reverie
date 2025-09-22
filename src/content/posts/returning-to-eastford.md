@@ -77,10 +77,11 @@ But Minh pressed on: “Even amongst themselves, I sense little exchange. Yes, t
 
 I shook my head and pointed across the street at a young couple laughing together. “See? They do talk.”  
 
-Minh watched a pair of young lovers laughing together and then shook his head.
-“Couples here seem so alive with one another,” he said, “yet beyond their little circle, there’s no connection at all. It’s as if the warmth stops at the edge.”
+Minh gaze lingered on a couple laughing softly as they walked past.
 
-I answered with a weary smile. “That’s how we were brought up. From childhood we were told not to talk to strangers, not to meddle in other people’s affairs, not to invite trouble. Reserve became a kind of shield — protection.”
+“They burn so brightly within their own little world,” he murmured, “yet the flame seems to reach no further. Beyond their circle, the air grows cold — there is no bridge to the outside.”
+
+I sighed. “That is the lesson we were given from childhood: do not speak to strangers, do not invite yourself into another’s troubles. We learnt to fold our warmth inward, to guard against the world. Protection, yes — but also distance.”
 
 Vincent interjected, with his characteristic exaggeration: “It’s driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
