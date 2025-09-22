@@ -179,4 +179,10 @@ My friends, sensing the friction though not the words, asked if I was in trouble
 
 ## Epilogue
 
-Tomorrow my friends would awaken from this dream and step lightly back into their lives. I, however, must go on with it — hoping that, in time, it will thin to vapour and drift away as a *cloud* of its own.
+Tomorrow my friends would wake from this dream. Eastford is a journey.
+
+For me, it was a homecoming that pressed its weight upon me with every familiar sound and gesture. The city did not let me drift as a guest; it claimed me, reminded me that I once belonged entirely to its rhythm.
+
+I cannot simply lay it down, nor would I wish to erase it. Yet I yearn for the day when memory loosens its grip.
+
+Perhaps then it will rise quietly, as a cloud rises, carrying with it all that cannot be said. And I, watching it drift, may at last step forward, unbound yet not bereft.
