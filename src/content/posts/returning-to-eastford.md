@@ -113,9 +113,13 @@ Eventually, Minh pleaded as well, “Mark, take us anywhere, even across to the 
 
 Eastford and Newbridge have long existed as contrasts on the same map. Newbridge, a patchwork of rural settlements, remained marked by scarcity — modest schools, little English spoken, and the lingering sense of distance. Eastford, by contrast, gathered itself into towers and tunnels, a city wound tight with glass and steel.
 
-We boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Newbridge*, in which the heroine escaped the suffocation of the Newbridge by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
+We boarded the new high-speed rail to Newbridge. I thought of a film once popular, Crossing Newbridge, in which the heroine escaped the suffocation of her rural hometown by slipping into Eastford and gasping the air of freedom. In the story she was a schoolgirl from the edge of the fields, her English broken, her shoes worn thin. 
 
-Once there, we were struck by the contrast. The streets teemed with groups — colleagues sneaking out for milk tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
+She learnt to navigate the tunnels, to read the codes of the city, to talk her way into jobs and out of debt. She met people from every walk of life — traders, dreamers, hustlers — each encounter teaching her another rule of the metropolis. By the end she had carved a place for herself, smartly dressed, fluent in English, gazing from the top floor of a glass tower with a mixture of pride and disbelief. The city had opened the world for her.
+
+And now here we were, three travellers on the same line but in reverse, fleeing Eastford for Newbridge — and finding air that felt, in its way, freer.
+
+The streets teemed with groups — colleagues sneaking out for tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
 
 “Good heavens, she smiled at me!” Vincent exclaimed. A modest, slightly plump young woman had glanced our way and, catching his gaze, blushed and smiled before walking on. He was radiant.
 
