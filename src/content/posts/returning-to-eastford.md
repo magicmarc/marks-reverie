@@ -77,7 +77,7 @@ But Minh pressed on: “Even amongst themselves, I sense little exchange. Yes, t
 
 I shook my head and pointed across the street at a young couple laughing together. “See? They do talk.”  
 
-Minh gaze lingered on a couple laughing softly as they walked past.
+Minh gaze lingered on the couple as they walked past.
 
 “They burn so brightly within their own little world,” he murmured, “yet the flame seems to reach no further. Beyond their circle, the air grows cold — there is no bridge to the outside.”
 
