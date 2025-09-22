@@ -85,9 +85,11 @@ I sighed. “That is the lesson we were given from childhood: do not speak to st
 
 Vincent interjected, with his characteristic exaggeration: “It’s a dystopia and it's driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
-Eventually, Minh pleaded as well, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
+Eventually, Minh pleaded as well, “Mark, take us anywhere, even across to the Newbridge. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
 
 ## The Escape
+
+Eastford and Newbridge have long existed as contrasts on the same map. Newbridge, a patchwork of rural settlements, remained marked by scarcity — modest schools, little English spoken, and the lingering sense of distance. Eastford, by contrast, gathered itself into towers and tunnels, a city wound tight with glass and steel.
 
 We boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Newbridge*, in which the heroine escaped the suffocation of the Newbridge by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
 
