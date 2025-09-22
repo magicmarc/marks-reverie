@@ -1,6 +1,6 @@
 ---
 title: "Returning to Eastford - a 'Homecoming'"
-excerpt: "A journey back to a city once called home, seen anew through the eyes of foreign friends — with all its details, contrasts, and burdens."
+excerpt: "A journey back to a city once called home, seen anew through the eyes of foreign friends - with all its details, contrasts, and burdens."
 publishedAt: "2025-09-22"
 readTime: 18
 tags: ["travel", "culture", "reflection", "memoir"]
@@ -11,15 +11,15 @@ slug: "returning-to-eastford-complete"
 
 Before moving to Australia, I lived in **Eastford**. 
 
-The city shaped me in countless ways — its relentless rhythm and its curious balance of warmth and reserve. Time and distance softened my memories, yet Eastford remained imprinted on me like an old watermark.
+The city shaped me in countless ways - its relentless rhythm and its curious balance of warmth and reserve. Time and distance softened my memories, yet Eastford remained imprinted on me like an old watermark.
 
-Years later, I returned — not alone, but with two Australian friends: **Vincent**, of European background, and **Minh**, whose family roots are in Vietnam. For me it was a homecoming; for them it was an adventure into the unknown.
+Years later, I returned - not alone, but with two Australian friends: **Vincent**, of European background, and **Minh**, whose family roots are in Vietnam. For me it was a homecoming; for them it was an adventure into the unknown.
 
-**Vincent** carried himself with the easy swagger of a man accustomed to being noticed. Broad-shouldered and sun-bronzed from weekends on the golf course, he had the kind of effortless charm that turned heads when he entered a room. His laugh was warm and unrestrained, his gestures expansive, and he spoke with the confidence of someone who trusted his own footing in the world. At times that confidence edged towards cockiness, yet never in a way that repelled; rather, it lent him a boyish bravado that people found disarming. Handsome and magnetic, he moved through life as though every encounter were a chance to play to the crowd — and more often than not, the crowd was glad of it.
+**Vincent** carried himself with the easy swagger of a man accustomed to being noticed. Broad-shouldered and sun-bronzed from weekends on the golf course, he had the kind of effortless charm that turned heads when he entered a room. His laugh was warm and unrestrained, his gestures expansive, and he spoke with the confidence of someone who trusted his own footing in the world. At times that confidence edged towards cockiness, yet never in a way that repelled; rather, it lent him a boyish bravado that people found disarming. Handsome and magnetic, he moved through life as though every encounter were a chance to play to the crowd - and more often than not, the crowd was glad of it.
 
-**Minh**, by contrast, seemed carved from quieter stone. His frame was slighter, and though he spoke less often, his words carried the weight of careful thought. He had the air of someone who read poetry in cafés and sketched in notebooks during train rides, not to impress but to make sense of the world. His eyes lingered where others passed over — on the pattern of light across a tiled wall, on the unspoken tension in a waiter’s smile. Where Vincent was certain, Minh was tentative; where Vincent pressed forward, Minh observed. Yet his introspection was not timidity but a form of attentiveness, a way of catching details the rest of us were too hurried to see.
+**Minh**, by contrast, seemed carved from quieter stone. His frame was slighter, and though he spoke less often, his words carried the weight of careful thought. He had the air of someone who read poetry in cafés and sketched in notebooks during train rides, not to impress but to make sense of the world. His eyes lingered where others passed over - on the pattern of light across a tiled wall, on the unspoken tension in a waiter’s smile. Where Vincent was certain, Minh was tentative; where Vincent pressed forward, Minh observed. Yet his introspection was not timidity but a form of attentiveness, a way of catching details the rest of us were too hurried to see.
 
-Having landed in Eastford, at first they were both enchanted — dazzled by the food, the glittering harbour lights, the ceaseless vitality of the streets. 
+Having landed in Eastford, at first they were both enchanted - dazzled by the food, the glittering harbour lights, the ceaseless vitality of the streets. 
 
 But by the third day, Minh admitted that something about the city unsettled him. Soon after, Vincent quipped, half in jest, “I think I’ve lost my superpowers here.”
 
@@ -31,9 +31,9 @@ Both explained that in Australia, their sense of direction was impeccable. Havin
 
 But for them, deprived of street-level landmarks and the sun’s rising and setting as their compass, this subterranean shuttling through shopping malls and escalators was maddening.
 
-Vincent stopped in the middle of the concourse, map unfolded like a battle plan in his hands. The ceiling hummed with neon light, escalators crisscrossed in every direction, and commuters streamed past as if they alone knew the secret code. He gave a half-laugh, half-growl. “This isn’t a city, Mark — it’s a maze designed to break your pride. Back home I could drive blindfolded and still find my way. Here I can’t even tell where the sky is.” 
+Vincent stopped in the middle of the concourse, map unfolded like a battle plan in his hands. The ceiling hummed with neon light, escalators crisscrossed in every direction, and commuters streamed past as if they alone knew the secret code. He gave a half-laugh, half-growl. “This isn’t a city, Mark - it’s a maze designed to break your pride. Back home I could drive blindfolded and still find my way. Here I can’t even tell where the sky is.” 
 
-Minh, meanwhile, stood quietly at the edge of the concourse, his eyes tracing the tiled walls and mirrored ceilings as if they were verses to be read. Where Vincent cursed the loss of the sky, Minh murmured, almost to himself, “It feels like walking inside someone else’s design for the world — a place where direction is borrowed, never owned.”
+Minh, meanwhile, stood quietly at the edge of the concourse, his eyes tracing the tiled walls and mirrored ceilings as if they were verses to be read. Where Vincent cursed the loss of the sky, Minh murmured, almost to himself, “It feels like walking inside someone else’s design for the world - a place where direction is borrowed, never owned.”
 
 I reassured them: “Here you don’t need direction. Just follow the signs.” Minh looked genuinely shocked.
 
@@ -43,22 +43,22 @@ I reassured them: “Here you don’t need direction. Just follow the signs.” 
 
 Vincent was troubled by something else. He remarked that the women of Eastford were strikingly beautiful, impeccably dressed, yet not once had one smiled at him.
 
-I rolled my eyes. “Really, Vincent? You’re being absurdly self-assured. Why on earth should they smile at you simply because you’re foreign? You’re not special here — Eastford has seen plenty of Western faces.”
+I rolled my eyes. “Really, Vincent? You’re being absurdly self-assured. Why on earth should they smile at you simply because you’re foreign? You’re not special here - Eastford has seen plenty of Western faces.”
 
 I was ready to give him a lecture, but Minh surprised me by agreeing. “Yes. I’ve noticed the same. People are polite, service is efficient, but no one looks at me as if I matter. It’s as though I’m invisible.”
 
-That struck me. In Australia, even when you buy a coffee, the barista will exchange a few warm words. In Eastford, the cup is handed over promptly, efficiently — and that is that.
+That struck me. In Australia, even when you buy a coffee, the barista will exchange a few warm words. In Eastford, the cup is handed over promptly, efficiently - and that is that.
 
-Vincent then nodded towards a young woman nearby. “Look at her — she’s stunning, yet her eyes are empty.”
+Vincent then nodded towards a young woman nearby. “Look at her - she’s stunning, yet her eyes are empty.”
 
 Minh’s gaze lingered longer than Vincent’s. Where Vincent saw only emptiness, Minh seemed to search for the story behind her silence. “It isn’t that her eyes are empty,” he said softly, “it’s that they’re guarded. As if every glance has been rehearsed, every expression weighed.”
 
-I looked again. To me, it wasn’t glass or armour, but fatigue — the kind that seeps in after too many hours beneath fluorescent light, after too many days spent measuring words and appearances. She was simply dressed as an office worker, nothing more, nothing less.
+I looked again. To me, it wasn’t glass or armour, but fatigue - the kind that seeps in after too many hours beneath fluorescent light, after too many days spent measuring words and appearances. She was simply dressed as an office worker, nothing more, nothing less.
 
 
 “That’s just professional attire,” I explained. “Here, looking polished is part of the job. Men wear suits and ties, women wear dresses, heels, a touch of make-up. It’s not about self-expression, it’s about professionalism. In fact, our HR departments issue very specific dress codes: what fabrics are acceptable, what colour lipstick, even the height of heels.”
 
-I paused, remembering. “I once wore a shirt that had faded slightly from too many washes — and my boss scolded me for looking careless. And I still recall my first interview in Australia: I arrived in a full suit and tie, only to find the interviewer in a short-sleeved shirt. The whole office was dressed casually, and I was the only one in a suit. You can imagine my embarrassment.”
+I paused, remembering. “I once wore a shirt that had faded slightly from too many washes - and my boss scolded me for looking careless. And I still recall my first interview in Australia: I arrived in a full suit and tie, only to find the interviewer in a short-sleeved shirt. The whole office was dressed casually, and I was the only one in a suit. You can imagine my embarrassment.”
 
 They both stared in disbelief.
 
@@ -78,13 +78,13 @@ I introduced them to **Edward**, a long-settled Englishman, and **Julien**, visi
 
 As the night deepened and the glasses refilled, Edward leaned back with a sly grin.
 
-“At university I lived in a frat house for a year — absolute madness. Once the seniors decided the initiates had to carry a canoe through the dining hall during breakfast, chanting hymns while everyone else pelted us with cereal. I reeked of milk for a week. My parents, when they heard, only laughed and said, ‘That’s what you get for joining them.’”
+“At university I lived in a frat house for a year - absolute madness. Once the seniors decided the initiates had to carry a canoe through the dining hall during breakfast, chanting hymns while everyone else pelted us with cereal. I reeked of milk for a week. My parents, when they heard, only laughed and said, ‘That’s what you get for joining them.’”
 
-Julien slapped the table, grinning. “Ah, the same for me in Bordeaux! I stole a sip of claret from my uncle’s glass, swore I was fine — then toppled over before dessert. My father made a toast to it.”
+Julien slapped the table, grinning. “Ah, the same for me in Bordeaux! I stole a sip of claret from my uncle’s glass, swore I was fine - then toppled over before dessert. My father made a toast to it.”
 
 The two of them laughed, shoulders shaking, swapping anecdotes of seaside summers and schoolyard pranks as if they belonged to a gentler world. For a moment the bar dissolved. Vincent and Minh listened, half enchanted, as though watching through glass a life that had never been theirs.
 
-Edward and Julien spoke animatedly about their lives, but when asked whether they had local friends, Edward shrugged — “Not really. We just have different ways.” Julien explained he was often between Europe and Eastford, with little time for deeper ties.
+Edward and Julien spoke animatedly about their lives, but when asked whether they had local friends, Edward shrugged - “Not really. We just have different ways.” Julien explained he was often between Europe and Eastford, with little time for deeper ties.
 
 On our way back to the hotel, Vincent burst out: “They know nothing of the locals! They live entirely inside an English-speaking bubble.”
 
@@ -100,9 +100,9 @@ I shook my head and pointed across the street at a young couple laughing togethe
 
 Minh gaze lingered on the couple as they walked past.
 
-“They burn so brightly within their own little world,” he murmured, “yet the flame seems to reach no further. Beyond their circle, the air grows cold — there is no bridge to the outside.”
+“They burn so brightly within their own little world,” he murmured, “yet the flame seems to reach no further. Beyond their circle, the air grows cold - there is no bridge to the outside.”
 
-I sighed. “That is the lesson we were given from childhood: do not speak to strangers, do not invite yourself into another’s troubles. We learnt to fold our warmth inward, to guard against the world. Protection, yes — but also distance.”
+I sighed. “That is the lesson we were given from childhood: do not speak to strangers, do not invite yourself into another’s troubles. We learnt to fold our warmth inward, to guard against the world. Protection, yes - but also distance.”
 
 Vincent interjected, with his characteristic exaggeration: “It’s a dystopia and it's driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
@@ -110,27 +110,27 @@ Eventually, Minh pleaded as well, “Mark, take us anywhere, even across to the 
 
 ## The Escape
 
-Eastford and Newbridge have long existed as contrasts on the same map. Newbridge, a patchwork of rural settlements, remained marked by scarcity — modest schools, little English spoken, and the lingering sense of distance. Eastford, by contrast, gathered itself into towers and tunnels, a city wound tight with glass and steel.
+Eastford and Newbridge have long existed as contrasts on the same map. Newbridge, a patchwork of rural settlements, remained marked by scarcity - modest schools, little English spoken, and the lingering sense of distance. Eastford, by contrast, gathered itself into towers and tunnels, a city wound tight with glass and steel.
 
 We boarded the new high-speed rail to Newbridge. I thought of a film once popular, Crossing Newbridge, in which the heroine escaped the suffocation of her rural hometown by slipping into Eastford and gasping the air of freedom. In the story she was a schoolgirl from the edge of the fields, her English broken, her shoes worn thin. 
 
-She learnt to navigate the tunnels, to read the codes of the city, to talk her way into jobs and out of debt. She met people from every walk of life — traders, dreamers, hustlers — each encounter teaching her another rule of the metropolis. By the end she had carved a place for herself, smartly dressed, fluent in English, gazing from the top floor of a glass tower with a mixture of pride and disbelief. The city had opened the world for her.
+She learnt to navigate the tunnels, to read the codes of the city, to talk her way into jobs and out of debt. She met people from every walk of life - traders, dreamers, hustlers - each encounter teaching her another rule of the metropolis. By the end she had carved a place for herself, smartly dressed, fluent in English, gazing from the top floor of a glass tower with a mixture of pride and disbelief. The city had opened the world for her.
 
-And now here we were, three travellers on the same line but in reverse, fleeing Eastford for Newbridge — and finding air that felt, in its way, freer.
+And now here we were, three travellers on the same line but in reverse, fleeing Eastford for Newbridge - and finding air that felt, in its way, freer.
 
-The streets teemed with groups — colleagues sneaking out for tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
+The streets teemed with groups - colleagues sneaking out for tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
 
 “Good heavens, she smiled at me!” Vincent exclaimed. A modest, slightly plump young woman had glanced our way and, catching his gaze, blushed and smiled before walking on. He was radiant.
 
-Over lunch, the waiter enthusiastically described each dish — even though he must have known we barely understood a word. Still, he wanted us to feel part of the meal, pointing out ingredients, gesturing with delight.  
+Over lunch, the waiter enthusiastically described each dish - even though he must have known we barely understood a word. Still, he wanted us to feel part of the meal, pointing out ingredients, gesturing with delight.  
 
-“Do you feel it, Mark?” Minh said excitedly. “Even without language, he wanted to share something with us — not merely perform a duty.”
+“Do you feel it, Mark?” Minh said excitedly. “Even without language, he wanted to share something with us - not merely perform a duty.”
 
 When we left, the young waiter waved vigorously, sensing we did not understand his words but eager to leave us with warmth. Minh waved back with equal force.  
 
 Indeed, willingness to connect mattered more than the tools of communication.  
 
-Vincent shook his head, still puzzled. “I don’t quite understand what’s happening here — why it feels so different.”
+Vincent shook his head, still puzzled. “I don’t quite understand what’s happening here - why it feels so different.”
 
 Minh, however, stretched like a man on holiday. “Whatever it is, it feels like a break, as if we’ve slipped into some unexpected vacation.”
 
@@ -154,7 +154,7 @@ When he asked if my friends had enjoyed the city, I admitted, “They find it a 
 
 “You’re not wrong,” he replied after a pause, eyes fixed on the stream of headlights ahead. “Out in the villages, people still left their doors open; neighbours borrowed rice without asking, quarrelled loudly, then shared a drink the next day. In the city, we bolt our gates, and even when we smile, we measure the cost. Everyone is wary, always calculating, as if survival depended on suspicion.”
 
-He drummed his fingers on the wheel, then added more softly, “And yet… look around. Where else could a man find work to raise his children, schools to push them further than we ever went? The city suffocates you, yes, but it also feeds you. We curse it every morning and still cling to it at night. That’s the truth of Eastford — it bruises you, and still you can’t let go.”
+He drummed his fingers on the wheel, then added more softly, “And yet… look around. Where else could a man find work to raise his children, schools to push them further than we ever went? The city suffocates you, yes, but it also feeds you. We curse it every morning and still cling to it at night. That’s the truth of Eastford - it bruises you, and still you can’t let go.”
 
 My friends listened from the back seat, delighted to hear such a torrent of local words, even if they couldn’t understand them.
 
@@ -168,11 +168,11 @@ On our last day, at the airport, Clara at the check-in desk treated my friends w
 
 At last the papers were in order. My friends prepared to leave the desk when Clara leaned in, eyes fierce beneath her immaculate make-up, and said in Eastfordian: “Be clever out there, Eastford boy.” Her tone was sharp, almost scolding, and her gaze cut through me like a reprimand. For a moment I felt like a schoolboy caught misbehaving, shrinking under her authority.
 
-Yet beneath the lacquer of impatience there was something else — a tightness in her voice, a flicker that betrayed more than annoyance. It was not only irritation at my fumbling papers, but a kind of guarded care. As though she wanted to say: I cannot protect you, so you must protect yourself.
+Yet beneath the lacquer of impatience there was something else - a tightness in her voice, a flicker that betrayed more than annoyance. It was not only irritation at my fumbling papers, but a kind of guarded care. As though she wanted to say: I cannot protect you, so you must protect yourself.
 
-Her words carried the bluntness of Eastford — affection disguised as severity, concern wrapped in command. In that instant I sensed she was not merely pushing me away, but willing me forward, hoping that abroad I might wrestle my way into a better life.
+Her words carried the bluntness of Eastford - affection disguised as severity, concern wrapped in command. In that instant I sensed she was not merely pushing me away, but willing me forward, hoping that abroad I might wrestle my way into a better life.
 
-Her eyes bulged with an intensity that could be read as warning, encouragement, or threat — but I knew it was, in its own rough Eastfordian way, a blessing. 
+Her eyes bulged with an intensity that could be read as warning, encouragement, or threat - but I knew it was, in its own rough Eastfordian way, a blessing. 
 
 My friends, sensing the friction though not the words, asked if I was in trouble. I forced a smile. “This is simply how we Eastfordian speak to one another.” They shuddered visibly at the thought.
 
