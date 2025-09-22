@@ -103,7 +103,7 @@ Indeed, willingness to connect mattered more than the tools of communication.
 
 “We are so happy,” they both said with wonder, as though the air itself had changed.
 
-## An Honest Driver
+## Eastfordian Buddha
 
 Back in Eastford, on our way to the great Buddha, we took a taxi. I sat up front with Mr. Chan, who chatted in Eastfordian about his family, his children’s schooling, and the hardships of city life.
 
@@ -117,7 +117,7 @@ My friends listened from the back seat, delighted to hear such a torrent of hear
 
 Minh was thrilled to witness, for the first time, an Eastfordian conversation alive with passion.
 
-## The Final Encounter
+## A Warm Farewell
 
 On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared, digging frantically through my phone until I produced the PDF.
 
