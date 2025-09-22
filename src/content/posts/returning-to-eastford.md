@@ -11,7 +11,7 @@ slug: "returning-to-eastford-complete"
 
 Before moving to Australia, I lived in **Eastford**. 
 
-The city shaped me in countless ways — its relentless rhythm, its understated courtesies, its curious balance of warmth and reserve. Time and distance softened my memories, yet Eastford remained imprinted on me like an old watermark.
+The city shaped me in countless ways — its relentless rhythm and its curious balance of warmth and reserve. Time and distance softened my memories, yet Eastford remained imprinted on me like an old watermark.
 
 Years later, I returned — not alone, but with two Australian friends: **Vincent**, of European background, and **Minh**, whose family roots are in Vietnam. For me it was a homecoming; for them it was an adventure into the unknown.
 
@@ -31,7 +31,7 @@ I reassured them: “Here you don’t need direction. Just follow the signs.” 
 
 “How can life be lived without direction?” he asked, half-serious. We laughed, though the unease lingered.
 
-## Cold Faces
+## Connections
 
 Vincent was troubled by something else. He remarked that the women of Eastford were strikingly beautiful, impeccably dressed, yet not once had one smiled at him.
 
@@ -83,11 +83,11 @@ I sighed. “Yes. That’s how our parents raised us.”
 
 Vincent interjected, with his characteristic exaggeration: “It’s driving me mad. Get us out of here, Mark. Anywhere else. Please.”
 
-## Crossing to Newbridge
+## Escaping Mainland
 
 Eventually, Minh pleaded, “Mark, take us anywhere, even across to the mainland. I need to breathe.” Vincent nodded: “Yes, I want to see the sun again.”
 
-So we boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Spring*, in which the heroine escaped the suffocation of the mainland by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
+So we boarded the new high-speed rail to Newbridge. I thought of a film once popular, *Crossing Mainland*, in which the heroine escaped the suffocation of the mainland by slipping into Eastford and gasping the air of freedom. Yet here we were, three travellers, fleeing in the opposite direction — and finding air that felt, in its way, freer.
 
 Once there, we were struck by the contrast. The streets teemed with groups — colleagues sneaking out for milk tea, friends laughing and jostling, not just couples or families but whole clusters of people enjoying each other’s company.
 
@@ -113,11 +113,13 @@ When he asked if my friends had enjoyed the city, I admitted, “They find it a 
 
 My friends listened from the back seat, delighted to hear such a torrent of heartfelt words, even if they couldn’t understand them.
 
+"Good job, Mark." 
+
+Minh was thrilled to witness, for the first time, an Eastfordian conversation alive with passion.
+
 ## The Final Encounter
 
 On our last day, at the airport, Clara at the check-in desk treated my friends with cold professionalism, yet when she turned to my Eastford passport, her tone sharpened. She demanded proof of my visa with such severity that I fumbled like a schoolboy caught unprepared, digging frantically through my phone until I produced the PDF.
-
-She frowned. “Your baggage form is wrong. Rewrite it.” I scrambled, feeling like a child who had failed to finish his homework.  
 
 At last the papers were in order. My friends prepared to leave the desk when Clara leaned in, eyes fierce beneath her immaculate make-up, and said in Eastfordian: “Be clever out there, Eastford boy.” Her eyes bulged with an intensity that could be read as warning, encouragement, or threat.  
 
