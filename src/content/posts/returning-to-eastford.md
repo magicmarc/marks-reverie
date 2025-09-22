@@ -158,9 +158,9 @@ He drummed his fingers on the wheel, then added more softly, “And yet… look 
 
 My friends listened from the back seat, delighted to hear such a torrent of local words, even if they couldn’t understand them.
 
-"Good job, Mark." 
+“Good job, Mark,” Vincent grinned, giving me a playful nudge.
 
-Minh was thrilled to witness, for the first time, an Eastfordian conversation alive with passion.
+Minh’s eyes shone. For the first time he was watching an Eastfordian conversation carried with such fire, and he took it as proof of warmth. To them it was a moment of connection — a doorway cracked open at last. They smiled, believing they had glimpsed the city’s hidden heart, never realising that beneath the driver’s passion lay a harsher truth.
 
 ## A Warm Farewell
 
