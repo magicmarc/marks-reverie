@@ -1,5 +1,5 @@
 ---
-title: "Returning to Eastford - a 'Homecoming'"
+title: "Returning to Eastford: a 'Homecoming'"
 excerpt: "A journey back to a city once called home, seen anew through the eyes of foreign friends - with all its details, contrasts, and burdens."
 publishedAt: "2025-09-22"
 readTime: 18
@@ -7,7 +7,7 @@ tags: ["travel", "culture", "reflection", "memoir"]
 slug: "returning-to-eastford-complete"
 ---
 
-# Returning to Eastford - a 'Homecoming'
+# Returning to Eastford: a 'Homecoming'
 
 Before moving to Australia, I lived in **Eastford**. 
 
