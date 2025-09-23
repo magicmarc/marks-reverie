@@ -9,11 +9,11 @@ slug: "wedding-at-olinda-teahouse"
 
 # A Wedding at Olinda Teahouse
 
-At Olinda Teahouse, the ceremony began not with solemn chords, but with the violinist suddenly playing Taylor Swift.  
+At Olinda Teahouse, the ceremony began not with solemn chords, but with the violinist suddenly playing a super pop song.  
 
 Ray leaned towards Sarah, smirking.  
 
-"Not on the schedule, but I suppose physics has nothing on *Love Story*."  
+"I suppose physics has nothing on *Love Story*."  
 
 Sarah, radiant and utterly at ease, clapped along and waved at the crowd. She even hugged a waitress as if they were lifelong friends. 
 

@@ -180,7 +180,7 @@ My friends, sensing the friction though not the words, asked if I was in trouble
 
 ## Epilogue
 
-Tomorrow my friends would wake from this dream. Eastford is a journey.
+Tomorrow my friends would wake from this dream. Eastford was a journey.
 
 Yet for me, it was a homecoming that pressed its weight upon me with every familiar sound and gesture. The city did not let me drift as a guest; it claimed me, reminded me that I once belonged entirely to its rhythm.
 
