@@ -31,7 +31,7 @@ The group laughed, and all eyes turned to Michael. Tall, steady, quietly smiling
 
 “Except in real life, you fall. A lot.”
 
-The timing was perfect. Everyone burst out laughing, Brina included. It was them in a nutshell—she, the spark and the storyteller; he, the quiet anchor whose rare comments landed with unexpected humour. Together they were a picture of contrasts, bound by anime marathons, bouldering weekends, and their own rhythm.  
+The timing was perfect. Everyone burst out laughing, Brina included. It was them in a nutshell: she, the spark and the storyteller; he, the quiet anchor whose rare comments landed with unexpected humour. Together they were a picture of contrasts, bound by anime marathons, bouldering weekends, and their own rhythm.  
 
 ## Gracie and Walter
 
@@ -41,7 +41,7 @@ Walter, tall and solid, studied the pastries with surprising care. Gracie, small
 
 "The pâte à choux has collapsed a little," Gracie murmured.  
 
-"And the ganache—un peu trop liquide," Walter replied gravely.  
+"And the ganache...un peu trop liquide," Walter replied gravely.  
 
 I blinked. "The what?"  
 
@@ -63,7 +63,7 @@ Then came Steph, tipsy and sprawling on the floor. "I'm the disco ball!"
 
 Sarah dropped down beside her, giggling. "Perfect! Don't move - we just need ABBA."  
 
-Cue *Dancing Queen*. The floor erupted. Brina dragged a blushing Michael into the circle; Walter shuffled with surprising grace, Gracie laughing beside him. Even Ray joined in, quipping mid-spin: "Newton never said anything about standing still."  
+Cue *Dancing Queen*. The floor erupted. Brina dragged a blushing Michael into the circle; Walter enjoyed the music, Gracie laughing beside him. Even Ray joined in, quipping mid-spin: "Newton never said anything about standing still."  
 
 
 ## Me
