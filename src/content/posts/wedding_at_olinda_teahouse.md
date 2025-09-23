@@ -59,12 +59,13 @@ Her brother quietly stepped up, steadying both his father and the microphone. To
 
 ## The Dance Floor
 
-Then came Steph, tipsy and sprawling on the floor. "I'm the disco ball!"  
+Steph was well past tipsy, swaying dramatically with her arms in the air, then suddenly dropping to the floor with a flourish. She rolled onto her back, giggling uncontrollably, and announced, “Look at me! I’m spinning, I’m the disco ball!”
 
-Sarah dropped down beside her, giggling. "Perfect! Don't move - we just need ABBA."  
+Sarah’s eyes lit up; she crouched beside Steph, clapping her hands in delight. “This is perfect—you are the disco ball!” she laughed. “All we need now is *ABBA*!”
 
-Cue *Dancing Queen*. The floor erupted. Brina dragged a blushing Michael into the circle; Walter enjoyed the music, Gracie laughing beside him. Even Ray joined in, quipping mid-spin: "Newton never said anything about standing still."  
+Right on cue, Dancing Queen roared through the speakers. The dance floor erupted into cheers. Brina tugged Michael into the circle, Gracie and Walter joined with easy smiles, and even Ray was swept along. 
 
+He threw in an exaggerated twirl and called out: “Careful, folks—if I spin any faster, we’ll need peer review!”
 
 ## Me
 
