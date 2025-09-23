@@ -11,9 +11,7 @@ slug: "wedding-at-olinda-teahouse"
 
 At Olinda Teahouse, the ceremony began not with solemn chords, but with the violinist suddenly playing a super pop song.  
 
-Ray leaned towards Sarah, smirking.  
-
-"I suppose physics has nothing on *Love Story*."  
+Ray leaned towards Sarah, smirking. "I suppose physics has nothing on *Love Story*."  
 
 Sarah, radiant and utterly at ease, clapped along and waved at the crowd. She even hugged a waitress as if they were lifelong friends. 
 
@@ -21,17 +19,11 @@ That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmati
 
 ## Brina and Michael
 
-By the canapé table, Brina crouched with a canapé in hand, coaxing the resident peacock closer.  
+By the canapé table, Brina crouched with a canapé in hand, coaxing the resident peacock closer. "Look, Michael, he likes you!"  
 
-"Look, Michael, he likes you!"  
+Michael, tall and broad-shouldered, shifted nervously. "I think he's, um… charging."  
 
-Michael, tall and broad-shouldered, shifted nervously.  
-
-"I think he's, um… charging."  
-
-His voice was unexpectedly soft, almost apologetic. The bird fanned its feathers, and Brina stepped forward, laughing.  
-
-"Don't mind him — Michael's too gentle to shoo it away."  
+His voice was unexpectedly soft, almost apologetic. The bird fanned its feathers, and Brina stepped forward, laughing. "Don't mind him — Michael's too gentle to shoo it away."  
 
 It was classic them: Brina speaking for two, lively and outward, while Michael stood as the quiet anchor—gentle, patient, and steady. Together they were a picture of contrasts, bound by anime marathons, bouldering weekends, and research projects.  
 
@@ -45,9 +37,7 @@ Walter, tall and solid, studied the pastries with surprising care. Gracie, small
 
 "And the ganache—un peu trop liquide," Walter replied gravely.  
 
-I blinked.
-
-"The what?"  
+I blinked. "The what?"  
 
 They both laughed, instantly explaining. 
 
@@ -58,20 +48,14 @@ They spoke softly, but their connection was unmistakable—woven from flour, sug
 
 ## The Dance Floor
 
-Then came Steph, tipsy and sprawling on the floor.  
+Then came Steph, tipsy and sprawling on the floor. "I'm the disco ball!"  
 
-"I'm the disco ball!"  
+Sarah dropped down beside her, giggling. "Perfect! Don't move—we just need ABBA."  
 
-Sarah dropped down beside her, giggling.  
-
-"Perfect! Don't move—we just need ABBA."  
-
-Cue *Dancing Queen*. The floor erupted. Brina dragged a blushing Michael into the circle; Walter shuffled with surprising grace, Gracie laughing beside him. Even Ray joined in, quipping mid-spin:  
-
-"Newton never said anything about standing still."  
+Cue *Dancing Queen*. The floor erupted. Brina dragged a blushing Michael into the circle; Walter shuffled with surprising grace, Gracie laughing beside him. Even Ray joined in, quipping mid-spin: "Newton never said anything about standing still."  
 
 
-## Reflection
+## Me
 
 I stood back, half amused, half moved. These weren’t random quirks: Sarah embracing strangers, Ray balancing humour with order; Brina giving voice to Michael’s gentle quiet; Gracie and Walter carrying their soft rhythm across continents.  
 
