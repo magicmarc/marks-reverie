@@ -1,3 +1,12 @@
+---
+title: "A Wedding at Olinda Teahouse"
+excerpt: "A lighthearted yet thoughtful vignette of Ray and Sarah’s wedding in the Dandenong Ranges—where contrasts, quirks, and joy intertwined."
+publishedAt: "2025-09-23"
+readTime: 12
+tags: ["wedding", "friends", "reflection", "memoir"]
+slug: "wedding-at-olinda-teahouse"
+---
+
 # A Wedding at Olinda Teahouse
 
 At Olinda Teahouse, the ceremony began not with solemn chords, but with the violinist suddenly playing Taylor Swift.  
