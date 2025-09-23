@@ -17,7 +17,7 @@ Gasps turned to laughter, and the crowd blinked in disbelief. Just then, **Sarah
 
 The guests erupted. A few children jumped up, cheering, “Jedi bride! Jedi bride!” Sarah raised the saber skyward like a rock star summoning her audience, then began waving it in time with the music. Within seconds she had half the room clapping and singing, transforming the ceremony into a full-blown festival.
 
-*Ray*, standing calmly beside her, smirked at the spectacle. "I suppose physics has nothing on *Love Story*." And with that, even he cracked a grin, the pragmatic groom swept into the chaos of Sarah’s galaxy.
+**Ray**, standing calmly beside her, smirked at the spectacle. "I suppose physics has nothing on *Love Story*." And with that, even he cracked a grin, the pragmatic groom swept into the chaos of Sarah’s galaxy.
 
 That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmatic, making sure everything held together—yet never missing the chance to deliver a perfectly timed quip.
 
