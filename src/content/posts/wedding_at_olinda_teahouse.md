@@ -11,7 +11,7 @@ slug: "wedding-at-olinda-teahouse"
 
 At first, the air was pure reverence. The violinist’s bow drew out the sacred notes of the wedding march, the guests hushed, backs straight, and even the wind seemed to hold its breath. 
 
-Then **zap**  the solemn air was sliced apart, as if by an electric blade. The violin lit up in flashing neon, and the melody lurched into a thunderous, modern riff. Taylor Swift’s *Love Story* exploded from the strings, part rock concert, part wedding anthem.
+Then - **zap!!** -  the solemn air was sliced apart, as if by an electric blade. The violin lit up in flashing neon, and the melody lurched into a thunderous, modern riff. Taylor Swift’s *Love Story* exploded from the strings, part rock concert, part wedding anthem.
 
 Gasps turned to laughter, and the crowd blinked in disbelief. Just then, **Sarah**, without missing a beat, slid on a pair of mirrored sunglasses, reached beneath her chair, and ignited a glowing Star Wars lightsaber. The humming blade cast a blue sheen across her white dress.
 
