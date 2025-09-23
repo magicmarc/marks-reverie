@@ -55,7 +55,7 @@ Her brother quietly stepped up, steadying both his father and the microphone. To
 
 Then came Steph, tipsy and sprawling on the floor. "I'm the disco ball!"  
 
-Sarah dropped down beside her, giggling. "Perfect! Don't move—we just need ABBA."  
+Sarah dropped down beside her, giggling. "Perfect! Don't move - we just need ABBA."  
 
 Cue *Dancing Queen*. The floor erupted. Brina dragged a blushing Michael into the circle; Walter shuffled with surprising grace, Gracie laughing beside him. Even Ray joined in, quipping mid-spin: "Newton never said anything about standing still."  
 
