@@ -9,13 +9,17 @@ slug: "wedding-at-olinda-teahouse"
 
 # A Wedding at Olinda Teahouse
 
-At Olinda Teahouse, the ceremony began not with solemn chords, but with the violinist suddenly playing a super pop song.  
+At first, the air was pure reverence. The violinist’s bow drew out the sacred notes of the wedding march, the guests hushed, backs straight, and even the wind seemed to hold its breath. 
 
-Ray leaned towards Sarah, smirking. "I suppose physics has nothing on *Love Story*."  
+Then **zap**  the solemn air was sliced apart, as if by an electric blade. The violin lit up in flashing neon, and the melody lurched into a thunderous, modern riff. Taylor Swift’s *Love Story* exploded from the strings, part rock concert, part wedding anthem.
 
-Sarah, radiant and utterly at ease, clapped along and waved at the crowd. She even hugged a waitress as if they were lifelong friends. 
+Gasps turned to laughter, and the crowd blinked in disbelief. Just then, **Sarah**, without missing a beat, slid on a pair of mirrored sunglasses, reached beneath her chair, and ignited a glowing Star Wars lightsaber. The humming blade cast a blue sheen across her white dress.
 
-That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmatic, quietly making sure everything held together, yet never missing a chance for a joke.  
+The guests erupted. A few children jumped up, cheering, “Jedi bride! Jedi bride!” Sarah raised the saber skyward like a rock star summoning her audience, then began waving it in time with the music. Within seconds she had half the room clapping and singing, transforming the ceremony into a full-blown festival.
+
+Ray, standing calmly beside her, smirked at the spectacle. "I suppose physics has nothing on *Love Story*." And with that, even he cracked a grin, the pragmatic groom swept into the chaos of Sarah’s galaxy.
+
+That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmatic, making sure everything held together—yet never missing the chance to deliver a perfectly timed quip.
 
 ## Brina and Michael
 
