@@ -19,13 +19,15 @@ That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmati
 
 ## Brina and Michael
 
-By the canapé table, Brina crouched with a canapé in hand, coaxing the resident peacock closer. "Look, Michael, he likes you!"  
+Brina and Michael had gathered a small circle of guests near the dining table. Brina was in full flow, demonstrating a climbing move with her hands, twisting her body as if an invisible bouldering wall were right in front of her.
 
-Michael, tall and broad-shouldered, shifted nervously. "I think he's, um… charging."  
+“And then - you have to dyno to the top hold like this!” she exclaimed, leaping half a step. “It’s exactly like when Naruto powers up - pure determination!”
 
-His voice was unexpectedly soft, almost apologetic. The bird fanned its feathers, and Brina stepped forward, laughing. "Don't mind him - Michael's too gentle to shoo it away."  
+The group laughed, and all eyes turned to Michael. Tall, steady, quietly smiling, he finally added just one line in his calm voice:
 
-It was classic them: Brina speaking for two, lively and outward, while Michael stood as the quiet anchor—gentle, patient, and steady. Together they were a picture of contrasts, bound by anime marathons, bouldering weekends, and research projects.  
+“Except in real life, you fall. A lot.”
+
+The timing was perfect. Everyone burst out laughing, Brina included. It was them in a nutshell—she, the spark and the storyteller; he, the quiet anchor whose rare comments landed with unexpected humour. Together they were a picture of contrasts, bound by anime marathons, bouldering weekends, and their own rhythm.  
 
 ## Gracie and Walter
 
