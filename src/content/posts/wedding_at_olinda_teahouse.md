@@ -19,7 +19,7 @@ The guests erupted. A few children jumped up, cheering, “Jedi bride! Jedi brid
 
 **Ray**, standing calmly beside her, smirked at the spectacle. "I suppose physics has nothing on *Love Story*." And with that, even he cracked a grin, the pragmatic groom swept into the chaos of Sarah’s galaxy.
 
-That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmatic, making sure everything held together—yet never missing the chance to deliver a perfectly timed quip.
+That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmatic, making sure everything held together - yet never missing the chance to deliver a perfectly timed quip.
 
 ## Brina and Michael
 
