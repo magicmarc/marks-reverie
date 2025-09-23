@@ -27,9 +27,7 @@ Brina and Michael had gathered a small circle of guests near the dining table. B
 
 “And then - you have to dyno to the top hold like this!” she exclaimed, leaping half a step. “It’s exactly like when Naruto powers up - pure determination!”
 
-The group laughed, and all eyes turned to Michael. Tall, steady, quietly smiling, he finally added just one line in his calm voice:
-
-“Except in real life, you fall. A lot.”
+The group laughed, and all eyes turned to Michael. Tall, steady, quietly smiling, he finally added just one line in his calm voice:“Except in real life, you fall. A lot!”
 
 The timing was perfect. Everyone burst out laughing, Brina included. It was them in a nutshell: she, the spark and the storyteller; he, the quiet anchor whose rare comments landed with unexpected humour. Together they were a picture of contrasts, bound by anime marathons, bouldering weekends, and their own rhythm.  
 
