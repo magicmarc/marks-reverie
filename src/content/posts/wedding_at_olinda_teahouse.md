@@ -72,4 +72,4 @@ Later in the evening, Sarah’s mum leaned over to me with a smile and said, alm
 
 Ray, quick as ever, added with a laugh, “The trick is you’ve got to poke him, 'really poke him', if you want any information at all.”
 
-And maybe they were right. I don’t always speak much. But here, through these words, I can offer all the information: the laughter, the details, the small absurdities - that made this wedding so vivid. In writing, I give back what silence kept.
+And maybe they were right. I don’t always speak much. But here, through these words, I can offer all the information: the laughter, the details, the small absurdities - that made this wedding so vivid. 
