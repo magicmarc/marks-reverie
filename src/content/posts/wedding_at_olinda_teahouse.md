@@ -23,7 +23,7 @@ By the canapé table, Brina crouched with a canapé in hand, coaxing the residen
 
 Michael, tall and broad-shouldered, shifted nervously. "I think he's, um… charging."  
 
-His voice was unexpectedly soft, almost apologetic. The bird fanned its feathers, and Brina stepped forward, laughing. "Don't mind him — Michael's too gentle to shoo it away."  
+His voice was unexpectedly soft, almost apologetic. The bird fanned its feathers, and Brina stepped forward, laughing. "Don't mind him - Michael's too gentle to shoo it away."  
 
 It was classic them: Brina speaking for two, lively and outward, while Michael stood as the quiet anchor—gentle, patient, and steady. Together they were a picture of contrasts, bound by anime marathons, bouldering weekends, and research projects.  
 
@@ -43,7 +43,7 @@ They both laughed, instantly explaining.
 
 Their shared love of baking meant they slipped into French pastry terms without noticing. It struck me then: she, a Brisbane native who had followed Walter to Vancouver; he, a Canadian with a quiet presence. 
 
-They spoke softly, but their connection was unmistakable—woven from flour, sugar, and a language of their own.  
+They spoke softly, but their connection was unmistakable - woven from flour, sugar, and a language of their own.  
 
 ## The Speech
 
@@ -64,6 +64,12 @@ Cue *Dancing Queen*. The floor erupted. Brina dragged a blushing Michael into th
 
 I stood back, half amused, half moved. These weren’t random quirks: Sarah embracing strangers, Ray balancing humour with order; Brina giving voice to Michael’s gentle quiet; Gracie and Walter carrying their soft rhythm across continents.  
 
-It made me wonder: do ideal partners mirror us, or complete us? Looking around, I realised the beauty wasn’t in symmetry but in contrast—how laughter and reason, boldness and shyness, warmth and steadiness came together to form a whole.  
+It made me wonder: do ideal partners mirror us, or complete us? Looking around, I realised the beauty wasn’t in symmetry but in contrast: how laughter and reason, boldness and shyness, warmth and steadiness came together to form a whole.  
 
-For the first time, a wedding didn’t feel like a performance. It felt like life itself.  
+For the first time, a wedding didn’t feel like a performance. It felt like life itself.
+
+Later in the evening, Sarah’s mum leaned over to me with a smile and said, almost teasingly, “You’re so quiet, it’s frightening.”
+
+Ray, quick as ever, added with a laugh, “The trick is you’ve got to poke him—really poke him—if you want any information at all.”
+
+And maybe they were right. I don’t always speak much. But here, through these words, I can offer all the information: the laughter, the details, the small absurdities - that made this wedding so vivid. In writing, I give back what silence kept.
