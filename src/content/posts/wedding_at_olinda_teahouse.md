@@ -49,7 +49,7 @@ They spoke softly, but their connection was unmistakable - woven from flour, sug
 
 When it came time for Sarah’s father to speak, it quickly became clear he had celebrated a bit too generously beforehand. His words tangled together, sentences wandering like tipsy footsteps. Laughter rippled through the crowd.  
 
-Her brother quietly stepped up, steadying both his father and the microphone. Together they navigated the speech—half sincere, half comedic duet. Every stumble was met with a cheer, and by the end, the whole room was laughing and clapping. It felt less like a formality and more like a family moment, utterly endearing.  
+Her brother quietly stepped up, steadying both his father and the microphone. Together they navigated the speech - half sincere, half comedic duet. Every stumble was met with a cheer, and by the end, the whole room was laughing and clapping. It felt less like a formality and more like a family moment, utterly endearing.  
 
 ## The Dance Floor
 
