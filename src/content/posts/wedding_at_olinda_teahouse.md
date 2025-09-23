@@ -63,7 +63,7 @@ Sarah’s eyes lit up; she crouched beside Steph, clapping her hands in delight.
 
 Right on cue, Dancing Queen roared through the speakers. The dance floor erupted into cheers. Brina tugged Michael into the circle, Gracie and Walter joined with easy smiles, and even Ray was swept along. 
 
-He threw in an exaggerated twirl and called out: “Careful, folks—if I spin any faster, we’ll need peer review!”
+He threw in an exaggerated twirl and called out: “Careful, folks - if I spin any faster, we’ll need peer review!”
 
 ## Me
 
