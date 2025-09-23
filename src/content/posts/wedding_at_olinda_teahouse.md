@@ -70,6 +70,6 @@ For the first time, a wedding didn’t feel like a performance. It felt like lif
 
 Later in the evening, Sarah’s mum leaned over to me with a smile and said, almost teasingly, “You’re so quiet, it’s frightening.”
 
-Ray, quick as ever, added with a laugh, “The trick is you’ve got to poke him, 'really poke him', if you want any information at all.”
+Ray, quick as ever, added with a laugh, “The trick is you’ve got to poke him, *really poke him*, if you want any information at all.”
 
 And maybe they were right. I don’t always speak much. But here, through these words, I can offer all the information: the laughter, the details, the small absurdities - that made this wedding so vivid. 
