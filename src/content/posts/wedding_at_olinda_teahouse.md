@@ -15,7 +15,9 @@ Ray leaned towards Sarah, smirking.
 
 "Not on the schedule, but I suppose physics has nothing on *Love Story*."  
 
-Sarah, radiant and utterly at ease, clapped along and waved at the crowd. She even hugged a waitress as if they were lifelong friends. That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmatic, quietly making sure everything held together, yet never missing a chance for a joke.  
+Sarah, radiant and utterly at ease, clapped along and waved at the crowd. She even hugged a waitress as if they were lifelong friends. 
+
+That was Sarah: open-hearted, instantly warm. And there was Ray: witty, pragmatic, quietly making sure everything held together, yet never missing a chance for a joke.  
 
 ## Brina and Michael
 
