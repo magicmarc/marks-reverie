@@ -7,13 +7,13 @@ tags: ["sitcom", "fiction", "Sydney"]
 slug: "act-1-dinner-table-chaos"
 ---
 
-Sydney looks glamorous from the outside—harbour views, shiny skyscrapers, beaches that make postcards jealous. But try living here, the cost will eat your soul before breakfast.
+Sydney looks glamorous from the outside - harbour views, shiny skyscrapers, beaches that make postcards jealous. But try living here, the cost will eat your soul before breakfast.
 
-I’m Mark. On paper, I work at a tech company, spreadsheets, presentations, all that. People call me ruthless at work. Truth is, I’m just terrified of mistakes.
+I’m Mark. On paper, I work at a tech company - spreadsheets, presentations, all that. People call me ruthless at work. Truth is, I’m just terrified of mistakes.
 
 Then there’s Amber—my flatmate, my oldest friend, and possibly my loudest critic. She was the girl who once smoked behind the bike sheds and punched her classmates for fun. These days she smokes in my kitchen and bullies me instead. Still, she’s the only reason I haven’t starved to death.
 
-Wai is Will’s mate from tennis—forever sweaty, forever hungry, and forever convinced life’s just one big game. Amber says he needs house-training. She’s probably right.
+Wai is Will’s mate from tennis - forever sweaty, forever hungry, and forever convinced life’s just one big game. Amber says he needs house-training. She’s probably right.
 
 And Will… well. Will’s a nursery teacher. Kind, patient, disgustingly polite. The sort of man who can calm a screaming toddler with a smile. But is he really, though?
 
