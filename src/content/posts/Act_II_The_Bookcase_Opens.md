@@ -9,7 +9,7 @@ slug: "act-2-the-bookcase-opens"
 
 ## Scene: The flat, later that evening
 
-Amber sprawled on the sofa with wine, Wai scrolling his phone, Mark dutifully stacking plates. Will in his room arranging books.
+Amber sprawled on the sofa with wine, Wai scrolling his phone, Mark dutifully stacking plates. Will is in his room arranging books.
 
 **WILL** *(casual, almost too casual)*:  
 Mark, can you come here for a second? I need you to lift the bookcase for me.
@@ -136,16 +136,16 @@ Not until I've had my fill.
 
 *(Mark forces himself through the next figure of the dance, chest tight. But as the dancers part and turn, Elizabeth steps before him. Her gaze lingers too long, sharper than her polite smile. When she takes his hand, her grip is steady, her eyes searching.)*
 
-**ELIZABETH** *(softly, with unsettling clarity)*:
+**ELIZABETH** *(softly, with unsettling clarity)*:  
 You move as though the steps are foreign to you. And your words… they are not of Hertfordshire. Tell me, sir—where do you truly belong?
 
 *(Mark’s breath catches. The candles blur; it feels as if the entire room has hushed to listen. Laughter still rings around him, yet every glance seems trained upon his trembling frame. Elizabeth does not release his hand. Her knowing smile cuts like a blade.)*
 
-**MARK** *(stammering)*:
-I—I… I shouldn’t be here.
+**MARK** *(stammering)*:  
+I—I… I shouldn't be here.
 
-**ELIZABETH** *(leaning closer, voice like a verdict)*:
-No. You shouldn’t.
+**ELIZABETH** *(leaning closer, voice like a verdict)*:  
+No. You shouldn't.
 
 *(Mark tears his hand free, stumbling back. Heat floods his face, shame and terror colliding. The ballroom spins; every painted eye, every whispered word brands him an intruder. He can’t breathe. He bolts, shoving through startled dancers.)*
 
@@ -167,9 +167,11 @@ You really are determined to drown tonight, aren’t you?
 **WILL**:  
 Enough. Time to go home.
 
-*(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: same flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.)*
+*(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: Will's flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.)*
 
 ## Scene: The flat, seconds later
+
+Mark stumbles out of the bedroom, pale, gripping the doorframe. His collar is skewed, hair mussed, breath uneven.
 
 **AMBER** *(frowning)*:  
 What happened to you? You look like you've seen a ghost—or worse, a tax return.
