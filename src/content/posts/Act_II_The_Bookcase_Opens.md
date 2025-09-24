@@ -9,7 +9,7 @@ slug: "act-2-the-bookcase-opens"
 
 ## Scene: Same flat, later that evening
 
-The four are still gathered after dinner, Amber sprawled on the sofa with wine, Wai scrolling his phone, Mark dutifully stacking plates. Will in his room arranging books.
+Amber sprawled on the sofa with wine, Wai scrolling his phone, Mark dutifully stacking plates. Will in his room arranging books.
 
 **WILL** *(casual, almost too casual)*:  
 Mark, can you come here for a second? I need you to lift the bookcase for me.
