@@ -1,5 +1,5 @@
 ---
-title: "Inbetweeners: Dorian & Stevens"
+title: "Inbetweeners"
 excerpt: "A reflection on the tension between engineering pragmatism and artistic longing, through the lens of Oscar Wilde’s 'The Picture of Dorian Gray' and Kazuo Ishiguro’s 'The Remains of the Day'."
 publishedAt: "2025-09-24"
 readTime: 6
@@ -7,7 +7,7 @@ tags: ["book review", "identity", "Oscar Wilde", "Kazuo Ishiguro"]
 slug: "inbetweeners-dorian-stevens"
 ---
 
-# Inbetweeners: Dorian & Stevens  
+# Inbetweeners
 
 There are mornings when I sit before my computer, the IDE casting its pale glow across the screen. As I trace each line of code with meticulous care, I suddenly feel a fissure opening within me.  
 
