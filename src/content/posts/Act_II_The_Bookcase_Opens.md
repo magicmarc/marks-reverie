@@ -197,8 +197,6 @@ Enough. Time to go home.
 
 ## Scene: Same flat, seconds later
 
-Mark stumbles out of the bedroom, pale, gripping the doorframe. His collar is skewed, hair mussed, breath uneven.
-
 **AMBER** *(frowning)*:  
 What happened to you? You look like you've seen a ghost—or worse, a tax return.
 
