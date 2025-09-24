@@ -15,7 +15,7 @@ My engineering work tolerates no looseness: every bracket aligned, every query f
 
 Yet when I cross the threshold into writing, I become another creature entirely. Words tumble from me like leaves in a storm; I circle around ideas, chatter like a drunkard in a tavern, inventing stories that dissolve even as I commit them to paper. Here, I am as unlike my work-bound self as Dorian Gray is unlike the painted portrait he hides in the attic.   
 
-The pull between these two selves often leaves me stranded in uncertainty. Which of them is the true “I”? Am I the meticulous engineer, who finds security in clarity, or the feverish dreamer, whose imagination knows no bounds? At times I fear I am neither, but merely the empty corridor between them.  
+The pull between these two selves often leaves me in a state of uncertainty. In one moment I am the meticulous engineer, finding security in clarity; in another, the restless dreamer, chasing visions without limit. As though my mind were split, pursuing different ends with different modes of thought, like two lives carried uneasily within one body.
 
 It was *The Picture of Dorian Gray* that first gave shape to this unease. I think of Basil Hallward, whose devotion to art is tempered by his grasp of reality; of Sibyl Vane, who loses her artistic brilliance the moment she dreams of ordinary love; and of Lord Henry, who intoxicates Dorian with his philosophies of pleasure while contributing nothing of substance himself. Wilde shows how beauty, when pursued as performance alone, drifts fatally away from life. In Sibyl’s decline, I see the cost of forsaking one’s craft; in Dorian’s corruption, the ruin of living only for aesthetics.  
 
