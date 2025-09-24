@@ -191,10 +191,10 @@ We were just talking about nursery chaos. One of the kids tried to smuggle a fro
 Adorable? That's nightmare fuel.
 
 **WAI** *(grinning, leaning back smugly)*:  
-Still less chaotic than the way you shout at the kettle every morning.
+Nightmare fuel? That’s your room. You’ve got so many weird trinkets in there it looks like a cursed museum.
 
 **AMBER** *(swatting at him with a cushion)*:  
-Better than you serenading your trainers before tennis. That’s unhinged.
+At least I’ve got personality. Your room’s so empty it looks like it’s been robbed.
 
 *(Amber and Wai continue to bicker, their voices overlapping in comic rhythm. The sofa fills with laughter. Mark stands apart, still dripping, his hands trembling slightly. Will finally crosses the room, moving close enough that his words are for Mark alone.)*
 
