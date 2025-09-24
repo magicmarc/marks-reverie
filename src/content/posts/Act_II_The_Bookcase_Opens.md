@@ -86,7 +86,7 @@ Relax, Mark. Think of it as… social research.
 **MARK** *(groaning)*:  
 This is going to be a disaster.
 
-(They disappear into the candlelit building, music already spilling out. The “Ball Disaster” awaits.)
+(They disappear into the candlelit building, music already spilling out.)
 
 ## Scene: A grand assembly room in Meryton
 
