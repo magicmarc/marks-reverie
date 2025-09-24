@@ -34,23 +34,7 @@ What are you, a book whisperer?
 **WILL** *(steps closer, pulling out a battered copy of Pride and Prejudice)*:  
 Something like that. Want to see what makes these more than paper?
 
-**MARK** *(hesitating)*:  
-If this is some elaborate sales pitch for a book club, I'm not interested.
-
 *(Will opens the book. The pages flutter as though caught in a sudden breeze. The lights flicker. Mark blinks—when he opens his eyes, he’s standing in a sunlit country lane, birdsong in the air. He looks down at himself, horrified to see a stiff Regency suit and absurd cravat.)*
-
-*(A group of ladies in bonnets walk past, whispering behind their fans. One titters. Elizabeth Bennet herself pauses, giving Mark a long, appraising look.)*
-
-**ELIZABETH** *(archly)*:  
-A pleasure, sir. Though you look rather… unsettled.
-
-**MARK** *(stammering a bow, almost tripping over his coat)*:  
-I—I'm perfectly fine. Entirely fine.
-
-**ELIZABETH** *(smiles knowingly)*:  
-Mm. We shall see.
-
-*(She glides away.)*
 
 *(Mr Collins suddenly barrels over, pompous and breathless.)*
 
@@ -136,8 +120,8 @@ Not until I've had my fill.
 
 *(As the dancers part and turn, Elizabeth steps before Mark. Her gaze lingers too long, sharper than her polite smile. When she takes his hand, her grip is steady, her eyes searching.)*
 
-**ELIZABETH** *(softly, with unsettling clarity)*:  
-Mark - I see you now. I know. It's ok.
+**ELIZABETH** *(softly, with clarity)*:  
+Mark - I see you now. I know it. 
 
 *(Mark’s breath catches. The candles blur; it feels as if the entire room has hushed to listen. Laughter still rings around him, yet every glance seems trained upon his trembling frame. Elizabeth does not release his hand. Her knowing smile cuts like a blade.)*
 
@@ -145,7 +129,7 @@ Mark - I see you now. I know. It's ok.
 I—I… I shouldn't be here.
 
 **ELIZABETH** *(leaning closer, voice like a verdict)*:  
-No. You shouldn't.
+No. You shouldn't. You can't be seen.
 
 *(Mark tears his hand free, stumbling back. Heat floods his face, shame and terror colliding. The ballroom spins.)*
 
@@ -167,7 +151,7 @@ You really are determined to drown tonight, aren’t you?
 **WILL**:  
 Enough. Time to go home.
 
-*(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: Will's flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.)*
+*(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back.)*
 
 ## Scene: The flat, seconds later
 
