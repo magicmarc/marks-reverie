@@ -193,7 +193,7 @@ You really are determined to drown tonight, aren’t you?
 **WILL**:  
 Enough. Time to go home.
 
-*(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: Will's flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.)*
+*(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: same flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.)*
 
 ## Scene: Same flat, seconds later
 
