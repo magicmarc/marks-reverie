@@ -59,7 +59,7 @@ I—I'm perfectly fine. Entirely fine.
 **ELIZABETH** *(smiles knowingly)*:  
 Mm. We shall see.
 
-*(She glides away. Mark whirls on Will.)*
+*(She glides away.)*
 
 **MARK** *(hissing)*:  
 She knows! She knows I don't belong!
