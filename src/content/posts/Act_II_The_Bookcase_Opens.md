@@ -86,7 +86,7 @@ Relax, Mark. Think of it as… social research.
 **MARK** *(groaning)*:  
 This is going to be a disaster.
 
-(They disappear into the candlelit building, music already spilling out.)
+*(They disappear into the candlelit building, music already spilling out.)*
 
 ## Scene: A grand assembly room in Meryton
 
@@ -173,54 +173,54 @@ Get me out of here.
 **WILL** *(smile wicked, tilting his head)*:  
 Not until I've had my fill.
 
-*(Mark’s chest tightens. The truth is, this isn’t only about Will’s taunting—it’s about himself. His first time dancing with a man, under so many eyes. His first time wondering if his steps are wrong, if he’s misjudging the etiquette, if every misstep screams “fraud” to an audience drawn from history books he never read properly. Heat floods his face. He can’t breathe. He bolts.)*
+*(Mark’s chest tightens. He is under so many eyes. His first time wondering if his steps are wrong, if he’s misjudging the etiquette, if every misstep screams “fraud” to an audience drawn from history books he never read properly. Heat floods his face. He can’t breathe. He bolts.)*
 
 **MARK** *(panicked, stumbling through the crowd)*:  
 Excuse me—sorry—pardon—
 
-(*He breaks from the dancers, pushing into the garden. Lanterns cast a dim glow. He stumbles backwards, words of the novel’s world buzzing in his head—cotillions, propriety, Darcy, duty—until his heel catches the edge of a stone pool. With a splash, he tumbles in.*)
+*(He breaks from the dancers, pushing into the garden. Lanterns cast a dim glow. He stumbles backwards, words of the novel's world buzzing in his head—cotillions, propriety, Darcy, duty—until his heel catches the edge of a stone pool. With a splash, he tumbles in.)*
 
 **MARK** *(spluttering, furious and mortified)*:  
 Perfect. Absolutely perfect. My grand Regency debut ends in a pond.
 
-(*Will appears at the pool’s edge, maddeningly dry and composed, crouching with a wry smile.*)
+*(Will appears at the pool's edge, maddeningly dry and composed, crouching with a wry smile.)*
 
 **WILL** *(smooth, mocking)*:  
 You really are determined to drown tonight, aren’t you?
 
-(*He reaches in, grips Mark’s wrist firmly, and hauls him out. Mark coughs, drenched and humiliated, collapsing against Will’s chest. Will’s smile fades, his tone dropping into command.*)
+*(He reaches in, grips Mark's wrist firmly, and hauls him out. Mark coughs, drenched and humiliated, collapsing against Will's chest. Will's smile fades, his tone dropping into command.)*
 
 **WILL**:  
 Enough. Time to go home.
 
-(*He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: Will’s flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.*)
+*(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: Will's flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.)*
 
 ## Scene: Same flat, seconds later
 
 Mark stumbles out of the bedroom, pale, gripping the doorframe. His collar is skewed, hair mussed, breath uneven.
 
-**AMBER** *(frowning)*:
-What happened to you? You look like you’ve seen a ghost—or worse, a tax return.
+**AMBER** *(frowning)*:  
+What happened to you? You look like you've seen a ghost—or worse, a tax return.
 
-**WAI** *(laughing, pointing a fork at him)*:
-Mate, did you pass out in there? Your hair’s a crime scene.
+**WAI** *(laughing, pointing a fork at him)*:  
+Mate, did you pass out in there? Your hair's a crime scene.
 
-**MARK** *(hesitant, voice unsteady)*:
+**MARK** *(hesitant, voice unsteady)*:  
 I—I was just—
 
 *(He cuts himself short, eyes flicking towards Will. Will is calmly pouring more wine into Amber’s glass, utterly composed.)*
 
-**WILL** *(light, easy tone)*:
+**WILL** *(light, easy tone)*:  
 We were just talking about nursery chaos. One of the kids tried to smuggle a frog in their lunchbox today. Thought it was hilarious.
 
-**AMBER** *(snorting)*:
-Adorable? That’s nightmare fuel.
+**AMBER** *(snorting)*:  
+Adorable? That's nightmare fuel.
 
-**WAI** *(grinning, kicking back on the sofa)*:
-Still less messy than Amber’s cooking.
+**WAI** *(grinning, kicking back on the sofa)*:  
+Still less messy than Amber's cooking.
 
-**AMBER** *(swatting at him with a cushion)*:
-Oi! At least mine’s edible, unlike your protein shake sludge.
+**AMBER** *(swatting at him with a cushion)*:  
+Oi! At least mine's edible, unlike your protein shake sludge.
 
 *(Amber and Wai break into familiar bickering. The room fills with laughter. Mark stands apart, still shaken, eyes locked on Will. Finally, Will glances back, his expression soft for the others but razor-sharp for Mark. For a heartbeat, Mark sees the same dangerous glint from the ballroom. Then Will looks away, joining in Amber and Wai’s laughter as if nothing had happened.)*
 
