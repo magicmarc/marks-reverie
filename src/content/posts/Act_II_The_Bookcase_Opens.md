@@ -9,7 +9,18 @@ slug: "act-2-the-bookcase-opens"
 
 ## Scene: Same flat, later that evening
 
-Amber and Wai have left. Mark lingers, drying glasses half-heartedly, staring at Will’s bookcase.
+The four are still gathered after dinner, Amber sprawled on the sofa with wine, Wai scrolling his phone, Mark dutifully stacking plates. Will is in his room arranging books.
+
+**WILL** *(casual, almost too casual)*:  
+Mark, can you come here for a second? I need you to lift the bookcase for me.
+
+**MARK** *(suspicious)*:  
+What am I, your intern?
+
+**AMBER** *(snorting)*:  
+Don’t argue, Mark. You’re built for errands.
+
+(Mark mutters but heads into the bedroom. He pauses at the looming bookcase.)
 
 **MARK** *(eyeing the rows of spines)*:  
 You've got every English novel they tortured us with at school. Dickens, Austen, Brontë… Did you mug a library?
@@ -163,3 +174,34 @@ Get me out of here.
 Not until I've had my fill.
 
 *(He releases Mark's hand at last, bowing elegantly as though nothing had happened. Mark stumbles back, shaken, while the ballroom resumes its chatter and laughter. Yet the tension lingers, thick as candle smoke.)*
+
+## Scene: Same flat, seconds later
+
+Mark stumbles out of the bedroom, pale, gripping the doorframe. His collar is skewed, hair mussed, breath uneven.
+
+**AMBER** *(frowning)*:
+What happened to you? You look like you’ve seen a ghost—or worse, a tax return.
+
+**WAI** *(laughing, pointing a fork at him)*:
+Mate, did you pass out in there? Your hair’s a crime scene.
+
+**MARK** *(hesitant, voice unsteady)*:
+I—I was just—
+
+*(He cuts himself short, eyes flicking towards Will. Will is calmly pouring more wine into Amber’s glass, utterly composed.)*
+
+**WILL** *(light, easy tone)*:
+We were just talking about nursery chaos. One of the kids tried to smuggle a frog in their lunchbox today. Thought it was hilarious.
+
+**AMBER** *(snorting)*:
+Adorable? That’s nightmare fuel.
+
+**WAI** *(grinning, kicking back on the sofa)*:
+Still less messy than Amber’s cooking.
+
+**AMBER** *(swatting at him with a cushion)*:
+Oi! At least mine’s edible, unlike your protein shake sludge.
+
+*(Amber and Wai break into familiar bickering. The room fills with laughter. Mark stands apart, still shaken, eyes locked on Will. Finally, Will glances back, his expression soft for the others but razor-sharp for Mark. For a heartbeat, Mark sees the same dangerous glint from the ballroom. Then Will looks away, joining in Amber and Wai’s laughter as if nothing had happened.)*
+
+*(Mark presses a hand to the doorframe, silent. The sound of laughter washes around him, warm and ordinary, yet he feels the bookcase watching from the shadows of the next room.)*
