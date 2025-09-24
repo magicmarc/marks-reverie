@@ -7,7 +7,7 @@ tags: ["sitcom", "fiction", "Sydney"]
 slug: "act-2-the-bookcase-opens"
 ---
 
-## Scene: Same flat, later that evening
+## Scene: The flat, later that evening
 
 Amber sprawled on the sofa with wine, Wai scrolling his phone, Mark dutifully stacking plates. Will in his room arranging books.
 
@@ -195,7 +195,7 @@ Enough. Time to go home.
 
 *(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: same flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.)*
 
-## Scene: Same flat, seconds later
+## Scene: The flat, seconds later
 
 **AMBER** *(frowning)*:  
 What happened to you? You look like you've seen a ghost—or worse, a tax return.
