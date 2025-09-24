@@ -173,7 +173,27 @@ Get me out of here.
 **WILL** *(smile wicked, tilting his head)*:  
 Not until I've had my fill.
 
-*(He releases Mark's hand at last, bowing elegantly as though nothing had happened. Mark stumbles back, shaken, while the ballroom resumes its chatter and laughter. Yet the tension lingers, thick as candle smoke.)*
+*(Mark’s chest tightens. The truth is, this isn’t only about Will’s taunting—it’s about himself. His first time dancing with a man, under so many eyes. His first time wondering if his steps are wrong, if he’s misjudging the etiquette, if every misstep screams “fraud” to an audience drawn from history books he never read properly. Heat floods his face. He can’t breathe. He bolts.)*
+
+**MARK** *(panicked, stumbling through the crowd)*:  
+Excuse me—sorry—pardon—
+
+(*He breaks from the dancers, pushing into the garden. Lanterns cast a dim glow. He stumbles backwards, words of the novel’s world buzzing in his head—cotillions, propriety, Darcy, duty—until his heel catches the edge of a stone pool. With a splash, he tumbles in.*)
+
+**MARK** *(spluttering, furious and mortified)*:  
+Perfect. Absolutely perfect. My grand Regency debut ends in a pond.
+
+(*Will appears at the pool’s edge, maddeningly dry and composed, crouching with a wry smile.*)
+
+**WILL** *(smooth, mocking)*:  
+You really are determined to drown tonight, aren’t you?
+
+(*He reaches in, grips Mark’s wrist firmly, and hauls him out. Mark coughs, drenched and humiliated, collapsing against Will’s chest. Will’s smile fades, his tone dropping into command.*)
+
+**WILL**:  
+Enough. Time to go home.
+
+(*He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back: Will’s flat, the sofa, Amber and Wai staring. He stands dripping in the doorway, caught between worlds.*)
 
 ## Scene: Same flat, seconds later
 
