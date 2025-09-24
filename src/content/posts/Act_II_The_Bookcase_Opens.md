@@ -199,15 +199,15 @@ At least I’ve got personality. Your room’s so empty it looks like it’s bee
 *(Amber and Wai continue to bicker, their voices overlapping in comic rhythm. The sofa fills with laughter. Mark stands apart, still dripping, his hands trembling slightly. Will finally crosses the room, moving close enough that his words are for Mark alone.)*
 
 **MARK** *(voice low, unsteady)*:  
-What… what was that? You could’ve left me there. I don’t want—
+What… what was that? I didn’t want to be part of your...
 
 **WILL** *(interrupting, tone soft but piercing)*:  
-You don’t want to be seen, do you? Always hiding, following a script someone else wrote for you. At work, at home, even here.
+You didn’t want to be seen, do you? Always hiding, following a script someone else wrote for you. At work, at home, even here.
 
 *(He leans in closer, eyes glinting, though his hand lingers on Mark’s arm with unexpected care.)*
 
 **WILL** :  
-I’ll drag you out of that cage, Mark - even if you hate me for it.
+I’ll drag you out of that script, Mark - even if you hate me for it.
 
 **MARK** *(flinching, but not pulling away)*:  
 Or I’ll drown first.
