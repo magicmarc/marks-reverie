@@ -134,10 +134,10 @@ Get me out of here.
 **WILL** *(smile wicked, tilting his head)*:  
 Not until I've had my fill.
 
-*(Mark forces himself through the next figure of the dance, chest tight. But as the dancers part and turn, Elizabeth steps before him. Her gaze lingers too long, sharper than her polite smile. When she takes his hand, her grip is steady, her eyes searching.)*
+*(As the dancers part and turn, Elizabeth steps before Mark. Her gaze lingers too long, sharper than her polite smile. When she takes his hand, her grip is steady, her eyes searching.)*
 
 **ELIZABETH** *(softly, with unsettling clarity)*:  
-You move as though the steps are foreign to you. And your words… they are not of Hertfordshire. Tell me, sir—where do you truly belong?
+Mark - I see you now. I know. It's ok.
 
 *(Mark’s breath catches. The candles blur; it feels as if the entire room has hushed to listen. Laughter still rings around him, yet every glance seems trained upon his trembling frame. Elizabeth does not release his hand. Her knowing smile cuts like a blade.)*
 
@@ -147,7 +147,7 @@ I—I… I shouldn't be here.
 **ELIZABETH** *(leaning closer, voice like a verdict)*:  
 No. You shouldn't.
 
-*(Mark tears his hand free, stumbling back. Heat floods his face, shame and terror colliding. The ballroom spins; every painted eye, every whispered word brands him an intruder. He can’t breathe. He bolts, shoving through startled dancers.)*
+*(Mark tears his hand free, stumbling back. Heat floods his face, shame and terror colliding. The ballroom spins.)*
 
 **MARK** *(panicked, stumbling through the crowd)*:  
 Excuse me—sorry—pardon—
