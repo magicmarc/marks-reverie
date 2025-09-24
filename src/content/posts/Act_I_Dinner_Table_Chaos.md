@@ -138,7 +138,7 @@ So you'd chain yourself to someone just to keep your parents quiet? How very… 
 It's not obedience, it's… efficiency. Less drama.
 
 **WILL** *(smile sharpening, gaze fixed on him)*:  
-Or maybe it's cowardice. Pretending someone else's script is your life, when you're terrified of writing your own.
+Or maybe it's pretending someone else's script is your life, when you're terrified of writing your own.
 
 *(Mark's face flushes crimson. He drops his eyes, fiddling with his napkin. Will sips his wine, casual, as if he hadn't just skewered him.)*
 
