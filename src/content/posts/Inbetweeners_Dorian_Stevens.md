@@ -23,6 +23,6 @@ If Wilde warns me of the peril of obsession, Ishiguro’s *The Remains of the Da
 
 Between Wilde and Ishiguro, I glimpse my own dilemma. On one side lies the risk of indulgence: of drowning in imagination until life itself becomes a theatre set. On the other lies the risk of devotion so complete that desire is extinguished. My job demands that I be a Stevens: dedicated, exacting, sober. My writing tempts me to be a Dorian: reckless in pursuit of beauty, careless of consequence. I move between them constantly: one moment the careful servant of order, the next the heedless devotee of imagination.  
 
-As I grow older, I realise life was never meant to be singular. It is stitched together from contradictions—duty and desire, pragmatism and passion. Each is a truth of mine, and the only way forward is to acknowledge them both, side by side.
+As I grow older, I realise life was never meant to be singular. It is stitched together from contradictions: duty and desire, pragmatism and passion. Each is a truth of mine, and the only way forward is to acknowledge them both, side by side.
 
 And so, if Dorian embodies the lure of beauty and Stevens the desolation of relentless duty, then to live is not to flee obligation nor to silence longing, but to bear them together—and in that shimmering balance, to find the shape of one’s own self.
