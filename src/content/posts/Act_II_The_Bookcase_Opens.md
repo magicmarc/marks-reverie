@@ -120,32 +120,8 @@ It is quite alright. The floor is crowded.
 **MARK** *(mortified)*:  
 I've just assaulted half the Bennet family. Wonderful.
 
-*(Will finally intervenes, stepping into the dance with perfect poise. He catches Mark's hand firmly, guiding him into the steps. Their eyes lock. For a moment the crowd blurs away.)*
-
-**WILL** *(low, with that dangerous smile)*:  
-Relax, Mark. You're mine to steady.
-
-**MARK** *(flushes, stammering)*:  
-I—I didn't ask—
-
-**WILL** *(cutting in, voice sharp but soft)*:  
-You never do. That's why you need me.
-
-*(Mark trips again, this time into Will's chest. Will holds him steady, unyielding, while the dancers whirl around them. From the sidelines, Elizabeth and Charlotte exchange knowing looks, whispering.)*
-
-**CHARLOTTE** *(to Elizabeth)*:  
-There is something peculiar about those two.
-
-**ELIZABETH** *(smirking)*:  
-Oh, decidedly peculiar. But entertaining.
-
-*(The dance ends in chaos—Mark breathless, Will immaculate. Mr Collins claps approvingly, entirely missing the tension.)*
-
-**MR COLLINS:**  
-Splendid! Lady Catherine shall be most impressed.
-
 **MARK** *(to Will, muttering furiously)*:  
-You did that on purpose.
+You did this on purpose.
 
 **WILL** *(leaning close, eyes glinting)*:  
 Of course I did. Watching you unravel is the highlight of my evening.
@@ -158,7 +134,20 @@ Get me out of here.
 **WILL** *(smile wicked, tilting his head)*:  
 Not until I've had my fill.
 
-*(Mark’s chest tightens. He is under so many eyes. His first time wondering if his steps are wrong, if he’s misjudging the etiquette, if every misstep screams “fraud” to an audience drawn from history books he never read properly. Heat floods his face. He can’t breathe. He bolts.)*
+*(Mark forces himself through the next figure of the dance, chest tight. But as the dancers part and turn, Elizabeth steps before him. Her gaze lingers too long, sharper than her polite smile. When she takes his hand, her grip is steady, her eyes searching.)*
+
+**ELIZABETH** *(softly, with unsettling clarity)*:
+You move as though the steps are foreign to you. And your words… they are not of Hertfordshire. Tell me, sir—where do you truly belong?
+
+*(Mark’s breath catches. The candles blur; it feels as if the entire room has hushed to listen. Laughter still rings around him, yet every glance seems trained upon his trembling frame. Elizabeth does not release his hand. Her knowing smile cuts like a blade.)*
+
+**MARK** *(stammering)*:
+I—I… I shouldn’t be here.
+
+**ELIZABETH** *(leaning closer, voice like a verdict)*:
+No. You shouldn’t.
+
+*(Mark tears his hand free, stumbling back. Heat floods his face, shame and terror colliding. The ballroom spins; every painted eye, every whispered word brands him an intruder. He can’t breathe. He bolts, shoving through startled dancers.)*
 
 **MARK** *(panicked, stumbling through the crowd)*:  
 Excuse me—sorry—pardon—
