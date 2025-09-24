@@ -149,6 +149,6 @@ Alright, that's enough philosophy with pasta. We're not auditioning for Love Act
 Yeah, and you're no Keira Knightley, trust me.
 
 **AMBER** *(snorting)*:  
-Better than you - you're more Saturday morning cartoon.
+Better than you - you're more Saturday morning cartoon than Hugh Grant.
 
 *(While Amber and Wai bicker, the camera lingers on Mark's uneasy expression and Will's sly, satisfied smile, the Sydney night glowing outside like a silent witness.)*
