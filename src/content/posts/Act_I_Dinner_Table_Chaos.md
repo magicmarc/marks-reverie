@@ -69,10 +69,10 @@ Look who's finally here to supervise. The rest of us are just waiting to see whe
 *(Will steps closer to Mark, takes the wooden spoon from his hand, inspects it.)*
 
 **WILL** *(calm, but with an edge)*:  
-You hold this like you hold your authority at work—tight, nervous… terrified of slipping.
+You hold this like you hold your authority at work - tight, nervous… terrified of slipping.
 
 **MARK** *(stiffening)*:  
-I—I'm not nervous.
+I...I'm not nervous!
 
 ## SCENE: Dinner Table
 
@@ -111,12 +111,12 @@ Lies! Absolute lies!
 *(Amber and Wai slump back into their chairs, still glaring but too tired to keep the quarrel going. Amber gulps her wine, Wai stabs sulkily at his pasta. A beat of silence falls.)*
 
 **AMBER** *(suddenly, with a wicked grin)*:  
-Right, enough about us. Let's hear from the love experts. Mark, Will—what do you two think about marriage?
+Right, enough about us. Let's hear from the love experts. Mark, Will, what do you two think about marriage?
 
 *(Mark nearly chokes on his wine. Will sets down his fork calmly, as if he'd been waiting.)*
 
 **WILL** *(mildly, with a small smile)*:  
-Marriage? Doesn't interest me. But children… they're wonderful. My nursery lot—funny, messy, exhausting. If only you could have children without the rest of the contract.
+Marriage? Doesn't interest me. But children… they're wonderful. My nursery lot - funny, messy, exhausting. If only you could have children without the rest of the contract.
 
 **AMBER** *(leaning back, smirking)*:  
 Trust you to say that. Sweetest man alive.
@@ -143,12 +143,12 @@ Or maybe it's cowardice. Pretending someone else's script is your life, when you
 *(Mark's face flushes crimson. He drops his eyes, fiddling with his napkin. Will sips his wine, casual, as if he hadn't just skewered him.)*
 
 **AMBER** *(clapping her hands suddenly, forcing brightness)*:  
-Alright, that's enough philosophy with pasta. We're not auditioning for Love Actually. I blame myself—I've clearly been reading too many soppy novels.
+Alright, that's enough philosophy with pasta. We're not auditioning for Love Actually. I blame myself - I've clearly been reading too many soppy novels.
 
 **WAI** *(grinning, relieved)*:  
 Yeah, and you're no Keira Knightley, trust me.
 
 **AMBER** *(snorting)*:  
-Better than you— you're more Saturday morning cartoon than leading man.
+Better than you - you're more Saturday morning cartoon than leading man.
 
 *(While Amber and Wai bicker, the camera lingers on Mark's uneasy expression and Will's sly, satisfied smile, the Sydney night glowing outside like a silent witness.)*
