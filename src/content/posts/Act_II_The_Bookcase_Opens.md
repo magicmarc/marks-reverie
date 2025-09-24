@@ -188,7 +188,7 @@ I—I was just—
 We were just talking about nursery chaos. One of the kids tried to smuggle a frog in their lunchbox today. Thought it was hilarious.
 
 **AMBER** *(snorting)*:  
-Adorable? That's nightmare fuel.
+Hilarious? That's nightmare fuel.
 
 **WAI** *(grinning, leaning back smugly)*:  
 Nightmare fuel? That’s your room. You’ve got so many weird trinkets in there it looks like a cursed museum.
