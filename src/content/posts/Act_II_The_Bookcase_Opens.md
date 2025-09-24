@@ -7,9 +7,7 @@ tags: ["sitcom", "fiction", "Sydney"]
 slug: "act-2-the-bookcase-opens"
 ---
 
-# Act II — The Bookcase Opens (Part I: Into Austen)
-
-**Scene: Will’s flat, later that evening.**  
+## Scene: Same flat, later that evening.  
 Amber and Wai have left. Mark lingers, drying glasses half-heartedly, staring at Will’s bookcase.
 
 **MARK** *(eyeing the rows of spines)*:  
@@ -78,9 +76,8 @@ This is going to be a disaster.
 
 (They disappear into the candlelit building, music already spilling out. The “Ball Disaster” awaits.)
 
-# Act II — The Bookcase Opens (Part II: The Ball Disaster)
-
-**Scene: A grand assembly room in Meryton.**  
+## Scene: A grand assembly room in Meryton.
+  
 Candles glitter. Musicians tune fiddles. The Bennet sisters are radiant; the local gentry mill about. Mark, still in his ridiculous cravat, is shoved through the door beside Will, who looks utterly at home in Regency finery.
 
 **MARK** *(muttering under his breath)*:  
