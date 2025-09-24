@@ -143,12 +143,12 @@ Or maybe it's cowardice. Pretending someone else's script is your life, when you
 *(Mark's face flushes crimson. He drops his eyes, fiddling with his napkin. Will sips his wine, casual, as if he hadn't just skewered him.)*
 
 **AMBER** *(clapping her hands suddenly, forcing brightness)*:  
-Alright, that's enough philosophy with pasta. We're not auditioning for Love Actually. I blame myself - I've clearly been reading too many soppy novels.
+Alright, that's enough philosophy with pasta. We're not auditioning for Love Actually.
 
 **WAI** *(grinning, relieved)*:  
 Yeah, and you're no Keira Knightley, trust me.
 
 **AMBER** *(snorting)*:  
-Better than you - you're more Saturday morning cartoon than leading man.
+Better than you - you're more Saturday morning cartoon.
 
 *(While Amber and Wai bicker, the camera lingers on Mark's uneasy expression and Will's sly, satisfied smile, the Sydney night glowing outside like a silent witness.)*
