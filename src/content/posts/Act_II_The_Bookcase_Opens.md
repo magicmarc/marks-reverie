@@ -190,12 +190,29 @@ We were just talking about nursery chaos. One of the kids tried to smuggle a fro
 **AMBER** *(snorting)*:  
 Adorable? That's nightmare fuel.
 
-**WAI** *(grinning, kicking back on the sofa)*:  
-Still less messy than Amber's cooking.
+**WAI** *(grinning, leaning back smugly)*:  
+Still less chaotic than the way you shout at the kettle every morning.
 
 **AMBER** *(swatting at him with a cushion)*:  
-Oi! At least mine's edible, unlike your protein shake sludge.
+Better than you serenading your trainers before tennis. That’s unhinged.
 
-*(Amber and Wai break into familiar bickering. The room fills with laughter. Mark stands apart, still shaken, eyes locked on Will. Finally, Will glances back, his expression soft for the others but razor-sharp for Mark. For a heartbeat, Mark sees the same dangerous glint from the ballroom. Then Will looks away, joining in Amber and Wai’s laughter as if nothing had happened.)*
+*(Amber and Wai continue to bicker, their voices overlapping in comic rhythm. The sofa fills with laughter. Mark stands apart, still dripping, his hands trembling slightly. Will finally crosses the room, moving close enough that his words are for Mark alone.)*
 
-*(Mark presses a hand to the doorframe, silent. The sound of laughter washes around him, warm and ordinary, yet he feels the bookcase watching from the shadows of the next room.)*
+**MARK** *(voice low, unsteady)*:  
+What… what was that? You could’ve left me there. I don’t want—
+
+**WILL** *(interrupting, tone soft but piercing)*:  
+You don’t want to be seen, do you? Always hiding, following a script someone else wrote for you. At work, at home, even here.
+
+*(He leans in closer, eyes glinting, though his hand lingers on Mark’s arm with unexpected care.)*
+
+**WILL** :  
+I’ll drag you out of that cage, Mark - even if you hate me for it.
+
+**MARK** *(flinching, but not pulling away)*:  
+Or I’ll drown first.
+
+**MARK** *(chuckling softly, tilting his head)*:  
+Then I’ll be there to pull you out. Always.
+
+*(The sounds of Amber and Wai’s laughter swell in the background, oblivious. Mark lowers his gaze, caught between fear and something he dares not name. Will straightens, his expression bright again as he turns back to the others.)*
