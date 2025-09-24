@@ -39,15 +39,6 @@ If this is some elaborate sales pitch for a book club, I'm not interested.
 
 *(Will opens the book. The pages flutter as though caught in a sudden breeze. The lights flicker. Mark blinks—when he opens his eyes, he’s standing in a sunlit country lane, birdsong in the air. He looks down at himself, horrified to see a stiff Regency suit and absurd cravat.)*
 
-**MARK:**  
-Oh no. Absolutely not. I look like I've been mugged by a curtain shop.
-
-**WILL** *(immaculate in his Regency attire, bowing with mock elegance)*:  
-On the contrary—you're perfect. A moody stranger, awkward in company. You'll fit right in.
-
-**MARK** *(spluttering)*:  
-This is Pride and Prejudice? Seriously?
-
 *(A group of ladies in bonnets walk past, whispering behind their fans. One titters. Elizabeth Bennet herself pauses, giving Mark a long, appraising look.)*
 
 **ELIZABETH** *(archly)*:  
@@ -60,12 +51,6 @@ I—I'm perfectly fine. Entirely fine.
 Mm. We shall see.
 
 *(She glides away.)*
-
-**MARK** *(hissing)*:  
-She knows! She knows I don't belong!
-
-**WILL** *(teasing, voice low)*:  
-They always know. That's the fun.
 
 *(Mr Collins suddenly barrels over, pompous and breathless.)*
 
