@@ -20,7 +20,7 @@ What am I, your intern?
 **AMBER** *(snorting)*:  
 Don’t argue, Mark. You’re built for errands.
 
-(Mark mutters but heads into the bedroom. He pauses at the looming bookcase.)
+*(Mark mutters but heads into the bedroom. He pauses at the looming bookcase.)*
 
 **MARK** *(eyeing the rows of spines)*:  
 You've got every English novel they tortured us with at school. Dickens, Austen, Brontë… Did you mug a library?
@@ -37,7 +37,7 @@ Something like that. Want to see what makes these more than paper?
 **MARK** *(hesitating)*:  
 If this is some elaborate sales pitch for a book club, I'm not interested.
 
-(Will opens the book. The pages flutter as though caught in a sudden breeze. The lights flicker. Mark blinks—when he opens his eyes, he’s standing in a sunlit country lane, birdsong in the air. He looks down at himself, horrified to see a stiff Regency suit and absurd cravat.)
+*(Will opens the book. The pages flutter as though caught in a sudden breeze. The lights flicker. Mark blinks—when he opens his eyes, he’s standing in a sunlit country lane, birdsong in the air. He looks down at himself, horrified to see a stiff Regency suit and absurd cravat.)*
 
 **MARK:**  
 Oh no. Absolutely not. I look like I've been mugged by a curtain shop.
