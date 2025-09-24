@@ -73,7 +73,7 @@ They always know. That's the fun.
 Sir! Sir! You must join us at the assembly this evening! Such a rare honour, a new gentleman in our midst!
 
 **MARK** *(alarmed)*:  
-Assembly? As in… public gathering? Dancing? No—absolutely not—
+Assembly? As in… public gathering? Dancing? No... absolutely not...
 
 **MR COLLINS** *(ignoring him, grabbing his arm)*:  
 It is settled. Lady Catherine shall be most gratified.
