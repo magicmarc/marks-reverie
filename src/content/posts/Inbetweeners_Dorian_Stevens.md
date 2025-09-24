@@ -25,4 +25,4 @@ Between Wilde and Ishiguro, I glimpse my own dilemma. On one side lies the risk 
 
 As I grow older, I realise life was never meant to be singular. It is stitched together from contradictions: duty and desire, pragmatism and passion. Each is a truth of mine, and the only way forward is to acknowledge them both, side by side.
 
-And so, if Dorian embodies the lure of beauty and Stevens the desolation of relentless duty, then to live is not to flee obligation nor to silence longing, but to bear them together—and in that shimmering balance, to find the shape of one’s own self.
+And so, if Dorian embodies the lure of beauty and Stevens the desolation of relentless duty, then to live is not to flee obligation nor to silence longing, but to bear them together - and in that shimmering balance, to find the shape of one’s own self.
