@@ -146,7 +146,7 @@ Physics has not answered that question. Entropy rules, but choice whispers. Perh
 **MARK** *(softly, almost to himself):*  
 Even if the stars cage us… we still look up.  
 
-*(He closes his eyes, lifts the book in his hand, and slowly shuts it. The radar station dissolves into starlight. When he opens his eyes again, he and Will are back at the campsite, the Southern sky arching above, familiar and infinite. Will stirs faintly beside him, alive. Mark lets out a shuddering breath, clutching the book 'The Three-Body Problem' to his chest as dawn edges the horizon.)*  
+*(He closes his eyes, lifts the book in his hand, and slowly shuts it. The radar station dissolves into starlight. When he opens his eyes again, he and Will are back at the campsite, the Southern sky arching above, familiar and infinite. Will stirs faintly beside him, alive. Mark lets out a shuddering breath, clutching the book 'The Three-Body Problem' to his chest.)*  
 
 
 ## Scene 4: Back to the Camp  
