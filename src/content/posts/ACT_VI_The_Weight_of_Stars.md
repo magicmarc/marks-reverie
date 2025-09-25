@@ -151,7 +151,7 @@ Even if the stars cage us… we still look up.
 
 ## Scene 4: Back to the Camp  
 
-*(The night air is cool, the fire reduced to embers. Will jolts awake outside the tent, chest heaving, eyes wild. Amber and Wai rush over, alarmed. Mark steadies him with a hand, grounding him. Will looks past them toward the horizon—where moments ago the radar station stood. Now there is only dark bush and the vast southern sky, burning with impossible clarity.)*  
+*(Amber and Wai rush over, alarmed. Mark steadies Will with a hand, grounding him. Will looks past them toward the horizon—where moments ago the radar station stood. Now there is only dark bush and the vast southern sky, burning with impossible clarity.)*  
 
 **WILL** *(hushed, almost reverent)*:  
 Tell me… when you look up, what do you see?  
