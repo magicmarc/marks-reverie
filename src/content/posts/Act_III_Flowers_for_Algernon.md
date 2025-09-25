@@ -101,11 +101,6 @@ I didn’t want to say it—I shouldn’t—
 
 *(Charlie lifts a hand to silence him. Slowly, his sobs subside. He wipes his face, inhales, and when he looks up again, his gaze is luminous, steadier than ever. His voice carries a new weight—acceptance laced with defiance.)*
 
-**CHARLIE:**  
-No life is permanent, no thought eternal. What matters is that we have them—that for a time, however brief, we touch the fire.
-
-*(He crosses to a side table, where a glass beaker holds a few wilted flowers—Algernon’s tribute. He takes them carefully, turning back to Mark. The scientists fall silent, struck by his composure.)*
-
 **CHARLIE** *(offering the bouquet)*:  
 Nothing lasts forever. And it doesn’t matter. In this instant we are thinking, we are questioning, we *exist*. That is enough.
 
