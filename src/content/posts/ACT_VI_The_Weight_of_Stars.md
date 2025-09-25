@@ -136,7 +136,7 @@ And then he crashes into my life, loud and impossible. And suddenly the script d
 *(Ye Wenjie studies him, her face unreadable. Mark looks up, eyes red, but steady.)*  
 
 **MARK:**  
-Do you… do you believe in the script of universe? Or in our power to change it?  
+Do you… do you believe in *the script*? Or in our power to change it?  
 
 **YE WENJIE** *(after a long pause, her tone measured):*  
 Physics has not answered that question. Entropy rules, but choice whispers. Perhaps both are true, perhaps neither.  
