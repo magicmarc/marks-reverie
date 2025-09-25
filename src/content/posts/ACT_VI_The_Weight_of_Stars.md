@@ -160,5 +160,3 @@ I see our fragility. Brief sparks in a universe that will not remember us. And y
 
 *(Silence falls. No jokes now. They lie back together on the cool earth, four figures under the Southern Cross. The bush hums, the sea breathes, and Mark, still shaken, glances once more at Will—wondering what it is he survived, and why he chose not to speak.)*  
 
-*Curtain.*  
-
