@@ -113,10 +113,10 @@ But if I sink into this… I leave them. How do I trade my own chaos for silence
 
 ## Scene 4: Reunion  
 
-*(Moments later. The others appear around the bend, calling his name. Amber looks ready to kill him, Mark panicked, Will calmly annoyed.)*  
+*(Moments later. The others appear around the bend.)*  
 
 **AMBER** *(storming up)*:  
-Where the hell did you wander off to, you muppet? I nearly filed a missing persons report.  
+Where the hell did you wander off to, you muppet?
 
 **WAI** *(forcing a grin, still pale)*:  
 Took the scenic route. Saw a few things. Maybe too many.  
