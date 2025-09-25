@@ -144,7 +144,7 @@ export default function NovelListing({ acts }: NovelListingProps) {
         <Subtitle>A Light Novel</Subtitle>
         <Description>
           <p>
-          In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning. But Will's bookcase is no ordinary piece of furniture. Behind its shelves lies something vast—worlds that breathe, stories that bleed into reality.
+          In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning.
           </p>
         </Description>
       </Header>
