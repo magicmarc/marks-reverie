@@ -147,6 +147,6 @@ Honestly, I’m the one who should worry. You three are all geniuses. I’m just
 Don’t flatter yourself. You’re not nearly interesting enough to be the village idiot.  
 
 **WAI:**  
-Hey! I was opening up! Cruel, cruel woman!  
+Hey! I was vulnerable! Cruel, cruel woman!  
 
 *(Wai splutters; Amber smirks. Their bickering ignites once more. Mark lets out a shaky laugh, the weight in his chest easing. The clatter of cutlery and playful insults fill the flat, pulling him back into the warmth of the everyday—even as the bookcase looms silently in the next room, waiting for its turn again.)*  
