@@ -62,23 +62,44 @@ The earth endures without you. The question is—do you endure without it?
 
 *(Wai stares, speechless. For once, no joke rises to his lips. He takes a shaky breath.)*  
 
-**WAI:**  
-Maybe you’re right. Maybe we’re the rot, not the roots.  
-
 ---
 
 ## Scene 3: The Temptation  
 
 *(Wai stumbles back into the lighthouse. At its heart is a radiant light, pure and beckoning. He squints, raising a hand to shield his eyes. The voice of the light thrums inside his chest, promising unity, peace, timelessness.)*  
 
-*(He takes a step closer. And another. Just as he reaches out, memories crash through him—Amber’s sharp voice calling him an idiot, the sting of her cushion smacks; Will’s easy grin on the tennis court, the promise of a rematch; Mark’s awkward laughter, his precise care that somehow always included Wai’s chaos.)*  
+*(The chamber shifts around him. The floor becomes glassy water; reflections ripple and solidify into images—wars raging on TV screens, choking smoke above cities, oil slicks smothering seas. The hum of the light becomes a chorus of newscasters, protests, sirens. Wai clutches his ears, but the sound is inside him.)*  
 
-**WAI** *(hoarse, whispering)*:  
-…Damn it. I can’t. Not yet. They’d never let me live it down.  
+**WAI** *(hoarse, muttering)*:  
+The world’s a bloody mess… Politics tearing people apart, cities choking on their own fumes. Everyone rushing, never breathing. Maybe this bubble’s the way out.  
 
-*(He backs away, stumbling, until the light fades and the ordinary world roars back—wind, sea spray, cicadas. The lighthouse door slams shut. Wai falls to his knees in the sand, panting.)*  
+*(The light shimmers. Out of it steps another Wai—an apparition, sharper, calmer, radiant with the glow of the lighthouse itself. His twin smiles knowingly.)*  
 
----
+**OTHER WAI:**  
+Why go back? Out there you’re just noise, a joker with a tennis racket. Here you can be pure—part of something vast, untainted. No smog, no bills, no pretending you like the city’s grind. Just nature, eternal and clean.  
+
+**WAI** *(hesitant, swallowing hard)*:  
+I do hate the city. Hate the traffic, the screens, the rush. I’ve always wanted the bush, the sea… a place where air actually tastes like air.  
+
+**OTHER WAI** *(stepping closer, coaxing)*:  
+Then join me. Merge with the light. Leave behind their shouting, their endless appetite. Here you are whole. Here, no one laughs at you.  
+
+*(Wai trembles. For a moment, the glow tempts him, promising release. He sees himself running free across meadows, diving into turquoise waters, never trapped again by deadlines or apartments.)*  
+
+*(But then another memory hits: Amber’s voice, scolding him even as she covers him with a blanket after training too hard. Will’s smirk on the tennis court—“rematch next week, don’t you dare flake.” Mark’s awkward grin as he fixes Wai’s tangled shoelaces with neat precision, muttering but never truly angry. The warmth of being needed, of belonging, even in chaos.)*  
+
+**WAI** *(voice breaking)*:  
+No… No, this isn’t it. Paradise that asks you to quit isn’t paradise. If I want clean air, I’ll fight for it in Sydney. If I want peace, I’ll carve it with my own hands, not hide in some bubble.  
+
+*(The apparition falters, its glow flickering. The Other Wai sneers, then dissolves back into the light. Suddenly the walls begin to shudder. Cracks streak across the stone like lightning. Flowering tendrils wither into ash. The great beam of the lighthouse flares, blinding white, then fractures into shards of light that rain down like broken glass.)*  
+
+*(Wai shields his face as the whole tower convulses. The floor splits, seawater gushes through, the spiral stairs twist and collapse. Outside, the sky itself buckles—the violet fades, the emerald sea drains of colour. The world of the bubble is dying with his refusal.)*  
+
+*(With a thunderous roar, the lighthouse implodes into a whirl of salt spray and petals. When the light clears, Wai is hurled out onto the sand, coughing, clothes soaked, the ordinary ocean roaring behind him. The lighthouse is gone, leaving only an empty headland.)*  
+
+**WAI** *(on his knees, whispering, breathless but resolute)*:  
+No more running. The world’s messy—but it’s mine. And I’ll fight to make it better.  
+
 
 ## Scene 4: Reunion  
 
