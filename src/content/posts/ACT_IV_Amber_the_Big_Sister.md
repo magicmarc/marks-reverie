@@ -1,6 +1,6 @@
 ---
 title: "Act IV - Amber the Big Sister"
-excerpt: "Amber stumbles into the world of *Little Women*, clashes with the four March sisters, and discovers a deep admiration for the beauty of girls’ lives—even if she pretends otherwise."
+excerpt: "Amber stumbles into the world of 'Little Women', clashes with the four March sisters, and discovers a deep admiration for the beauty of girls’ lives—even if she pretends otherwise."
 publishedAt: "2025-09-26"
 readTime: 15
 tags: ["sitcom", "fiction", "fantasy"]
