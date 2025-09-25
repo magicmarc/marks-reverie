@@ -1,6 +1,6 @@
 ---
 title: "Act VI - The Weight of Stars"
-excerpt: "On a starlit night in the wild, Will slips into another book—finding himself face to face with Ye Wenjie at the edge of humanity’s fate. The confrontation leaves him bleeding, but also forces the friends to reckon with what they see when they look up."
+excerpt: "Beneath the Southern Cross, Will opens a book and walks into the heart of Ye Wenjie’s defiance. Wounded but unbroken, he returns with the question no one escapes: when we face the stars, do we see hope, or only our own fragility?"
 publishedAt: "2025-09-28"
 readTime: 15
 tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
