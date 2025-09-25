@@ -7,8 +7,6 @@ tags: ["novel", "fiction", "fantasy", "Sydney", "Will's Bookcase"]
 slug: "act-5-wai-and-the-lighthouse"
 ---
 
-# Act V — *Wai and the Lighthouse*  
-
 ## Scene 1: The Coastal Walk  
 
 *(Sydney coastline. The four flatmates trudge along a sandy bush track under the blazing sun. Waves crash below; cicadas scream overhead.)*  

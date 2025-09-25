@@ -7,8 +7,6 @@ tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
 slug: "act-3-flowers-for-algernon"
 ---
 
-# Act III — *The Vanishing Flower*
-
 One evening, Mark left work earlier than usual. The flat was empty. The silence made the place feel larger than it was. Mark lingered in the kitchen for a while, then, unable to resist, drifted towards Will’s room.
 
 The bookcase loomed. Its shelves were lined like sentries, each volume humming faintly with unseen energy. Mark’s hand hovered, trembling, until at last he pulled out a slim copy of *Flowers for Algernon*. The air shifted, and before he could change his mind, the world folded around him.

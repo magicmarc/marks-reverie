@@ -7,8 +7,6 @@ tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
 slug: "act-6-under-the-southern-sky"
 ---
 
-# Act VI — *The Weight of Stars*  
-
 ## Scene 1: The Stargazing  
 
 *(The four friends sit by their tent, the coastal bush stretching into silence. A billion stars glitter above. They sprawl on sleeping bags, pointing out constellations.)*  
