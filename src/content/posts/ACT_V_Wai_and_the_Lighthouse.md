@@ -128,6 +128,6 @@ Took the scenic route. Saw a few things. Maybe too many.
 *(They walk together toward the lighthouse cliff. Wai pauses, staring at the ocean spread beneath—the blinding blue, the endless sky, the green bushlands swaying.)*  
 
 **WAI** *(quietly, almost to himself)*:  
-You know… we live too fast. Chase too much. And all this—(he gestures at the sea, the headlands, the sky)—we barely even look at it. Maybe the world’s already giving us paradise, and we’re just too stupid to notice.  
+You know… we walk too fast. Chase too much. And all this—(he gestures at the sea, the headlands, the sky)—we barely even look at it. Maybe the world’s already giving us paradise, and we’re just too stupid to notice.  
 
 *(The others fall silent. Even Amber doesn’t quip. For a moment, they all stand there, letting the surf and sky wash over them. Four friends, one cliff, and a rare, unhurried pause.)*  
