@@ -148,10 +148,7 @@ export default function NovelListing({ acts }: NovelListingProps) {
           In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning. But Will’s bookcase is no ordinary piece of furniture. Behind its shelves lies something vast—worlds that breathe, stories that bleed into reality.
           </p>
           <p>
-          Every journey cuts closer to the bone, exposing what they fear, what they crave, and what it means to belong in a world that might be ending—or beginning again.
-          </p>
-          <p>
-          Because Will’s bookcase doesn’t just open onto fiction. It opens onto them.
+          Will’s bookcase doesn’t just open onto fiction. It opens onto them.
           </p>
         </Description>
       </Header>
