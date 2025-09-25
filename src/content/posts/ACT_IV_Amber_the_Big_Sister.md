@@ -1,0 +1,138 @@
+---
+title: "Act IV - Amber the Big Sister"
+excerpt: "Amber stumbles into the world of *Little Women*, clashes with the four March sisters, and discovers a deep admiration for the beauty of girls’ lives—even if she pretends otherwise."
+publishedAt: "2025-09-25"
+readTime: 15
+tags: ["sitcom", "fiction", "fantasy"]
+slug: "act-4-amber-the-big-sister"
+---
+
+# Act IV — *Amber the Big Sister*  
+
+## Scene 1: The Borrowed Book  
+
+*(Sydney flat, early evening. The kitchen is noisy with bubbling pots and clattering pans. Amber has already swiped 'Little Women' from Will’s bookcase, meaning to skim a few pages between chopping onions. The book lies open on the counter, ignored as steam rises from the stove.)*  
+
+**AMBER** *(grumbling to herself while stirring)*:  
+Three hungry blokes in the living room and not one of them knows how to boil water. Typical.  
+
+*(She wipes her hands on a tea towel, fishes a crumpled pack of cigarettes from her pocket, and heads to the window. With a practiced flick, she slips one between her lips. The lighter clicks—but as she glances down, the cigarette has vanished. In its place is… a wooden spatula.)*  
+
+**AMBER** *(startled, muttering)*:  
+What the—? This flat’s cursed. Bloody hell—  
+
+*(She whirls around to complain out loud, only to stop dead. The linoleum has turned into wide wooden planks. The modern hum of the fridge is gone, replaced by the crackle of a hearth. Outside the window, snow drifts past candlelit panes. Amber blinks—she’s no longer in Sydney at all.)*  
+
+*(Across the room, four girls bustle about: Meg preening with rouge at a mirror, Jo hunched over ink-stained papers, Beth timidly playing at a small upright piano, and Amy leaning out the curtains to spy on the neighbours.)*  
+
+**AMBER** *(deadpan, clutching the spatula like a weapon)*:  
+Of course. Brilliant.
+
+*(The sisters glance up, wide-eyed, as Amber sighs and ties on an apron she did not own a moment ago.)*  
+
+---
+
+## Scene 2: The March Kitchen  
+
+*(Amber surveys the room. Four girls talk over each other, the air buzzing with vanity, frustration, shyness, and daydreams. Amber’s jaw drops.)*  
+
+**AMBER** *(in disbelief)*:  
+What on earth is this circus? Rouge, scribbles, sighs, and gossip—are you girls rehearsing for chaos, or is this just daily life?  
+
+**MEG** *(startled, then hopeful)*:  
+But you’re our big sister, aren’t you?  
+
+**AMBER** *(snorts, eyes wide)*:  
+Big sister? Me? Don’t make me laugh. If I am, then I’ve clearly inherited four crybabies.  
+
+*(The sisters bristle, but Amber points the spatula like a gavel, slipping into the role.)*  
+
+**AMBER** *(to Meg)*:  
+Meg, you moan about not being pretty enough. Do you think beauty is your only ticket in life? You want a home? Build it with your own hands, not rouge and ribbons.  
+
+**MEG** *(blushing, defensive but earnest)*:  
+Yes, I wish to look prettier, because I wish to bring gentleness where life is harsh.  
+
+**AMBER** *(softening a fraction, then turning on Jo)*:  
+And you, Jo—growling about injustice. Writing won’t change the world if all you do is complain. Are you here to prove women can fight with words, or to sulk because men don’t hand you the stage?  
+
+**JO** *(fierce, eyes blazing)*:  
+I don’t want their stage. I’ll build my own. My words will outlive me, even if they spit at my name now.  
+
+**AMBER** *(arching a brow, then to Beth)*:  
+Beth—quiet as a mouse. You’d rather freeze your hands than ask for help. Sweetheart, silence may look gentle, but it breaks you first. Why do you hide?  
+
+**BETH** *(small voice)*:  
+Because I’d rather give than take. I only want to ease Father’s burdens.  
+
+**AMBER** *(her stare lingers, then moves to Amy)*:  
+And Amy—don’t think I didn’t hear you. Pining over old Lawrence like he’s the prize. You believe beauty entitles you to love? What happens when it fades?  
+
+**AMY** *(chin high, defiant)*:  
+Then I’ll have art. I want to paint what’s eternal, to prove that I am more than a pretty face. And I want peace, no more war, no more brothers sent away.  
+
+*(Amber lowers the spatula slowly, taking in their flushed faces, their stubborn eyes. Her scowl slips into something warmer, thoughtful.)*  
+
+**AMBER** *(gruff, but voice cracking at the edges)*:  
+You’re all ridiculous—vain, loud, timid, spoiled. And yet…  
+
+*(She sighs, shoulders dropping.)*  
+
+**AMBER:**  
+…underneath, you’re strong. Brave. Compassionate. Each of you wants to love, to create, to heal, to dream bigger than the world allows. Call it childish if you like, but it’s the kind of childishness that keeps the world alive.  
+
+*(The sisters brighten: Jo raises her ink-stained hand in salute, Meg smiles through tears, Beth whispers “thank you,” Amy blushes and looks away. For the first time, Amber feels the weight and joy of being the “big sister.”)*  
+
+*(The wind stirs, curtains snap, and the March kitchen dissolves into curry steam. Amber blinks—back in Sydney, spatula in hand, three hungry men already waiting at the table. She sighs, but a faint smile tugs her lips.)*  
+
+
+---
+
+## Scene 3: Back at the Flat  
+
+*(Amber stands at the stove again, spatula in hand. Three heads turn—Mark, Will, Wai—hungry, hopeful, hopeless.)*  
+
+**WAI** *(dramatic despair)*:  
+At last! I nearly wrote my will. It’s two lines: “Give racket to Will. Delete browser history.”  
+
+**MARK** *(earnest)*:  
+Do you need help plating? I can… line the bowls by size.  
+
+**WILL** *(mild, teasing)*:  
+Let the chef conduct. We’re lucky to eat at all.  
+
+*(Amber serves with theatrical force, then leans on the counter, eyeing them.)*  
+
+**AMBER** *(half to herself)*:  
+I was just somewhere with four girls ready to crack the world open with stubbornness and grace. Felt like a home I forgot to have.  
+
+**WAI** *(mouth full already)*:  
+You went out? You were gone ten minutes.  
+
+**AMBER** *(snorts)*:  
+Some trips don’t need passports.  
+
+**MARK** *(quietly)*:  
+Were they… happy?  
+
+**AMBER** *(after a pause)*:  
+Hungry. Worried. Brilliant. Girls carry six impossible things before breakfast and apologise for being tired.  
+
+**WILL** *(watching her, softly)*:  
+Sounds like you liked having sisters.  
+
+**AMBER** *(gruff, hiding a smile)*:  
+I liked that they liked each other. Imagine that—a house running on affection instead of takeaway menus and lost socks.  
+
+**WAI** *(mock-wounded)*:  
+Oi! These socks have character.  
+
+**AMBER** *(deadpan)*:  
+So does a compost bin. Doesn’t mean I want to live with one.  
+
+*(Laughter ripples. Amber raises her glass, the others follow.)*  
+
+**AMBER:**  
+For the record—I may talk like a dockworker, but I love girls’ lives. Ribbons, ink-stained fingers, cold hands warmed over tea, silly crushes, astonishing courage. If the world is ever kind, let it begin with them.  
+
+*(Mark smiles. Wai cheers. Will clinks his glass with hers, eyes lingering. Amber rolls her eyes but clinks anyway. The table erupts with chatter, while in the next room the bookcase waits, pages rustling like a secret kept.)*  
