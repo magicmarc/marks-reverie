@@ -129,6 +129,7 @@ const EmptyState = styled.div`
 `
 
 
+
 interface BlogListingProps {
   posts: BlogPost[]
 }
@@ -142,6 +143,9 @@ export default function BlogListing({ posts }: BlogListingProps) {
     })
   }
 
+  // Filter out novel posts from regular blog posts
+  const blogPosts = posts.filter(post => !post.tags.includes('novel'))
+
   return (
     <BlogContainer>
       <PageHeader>
@@ -151,9 +155,10 @@ export default function BlogListing({ posts }: BlogListingProps) {
         </PageSubtitle>
       </PageHeader>
 
-      {posts.length > 0 ? (
+
+      {blogPosts.length > 0 ? (
         <PostsGrid>
-          {posts.map((post) => (
+          {blogPosts.map((post) => (
             <PostCard key={post.id}>
               <PostMeta>
                 <PostDate dateTime={post.publishedAt}>

@@ -3,7 +3,7 @@ title: "Act II - The Bookcase Opens"
 excerpt: "Mark is pulled into Will’s magical bookcase and finds himself in the world of Pride and Prejudice. What begins as playful turns into a social disaster at the Meryton ball, with Will’s darker edge surfacing."
 publishedAt: "2025-09-24"
 readTime: 10
-tags: ["sitcom", "fiction", "Sydney"]
+tags: ["novel", "fiction", "Sydney", "Will's Bookcase"]
 slug: "act-2-the-bookcase-opens"
 ---
 

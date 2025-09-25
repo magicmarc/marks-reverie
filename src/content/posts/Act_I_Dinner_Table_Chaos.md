@@ -3,7 +3,7 @@ title: "Act I - Dinner Table Chaos"
 excerpt: "A sitcom-style scene in Sydney: four friends gather for dinner."
 publishedAt: "2025-09-24"
 readTime: 6
-tags: ["sitcom", "fiction", "Sydney"]
+tags: ["novel", "fiction", "Sydney", "Will's Bookcase"]
 slug: "act-1-dinner-table-chaos"
 ---
 

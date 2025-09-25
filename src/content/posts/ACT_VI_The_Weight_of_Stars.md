@@ -3,7 +3,7 @@ title: "Act VI - The Weight of Stars"
 excerpt: "On a starlit night in the wild, Will slips into another book—finding himself face to face with Ye Wenjie at the edge of humanity’s fate. The confrontation leaves him bleeding, but also forces the friends to reckon with what they see when they look up."
 publishedAt: "2025-09-28"
 readTime: 15
-tags: ["sitcom", "fiction", "fantasy"]
+tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
 slug: "act-6-under-the-southern-sky"
 ---
 
