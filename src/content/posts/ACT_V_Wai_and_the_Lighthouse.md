@@ -29,7 +29,6 @@ You’re the athlete, remember? If you collapse first, it’ll be embarrassing f
 
 *(As the others vanish around a bend, Wai pauses, drawn. He trudges alone towards the lighthouse.)*  
 
----
 
 ## Scene 2: The Lighthouse  
 
@@ -70,9 +69,6 @@ And I am never alone. My love and I—no wars to part us, no time to steal her f
 *(Her eyes shine, not with fanaticism but with awe. She looks back at Wai, almost pitying.)*  
 
 *(Wai stares, speechless. For once, no joke rises to his lips. He takes a shaky breath, caught between yearning and dread.)*  
-
-
----
 
 ## Scene 3: The Temptation  
 
