@@ -104,7 +104,7 @@ No, this isn’t it. It feels like a bubble… vast enough to hold oceans, stars
 *(He presses a hand to his chest, breath ragged.)*  
 
 **WAI:**  
-But if I sink into this… I leave them. Amber’s shouting, Will’s stupid tennis bets, Mark fussing over the smallest things - my own chaos. How do I trade them for silence, even perfect silence?  
+But if I sink into this… I leave them. How do I trade my own chaos for silence, even perfect silence?  
 
 *(His voice cracks, almost a plea.)*  
 
