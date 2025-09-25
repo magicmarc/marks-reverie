@@ -27,161 +27,130 @@ You’d find homework in the heavens.
 
 ## Scene 2: The Radar Station  
 
-*(In an instant, the wilderness dissolves. Will blinks—and finds himself before a massive radar station rising from the hillside, its dish sweeping across the night sky. He doesn’t flinch. Instead, he strides toward it, as if expected.)*  
+*(In an instant, the wilderness dissolves. Will blinks—and finds himself before a massive radar station rising from the hillside, its dish sweeping across the night sky. He doesn’t flinch. Instead, he adjusts his cuffs, then strolls forward with the calm assurance of a guest arriving precisely on time.)*  
 
 *(Inside, consoles hum. Operators doze at their stations. Only one figure remains fully awake: **YE WENJIE**. Her eyes are hollow, her fingers tense over a command line. She stiffens as she notices Will, quickly reaching under the desk and drawing a small dagger.)*  
 
-**YE WENJIE** *(coldly)*:  
+**YE WENJIE** *(coldly):*  
 Who are you?  
 
-**WILL** *(raising his hands gently)*:  
-Not an enemy. Just… someone who wants to know why.  
+**WILL** *(inclining his head, voice smooth and courteous):*  
+No enemy. A stranger, yes—but one who admires a woman brave enough to flip the board entirely.  
 
-**YE WENJIE:**  
-Why now? Why you? I’ve cried out to the universe a thousand times and no one answered.  
-
-**WILL:**  
-Because now is the moment. A pivot in human fate.  
-
-**YE WENJIE** *(bitter laugh)*:  
-Fate? Humanity is savage, short-sighted. We’ve burnt forests, poisoned rivers, turned science into war machines. We need change. We need allies beyond our petty wars. Out there—there must be something greater.  
-
-**WILL** *(sharply)*:  
-Or something worse. You’re gambling the future on strangers. What if they don’t come as saviours, but as predators?  
-
-**YE WENJIE:**  
-And what if they do come as saviours? Even predators would be better than the cancer we’ve become. At least then, the human story won’t rot in its own filth.  
+*(Ye Wenjie narrows her eyes, watching him warily as he takes a measured step closer.)*  
 
 **WILL:**  
-You despise humanity, but you are still human. Doesn’t that disgust turn inward?  
+Most cling to the rules, even when the rules strangle them. You’ve chosen instead to overturn the game. I can’t help but ask—aren’t you afraid?  
 
-**YE WENJIE** *(voice trembling, then rising)*:  
-Yes! Every day. I watched my father beaten to death for books, my husband discarded like a pawn. I have seen kindness trampled, brilliance punished. You call this civilisation? It is a cage of cruelty. If salvation cannot be born here, then it must come from the stars.  
+**YE WENJIE** *(after a beat, steady but low):*  
+Afraid? Once, perhaps. But fear is constant. Hope is rarer. This—what I do tonight—is not madness. It is the only hope left to me.  
 
-*(She points upward, eyes blazing.)*  
-
-**YE WENJIE:**  
-Humanity is a frog at the bottom of a well. The sky we see is a pitiful circle. We croak and quarrel, thinking our puddle is the world. But beyond the rim, the universe teems with oceans of light. Only by climbing out—by calling out—can we see truth.  
-
-**WILL** *(meeting her gaze, voice low but cutting):*  
-And yet even frogs learn to look up. Humanity’s gift is not power, but wonder. Children who trace constellations in the dirt, lovers who promise forever under the stars—we are the animal that lifts its eyes from the ground. That is enough to prove we’re not finished yet.  
-
-**YE WENJIE** *(snapping back)*:  
-Dreams don’t stop bullets. Wonder doesn’t clean poisoned rivers.  
-
-**WILL:**  
-No, but without wonder, we stop climbing. And if we surrender wonder to strangers, we may never rise at all.  
-
-*(The two glare at each other. For a long moment, only the low hum of the radar fills the air. Ye Wenjie’s eyes soften briefly.)*  
+*(She gestures faintly toward the consoles, her expression unyielding.)*  
 
 **YE WENJIE:**  
-The man who brought me here, who believed in me—he died in an accident. He said the stars would answer. I cannot let his faith be meaningless.  
+I’ve lived through fathers beaten to death for books, through the silence of a world deaf to reason. I’ve seen kindness ground to dust, brilliance punished as arrogance. Humanity poisons rivers, burns forests, turns every discovery into a weapon. If salvation cannot be born here, then it must come from the stars.  
 
-**WILL** *(quietly, almost pleading):*  
-So you’ll hand our destiny to strangers? To the unknown?  
+**WILL** *(a faint smile, almost admiring):*  
+So you call to the void, not knowing who might answer. You place your hope on strangers who may come as saviours—or as predators.  
 
-**YE WENJIE** *(with steel, clutching the dagger tighter):*  
+**YE WENJIE:**  
 Better the unknown than the monster we already are.  
 
-**WILL** *(sudden intensity):*  
-No. Better the monster we know, the monster we can tame.  
+**WILL** *(with quiet amusement, tilting his head):*  
+And still, you wager everything on one signal. A single move in a universe-sized game. You know it may doom us all, and yet you play it with perfect calm.  
 
-*(The words strike like a whip. Her face twists—grief, rage, defiance. Before Will can say more, she lunges. The dagger plunges into his chest. His breath shudders, blood soaking his shirt. She whirls back to the console, typing frantically. The screen floods with cascading code, star maps flashing like wounds across the dark. Will collapses, clutching the wound, strength ebbing.)*  
+**YE WENJIE** *(with a trace of iron):*  
+Because hesitation is death. I have thought this through longer than you can imagine. The man who brought me here, who believed in me—he died in an accident. His faith will not be wasted. Tonight I will answer the stars, even if the answer destroys us.  
+
+*(A silence hangs between them. Will studies her, something like respect flickering in his eyes. He opens his mouth to speak again, but Ye Wenjie grips the dagger tighter, her face set like stone.)*  
+
+**YE WENJIE:**  
+I don’t know who you are, or why you appear now. But I cannot risk delay. I have this one chance—perhaps in all of history. I will not let a stranger take it from me.  
+
+*(Before Will can reply, she lunges—not in rage, but in ruthless calculation. The dagger drives into his chest. His breath catches, blood blooming across his shirt. She turns back to the console at once, typing rapidly. Outside, the radar dish groans, pivoting skyward. The signal is launched, carrying humanity’s fate into the void. Will crumples to the floor, clutching the wound, his face pale but still composed, a ghost of that sly smile lingering even as his strength fades.)*  
 
 
 ## Scene 3: The Wound and the Stars  
 
-*(Will lies collapsed on the cold concrete, blood seeping from his chest. His breath comes in ragged gasps. Ye Wenjie stands by the console, her code already streaming across the screen. Her dagger drips crimson. The signal has been sent. The decision is made.)*  
+*(Will collapses against the cold floor, breath ragged but his composure intact. Blood seeps through his shirt, yet his eyes remain sharp, watching Ye Wenjie at the console. Her fingers fly over the keys, finishing the sequence. Outside, the radar dish groans, tilting to face the heavens. The message is gone, the deed complete.)*  
 
-*(Suddenly, a ripple of light—Mark stumbles into the room, clutching the book to his chest. His eyes widen as he sees Will on the ground.)*  
+*(At last she exhales, shoulders sinking. She glances back at Will—pale, slumped, but still alive. For a long moment, her expression is unreadable. Then, with a sharp movement, she drops the dagger, retrieves a first aid kit from the wall, and kneels beside him.)*  
 
-**MARK** *(shouting, rushing to his side)*:  
-Will! No—please, stay with me!  
+**YE WENJIE** *(quiet, almost clinical):*  
+My task is done.
 
-*(He presses his hands against the wound, tears streaking his face. Will groans, trying to raise a hand to brush Mark’s cheek, but his strength fails.)*  
+*(She cleans the wound briskly, binds the gash with practiced efficiency. Her touch is firm, impersonal, yet not cruel. Will watches her, lips curling faintly despite the pain.)*  
 
-**MARK** *(sobbing)*:  
-You can’t go. Not like this. You’re my friend—my impossible, infuriating friend.  
+**WILL** *(hoarse, voice edged with dark amusement):*  
+Strange mercy. You stab, then save. You’re full of contradictions.  
 
-*(For the first time, Ye Wenjie’s expression softens. She sets the dagger down, her face lined with exhaustion.)*  
+**YE WENJIE** *(without looking at him):*  
+No. I am consistent. I remove obstacles. Now that you are no longer one, you may live.  
 
-**YE WENJIE** *(quietly):*  
-I have no quarrel with you. The choice is already made. Humanity’s message has been launched… but this man need not die for it.  
+*(They sit in silence, the hum of machines filling the space. Outside, stars burn against the void. Will tilts his head back, wincing but still poised, eyes on the alien constellations above.)*  
 
-*(She kneels beside them, her movements surprisingly gentle. She gestures toward a side door. Together they half-carry, half-drag Will into a small medical room. The emergency lamp buzzes overhead as Ye Wenjie helps Mark find bandages, disinfectant. Her hands, once cruel, are steady as she ties the dressing.)*  
+**WILL:**  
+Do you never wonder what you’ve unleashed? A cry into the dark—something may answer. Isn’t that fear?  
 
-**MARK** *(looking at her through tears):*  
-Why… why help us now?  
+**YE WENJIE** *(gazing out the window, her tone even):*  
+Of course it is fear. But hope is born from fear. Without it, there is only silence. I would rather live beneath terror than beneath despair.  
 
-**YE WENJIE** *(softly, with a bitter smile):*  
-And even monsters weep when children bleed.  
+*(Will studies her, then allows a small, knowing smile.)*  
 
-*(Will, pale but stable, slips into unconsciousness. Mark sits beside him, gripping his hand. Across the room, Ye Wenjie sinks into a chair, her eyes lost in thought. Mark wipes his face, then turns toward her.)*  
+**WILL:**  
+Mark would never understand. He hides from fear, folds himself into scripts written by others. But perhaps… he will learn.  
 
-**MARK** *(quietly, voice breaking):*  
-Thank you. I thought… I thought we’d lost him. Whatever else you’ve done—thank you.  
+**YE WENJIE** *(finally turning to him, voice low):*  
+Do you believe in fate?  
 
-*(Ye Wenjie doesn’t answer, but her gaze softens, the dagger at her side forgotten. The silence between them is heavy but not hostile. Mark takes a shaky breath, words tumbling out before he can stop them.)*  
+**WILL** *(after a long pause, almost whispering):*  
+I believe in patterns too vast for us to see. Threads we mistake for choice. Perhaps that is fate.  
 
-**MARK:**  
-You know… I’ve spent so much of my life trying to live by the rules. My family’s rules, society’s rules, the script that says who I’m supposed to be. I thought if I kept everything neat and perfect, maybe the world would finally leave me alone. But it never does.  
+**YE WENJIE** *(nodding faintly):*  
+Physics has no answer. Entropy rules, but choice whispers. Perhaps both are true. Perhaps neither.  
 
-*(He looks down at Will’s limp hand in his own, voice trembling.)*  
+*(They fall into a heavy silence, staring at the shifting constellations. The sky above the station seems subtly wrong—lines of stars forming shapes unrecognisable, as though the universe itself has tilted. Ye Wenjie finally stands, glancing at the clock.)*  
 
-**MARK:**  
-And then he crashes into my life, loud and impossible. And suddenly the script doesn’t fit anymore. Sometimes I think—maybe that’s the point. Maybe we’re meant to stumble off the path.  
+**YE WENJIE:**  
+The next shift will wake soon. You cannot remain.  
 
-*(Ye Wenjie studies him, her face unreadable. Mark looks up, eyes red, but steady.)*  
-
-**MARK:**  
-Do you… do you believe in *the script*? Or in our power to change it?  
-
-**YE WENJIE** *(after a long pause, her tone measured):*  
-Physics has not answered that question. Entropy rules, but choice whispers. Perhaps both are true, perhaps neither.  
-
-*(Ye Wenjie exhales, almost a sigh. They fall silent together. Outside the window, the stars blaze differently—patterns alien, constellations unrecognisable. Mark sits beside her, sharing the stillness. For a moment, there is no war, no betrayal, only the infinite night.)*  
-
-**MARK** *(softly, almost to himself):*  
-Even if the stars cage us… we still look up.  
-
-*(He closes his eyes, lifts the book in his hand, and slowly shuts it. The radar station dissolves into starlight. When he opens his eyes again, he and Will are back at the campsite, the Southern sky arching above, familiar and infinite. Will stirs faintly beside him, alive. Mark lets out a shuddering breath, clutching the book 'The Three-Body Problem' to his chest.)*  
+*(She reaches for the book lying beside Will. Her hand lingers on the cover, then she closes it with quiet finality. The radar station dissolves into starlight, the machines fading into silence. Will feels his body grow weightless, pulled back toward another world. His last sight is Ye Wenjie’s profile against the alien sky, unyielding, solitary, resolute.)*  
 
 
 ## Scene 4: Back to the Camp  
 
-*(Amber and Wai rush over, their footsteps loud on the scrub. Mark steadies Will with a hand, grounding him. Will blinks up at them, pale but breathing. The horizon is empty where the radar station once loomed; only dark bush and the vast southern sky remain, burning with impossible clarity.)*  
+*(Will staggers back toward the camp, his steps slow, shoulders slightly hunched. The wound is gone, but the phantom ache lingers deep in his chest. He lowers himself carefully onto the ground beside the fire. Amber and Wai, bleary from sleep, barely notice anything unusual.)*  
 
-**AMBER** *(kneeling, voice sharp but shaken):*  
-Bloody hell, Will—are you hurt? Don’t you dare die on us, I’ve still got rent money to squeeze out of you.  
+**AMBER** *(yawning, pulling her blanket tighter):*  
+You’re back. Took you long enough.  
 
-**WAI** *(hovering awkwardly, wringing his cap):*  
-Yeah, mate, you look wrecked. Want me to carry you back? Or, uh… call triple zero?  
+**WAI** *(half-smiling, eyes still heavy):*  
+Don’t tell me you went wandering just to have a private smoke with the stars.  
 
-*(Will coughs, then waves them off with infuriating calm. A thin smile curves his lips.)*  
+*(They chuckle drowsily, settling back down. Only Mark stays awake, watching Will closely. His sharp eyes catch the tremor in Will’s hand, the pallor in his face—signs no one else notices. Something about him feels altered, as if he has walked through death itself. Mark opens his mouth, but Will turns, meeting his gaze. A faint shake of the head, a glint of command in his eyes. Do not ask. Not now.)*  
 
-**WILL** *(dry, almost mocking):*  
-Relax. If I were dying, I’d make it far more dramatic. This—this is just a scratch.  
-
-*(Amber scowls, half-relieved, half-annoyed. Wai exhales, muttering under his breath. Mark squeezes Will’s shoulder, still tense. Will lets the silence hang for a beat, then his tone shifts—silken, edged with that familiar darkness.)*  
+*(Mark swallows his questions, nodding faintly. Will exhales, then tilts his head back to the sky. His voice is calm, velvet-dark, carrying an authority that makes the others stir again.)*  
 
 **WILL:**  
-Tell me, then. Since you’re all hovering like mother hens—when you look up at that sky, what do you actually see?  
+Look up. Once more. Tell me—what do you see?  
 
-*(The others glance at one another. For once, no jokes come quickly. The stars wheel above, merciless and magnificent.)*  
+*(The others follow his gaze. The Southern sky blazes, sharp and merciless, every star alive with clarity.)*  
 
-**AMBER** *(quiet for once, then softly):*  
-I see fire. Millions of lanterns, carried by hands we’ll never touch. It’s beautiful… and it doesn’t need us at all.  
+**AMBER** *(quietly, surprising herself):*  
+Lanterns. Millions of them. Beautiful, but so far away they’d never know if we were gone.  
 
-**WAI** *(swallowing hard, voice unsteady):*  
-I see distance. Courts so wide I’ll never reach the baseline. Makes every point I win here feel tiny. Terrifying, really.  
+**WAI** *(hesitant, softer than usual):*  
+I see distance. Courts too wide for me to ever cross. Makes everything here feel… smaller than I thought.  
 
-**MARK** *(his gaze fixed upward, trembling with awe):*  
-I see questions without answers. Patterns too vast for us to solve. Wonder, and dread, all knotted together.  
+**MARK** *(voice low, still watching Will as much as the stars):*  
+I see questions I can’t answer. Patterns I can’t solve. Wonder and dread, tangled together.  
 
-*(They fall into silence. For a long moment, the only sound is the surf against the cliffs, steady and eternal. The stars blaze above, indifferent and magnificent.)*  
+*(Will listens, his expression unreadable. At last, he speaks—measured, almost cold, yet with a strange undercurrent of reverence.)*  
 
-**WILL** *(finally, his voice low, weighted, almost tender beneath the bite):*  
-I see how small we are. How fragile. And yet—how lucky, that we get to look up at all.  
+**WILL:**  
+I see our fragility. Brief sparks in a universe that will not remember us. And yet… we still look. That is our defiance, and our grace.  
 
-*(The others nod. No laughter this time. They lie back together on the cool earth, shoulder to shoulder, four figures dwarfed by the infinite night. The bush hums, the sea breathes, and under the Southern sky they feel both terrified and tender, impossibly small and quietly infinite.)*  
+*(Silence falls. No jokes now. They lie back together on the cool earth, four figures under the Southern Cross. The bush hums, the sea breathes, and Mark, still shaken, glances once more at Will—wondering what it is he survived, and why he chose not to speak.)*  
+
+*Curtain.*  
 
