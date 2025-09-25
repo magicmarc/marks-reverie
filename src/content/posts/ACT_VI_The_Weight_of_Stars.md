@@ -14,7 +14,7 @@ slug: "act-6-under-the-southern-sky"
 *(The four friends sit by their tent, the coastal bush stretching into silence. A billion stars glitter above. They sprawl on sleeping bags, pointing out constellations.)*  
 
 **AMBER** *(yawning, swatting a mosquito)*:  
-If that’s Orion’s Belt, then I’m the Queen of England. Looks like three crooked buttons.  
+Looks like three crooked buttons.  
 
 **WAI** *(munching chips)*:  
 I say that one’s a tennis racket. Definitely. Cosmic Wimbledon.  
