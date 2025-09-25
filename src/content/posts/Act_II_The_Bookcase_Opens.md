@@ -118,20 +118,30 @@ Get me out of here.
 **WILL** *(smile wicked, tilting his head)*:  
 Not until I've had my fill.
 
-*(As the dancers part and turn, Elizabeth steps before Mark. Her gaze lingers too long, sharper than her polite smile. When she takes his hand, her grip is steady, her eyes searching.)*
+*(As the dancers part and turn, Elizabeth steps before Mark. Her smile is gentle at first, the warmth of a gracious hostess. She takes his hand—firm, steady, her eyes lingering with a curiosity that feels almost kind. For a heartbeat, Mark steadies under her gaze.)*  
 
-**ELIZABETH** *(softly, with clarity)*:  
-Mark - I see you now. I know it. 
+**ELIZABETH** *(softly, almost teasing):*  
+You are not so dreadful a dancer as you think.  
 
-*(Mark’s breath catches. The candles blur; it feels as if the entire room has hushed to listen. Laughter still rings around him, yet every glance seems trained upon his trembling frame. Elizabeth does not release his hand. Her knowing smile cuts like a blade.)*
+*(Mark flushes, fumbling a bow, trying to laugh it off. But Elizabeth does not let go of his hand. Her eyes sharpen, searching deeper, as though peeling back a mask.)*  
 
-**MARK** *(stammering)*:  
-I—I… I shouldn't be here.
+**ELIZABETH** *(quieter now, with unsettling clarity):*  
+But you… you do not belong here.  
 
-**ELIZABETH** *(leaning closer, voice like a verdict)*:  
-No. You shouldn't. You can't be seen.
+*(Mark’s breath catches. The candles blur; the music feels distant. Around them, laughter carries on, yet Elizabeth’s voice seems to echo above it, cold and unyielding.)*  
 
-*(Mark tears his hand free, stumbling back. Heat floods his face, shame and terror colliding. The ballroom spins.)*
+**MARK** *(stammering, voice thin):*  
+I—I… I don’t understand—  
+
+**ELIZABETH** *(leaning closer, her grip tightening, eyes suddenly fearful):*  
+No. You shouldn’t be seen. You mustn’t be seen.  
+
+*(The brightness drains from her face, replaced by something like dread—as if she has glimpsed a shadow that does not fit her world. Mark recoils, panicked. Every glance in the ballroom now feels like suspicion, every candle like a spotlight.)*  
+
+**MARK** *(whispering, frantic):*  
+I—I shouldn’t be here!  
+
+*(He tears free from her hand and bolts through the crowd. Gasps ripple, skirts rustle, the music falters. Elizabeth watches him flee, her face pale, her hand still trembling as though she has touched a ghost.)*  
 
 **MARK** *(panicked, stumbling through the crowd)*:  
 Excuse me—sorry—pardon—
