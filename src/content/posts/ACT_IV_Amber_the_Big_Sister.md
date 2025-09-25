@@ -34,7 +34,7 @@ Of course. Brilliant.
 
 ## Scene 2: The March Kitchen  
 
-*(Amber surveys the room. Ahe air buzzing with vanity, frustration, shyness, and daydreams. Amber’s jaw drops.)*  
+*(Amber surveys the room. The crowd before her buzzing with vanity, frustration, shyness, and daydreams. Amber’s jaw drops.)*  
 
 **AMBER** *(in disbelief)*:  
 What on earth is this circus? Rouge, scribbles, sighs, and gossip—are you girls rehearsing for your ridiculous play, or is this just daily life?
