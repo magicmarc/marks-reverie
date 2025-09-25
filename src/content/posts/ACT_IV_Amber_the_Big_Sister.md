@@ -11,12 +11,12 @@ slug: "act-4-amber-the-big-sister"
 
 ## Scene 1: Kitchen  
 
-*(Sydney flat, early evening. The kitchen is noisy with bubbling pots and clattering pans. Amber has already swiped 'Little Women' from Will’s bookcase, meaning to skim a few pages between chopping onions. The book lies open on the counter, ignored as steam rises from the stove.)*  
+*(Sydney flat, early evening. The kitchen is noisy with bubbling pots and clattering pans. Amber swiped 'Little Women' from Will’s bookcase, meaning to skim a few pages between chopping onions. The book lies open on the counter, ignored as steam rises from the stove.)*  
 
 **AMBER** *(grumbling to herself while stirring)*:  
-Three hungry blokes in the living room and not one of them knows how to boil water. Typical.  
+Three men in the living room and no one knows how a kitchen functions. Typical.  
 
-*(She wipes her hands on a tea towel, fishes a crumpled pack of cigarettes from her pocket, and heads to the window. With a practiced flick, she slips one between her lips. The lighter clicks—but as she glances down, the cigarette has vanished. In its place is… a wooden spatula.)*  
+*(She wipes her hands on a tea towel, fishes a crumpled pack of cigarettes from her pocket, and heads to the window. With a practiced flick, she slips one between her lips. The lighter clicks. But as she glances down, the cigarette has vanished. In its place is… a wooden spatula.)*  
 
 **AMBER** *(startled, muttering)*:  
 What the—? This flat’s cursed. Bloody hell—  
@@ -34,13 +34,13 @@ Of course. Brilliant.
 
 ## Scene 2: The March Kitchen  
 
-*(Amber surveys the room. Four girls talk over each other, the air buzzing with vanity, frustration, shyness, and daydreams. Amber’s jaw drops.)*  
+*(Amber surveys the room. Ahe air buzzing with vanity, frustration, shyness, and daydreams. Amber’s jaw drops.)*  
 
 **AMBER** *(in disbelief)*:  
-What on earth is this circus? Rouge, scribbles, sighs, and gossip—are you girls rehearsing for chaos, or is this just daily life?  
+What on earth is this circus? Rouge, scribbles, sighs, and gossip—are you girls rehearsing for your ridiculous play, or is this just daily life?  What are you doing here.
 
 **MEG** *(startled, then hopeful)*:  
-But you’re our big sister, aren’t you?  
+Does our big sister need a hand in the kitchen?  
 
 **AMBER** *(snorts, eyes wide)*:  
 Big sister? Me? Don’t make me laugh. If I am, then I’ve clearly inherited four crybabies.  
@@ -48,7 +48,7 @@ Big sister? Me? Don’t make me laugh. If I am, then I’ve clearly inherited fo
 *(The sisters bristle, but Amber points the spatula like a gavel, slipping into the role.)*  
 
 **AMBER** *(to Meg)*:  
-Meg, you moan about not being pretty enough. Do you think beauty is your only ticket in life? You want a home? Build it with your own hands, not rouge and ribbons.  
+Meg, you moan about not being pretty enough. Do you think beauty is your only ticket in life?  
 
 **MEG** *(blushing, defensive but earnest)*:  
 Yes, I wish to look prettier, because I wish to bring gentleness where life is harsh.  
@@ -60,7 +60,7 @@ And you, Jo—growling about injustice. Writing won’t change the world if all 
 I don’t want their stage. I’ll build my own. My words will outlive me, even if they spit at my name now.  
 
 **AMBER** *(arching a brow, then to Beth)*:  
-Beth—quiet as a mouse. You’d rather freeze your hands than ask for help. Sweetheart, silence may look gentle, but it breaks you first. Why do you hide?  
+Beth—quiet as a mouse. You’d rather suffer by yourself than ask for help. Sweetheart, silence may look gentle, but it breaks you first. Why do you hide?  
 
 **BETH** *(small voice)*:  
 Because I’d rather give than take. I only want to ease Father’s burdens.  
@@ -107,7 +107,7 @@ Let the chef conduct. We’re lucky to eat at all.
 I was just somewhere with four girls ready to crack the world open with stubbornness and grace. Felt like a home I forgot to have.  
 
 **WAI** *(mouth full already)*:  
-You went out? You were gone ten minutes.  
+Oi, were you high or something? Never seen anyone look that blissful over a smoke.
 
 **AMBER** *(snorts)*:  
 Some trips don’t need passports.  
@@ -116,7 +116,7 @@ Some trips don’t need passports.
 Were they… happy?  
 
 **AMBER** *(after a pause)*:  
-Hungry. Worried. Brilliant. Girls carry six impossible things before breakfast and apologise for being tired.  
+Hungry. Worried. Brilliant.
 
 **WILL** *(watching her, softly)*:  
 Sounds like you liked having sisters.  
@@ -127,12 +127,18 @@ I liked that they liked each other. Imagine that—a house running on affection 
 **WAI** *(mock-wounded)*:  
 Oi! These socks have character.  
 
-**AMBER** *(deadpan)*:  
-So does a compost bin. Doesn’t mean I want to live with one.  
+**WILL**:  
+Here’s to the sisters you missed out on—and to the one we’re lucky enough to have.
 
 *(Laughter ripples. Amber raises her glass, the others follow.)*  
 
 **AMBER:**  
-For the record—I may talk like a dockworker, but I love girls’ lives. Ribbons, ink-stained fingers, cold hands warmed over tea, silly crushes, astonishing courage. If the world is ever kind, let it begin with them.  
+For the record—I may swear like a bogan, but I’ve a soft spot for girls’ lives. The ribbons, the ink-stained fingers, the frozen hands clutching teacups, the foolish crushes and the stubborn courage. If the world ever learns kindness, it should begin with them.
 
-*(Mark smiles. Wai cheers. Will clinks his glass with hers, eyes lingering. Amber rolls her eyes but clinks anyway. The table erupts with chatter, while in the next room the bookcase waits, pages rustling like a secret kept.)*  
+**WAI** *(mock-wounded)*:  
+Blimey, listen to that speech—our big sister gone all poet laureate. Next she’ll be knitting doilies and writing sonnets.
+
+**AMBER** *(snorts, grabbing a bread roll and lobbing it at his head)*:  
+Shut it, you little rat. 
+
+*(Wai ducks, laughing. Mark nearly chokes on his wine. Will hides a smirk behind his glass. Amber slaps the table with a bark of laughter, the veneer of sentiment gone, her rough edges shining through once more.)*  
