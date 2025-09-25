@@ -147,9 +147,6 @@ export default function NovelListing({ acts }: NovelListingProps) {
           <p>
           In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning. But Will’s bookcase is no ordinary piece of furniture. Behind its shelves lies something vast—worlds that breathe, stories that bleed into reality.
           </p>
-          <p>
-          Will’s bookcase doesn’t just open onto fiction. It opens onto them.
-          </p>
         </Description>
       </Header>
 
