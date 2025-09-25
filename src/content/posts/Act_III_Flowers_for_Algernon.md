@@ -60,7 +60,7 @@ No, no, really, I’m not qualified—I can barely fix my Wi-Fi!
 
 ---
 
-## Scene: A Research Institute, Late 1960s
+## Scene: A Research Institute
 
 Fluorescent lights buzz. The walls are white, the air thick with the scent of disinfectant and chalk dust. Mark is ushered inside by a gaggle of white coats, planted in front of a blackboard scrawled with formulae. Charlie stands beside him, eyes sharp, posture taut with the confidence of a new mind.
 
