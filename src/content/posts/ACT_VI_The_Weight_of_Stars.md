@@ -137,26 +137,25 @@ Don’t tell me you went wandering just to have a private smoke with the stars.
 
 *(They chuckle drowsily, settling back down. Only Mark stays awake, watching Will closely. His sharp eyes catch the tremor in Will’s hand, the pallor in his face—signs no one else notices. Something about him feels altered, as if he has walked through death itself. Mark opens his mouth, but Will turns, meeting his gaze. A faint shake of the head, a glint of command in his eyes. Do not ask. Not now.)*  
 
-*(Mark swallows his questions, nodding faintly. Will exhales, then tilts his head back to the sky. His voice is calm, velvet-dark, carrying an authority that makes the others stir again.)*  
+*(Mark swallows his questions. Will leans back against his pack, tilting his head skyward. His tone is casual, but there’s an undercurrent too steady, too deliberate.)*  
 
 **WILL:**  
-Look up. Once more. Tell me—what do you see?  
+Humour me. What do you lot see when you look up?  
 
-*(The others follow his gaze. The Southern sky blazes, sharp and merciless, every star alive with clarity.)*  
+*(The others blink, then glance skyward. The Southern Cross glimmers above, sharp and brilliant.)*  
 
-**AMBER** *(quietly, surprising herself):*  
-Lanterns. Millions of them. Beautiful, but so far away they’d never know if we were gone.  
+**AMBER** *(grinning, then softer):*  
+Fairy lights. Like the kind I always wanted strung across my room when I was a kid. Silly, eh?  
 
-**WAI** *(hesitant, softer than usual):*  
-I see distance. Courts too wide for me to ever cross. Makes everything here feel… smaller than I thought.  
+**WAI** *(stretching, thoughtful for once):*  
+I see a pitch with no lines, no end. You can’t really win on it… but maybe it’s worth running anyway.  
 
-**MARK** *(voice low, still watching Will as much as the stars):*  
-I see questions I can’t answer. Patterns I can’t solve. Wonder and dread, tangled together.  
+**MARK** *(after a pause, voice careful):*  
+I see… questions. Equations too vast to solve. It’s unsettling, but… beautiful too.  
 
-*(Will listens, his expression unreadable. At last, he speaks—measured, almost cold, yet with a strange undercurrent of reverence.)*  
+*(Will’s eyes don’t leave the sky. When he answers, his words are measured, his voice quiet but heavy, cutting through the night like a verdict.)*  
 
 **WILL:**  
-I see our fragility. Brief sparks in a universe that will not remember us. And yet… we still look. That is our defiance, and our grace.  
+I see how fragile we are. Sparks that vanish before the universe even notices. And yet… we keep staring upward, as if the stars might owe us meaning. That’s our grace. And our folly.  
 
-*(Silence falls. No jokes now. They lie back together on the cool earth, four figures under the Southern Cross. The bush hums, the sea breathes, and Mark, still shaken, glances once more at Will—wondering what it is he survived, and why he chose not to speak.)*  
-
+*(Amber shifts, uncharacteristically quiet. Wai looks away, chewing on the thought. Mark, still watching Will, feels something cold stir in his chest—a sense that Will has seen further, and darker, than any of them can follow. The night deepens. The bush hums. The sea breathes. Four friends lie beneath the Southern Cross, laughter gone, silence heavier, their smallness undeniable.)*  
