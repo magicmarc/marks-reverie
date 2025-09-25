@@ -1,5 +1,5 @@
 ---
-title: "Act III - Flowers for Algernon"
+title: "Act III - The Vanishing Flower"
 excerpt: "Mark ventures alone into Will’s bookcase and finds himself in the world of Flowers for Algernon. A lecture hall, a laboratory, and finally a tearful return test his fears of intelligence, identity, and belonging."
 publishedAt: "2025-09-25"
 readTime: 14
@@ -7,7 +7,7 @@ tags: ["sitcom", "fiction", "fantasy"]
 slug: "act-3-flowers-for-algernon"
 ---
 
-# Act III — *Flowers for Algernon*
+# Act III — *The Vanishing Flower*
 
 One evening, Mark left work earlier than usual. The flat was empty. The silence made the place feel larger than it was. Mark lingered in the kitchen for a while, then, unable to resist, drifted towards Will’s room.
 
