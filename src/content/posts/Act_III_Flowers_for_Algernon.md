@@ -112,30 +112,43 @@ Nothing lasts forever. And it doesn’t matter. In this instant we are thinking,
 *(Mark takes the flowers, clutching them as tears stream down his face. Around them the lab seems to dim, the white walls blurring, as though reality itself cannot contain the weight of the moment.)*
 
 ---
+### Scene: The Flat, Evening  
 
-## Scene: The Flat, Evening
+*(The fluorescent lab dissolves. Chalkboards, scientists, Charlie’s luminous eyes—gone. Mark jerks awake, sobbing. His arms tighten, expecting flowers, but instead they’re wrapped around Will. Will’s shirt is damp from Mark’s tears.)*  
 
-The fluorescent lab dissolves. The chalkboards, the scientists, Charlie’s calm eyes—gone. Mark jerks awake, sobbing, clutching the limp bouquet. Except the flowers are no longer in his arms. It’s Will.
+**WILL** *(low, with steel in his voice)*:  
+You should never have touched that book. Do you even realise how dangerous it is?  
 
-**MARK** *(choking, pressing his face into Will’s shoulder)*:  
-If… if I became an idiot, if I lost everything in my head—would you still… would you still be my friend? Would anyone?
-
-*(Will holds him firmly, silent at first. Then his hand strokes the back of Mark’s damp hair. His voice is low, uncharacteristically tender.)*
+*(Mark stiffens, guilt flashing in his wet eyes. But then Will exhales, his hand stroking the back of Mark’s damp hair, his voice softening.)*  
 
 **WILL:**  
-Even if the world forgot your name, I’d remember you.
+Foolish as you are… I can’t be angry. Not when you’re shaking like this. Tell me, what did you see?  
 
-*(Mark trembles, half-comforted, half-afraid. Will’s eyes, though gentle, still carry that glint of someone who pushes too far, who tears down walls whether invited or not. Before Mark can reply, the kitchen door bangs open. Amber appears, apron dusted with flour, a wooden spoon in hand. The smell of stew follows her.)*
+**MARK** *(shuddering, voice raw)*:  
+A story I wish I’d never entered. A life so brief, a mind that burned so brightly and then crumbled into dust. I saw that nothing lasts: not knowledge, not triumph, not even the flowers I held. Everything slips away.  
+
+*(Will studies him, eyes narrowing, a shadow of something darker crossing his face. His next words are almost a whisper, edged with danger and comfort alike.)*  
+
+**WILL:**  
+Not in my world. In here, memory never fades. Even if you became a fool, even if you turned to ash: what you’ve been, what we’ve shared, would be kept… perfectly.  
+
+*(Mark’s breath hitches—half afraid, half soothed. He leans into Will, trembling, unsure whether to resist or surrender. Then Amber’s voice cuts across the tension from the kitchen.)*  
 
 **AMBER** *(brisk, irreverent)*:  
-Dinner’s ready. And you—(pointing the spoon at Mark)—stop snivelling. You’re already the resident idiot of this flat.
+Oi, enough melodrama! Dinner’s on the table before it burns. Move it, lads.  
 
-*(Mark looks up, wide-eyed, half-offended. Wai pokes his head in from behind Amber, grinning like a schoolboy.)*
+*(At the dining table, plates clatter. Mark sits between Will and Amber, eyes still red. He looks around the three of them, voice small but searching.)*  
 
-**WAI:**  
-She’s right, mate. Took you an hour to figure out how the Wi-Fi works last week.
+**MARK:**  
+Do you think… one day, the four of us will drift apart? Go our own ways?  
 
-**AMBER** *(smirking, softer now)*:  
-See? Nothing to worry about. You’re ours, idiot or not.
+**AMBER** *(snorting, ladling stew with theatrical disdain)*:  
+Maybe. But even then we’ll remember your disasters. No escaping those, sunshine.  
 
-*(For the first time that evening, Mark lets out a laugh—wet, shaky, but real. He clutches the memory of Charlie’s flowers in his chest, and the warmth of his flatmates’ voices fills the hollow ache. Will says nothing, just brushes a thumb across Mark’s knuckles, a fleeting touch of possession and promise. The bookcase looms silently in the next room, waiting.)*
+**WAI** *(grinning, mouth already full)*:  
+Honestly, I’m the one who should worry. You three are all geniuses. I’m just the village idiot tagging along.  
+
+**AMBER** *(whacking him lightly with a spoon)*:  
+Don’t flatter yourself. You’re not nearly interesting enough to be the village idiot.  
+
+*(Wai splutters; Amber smirks. Their bickering ignites once more. Mark lets out a shaky laugh, the weight in his chest easing. The clatter of cutlery and playful insults fill the flat, pulling him back into the warmth of the everyday—even as the bookcase looms silently in the next room, waiting for its turn again.)*  
