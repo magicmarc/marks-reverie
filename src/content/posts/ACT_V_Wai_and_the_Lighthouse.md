@@ -46,7 +46,7 @@ You are not of this tide. Why do you run?
 **WAI** *(gaping, then blurting)*:  
 Because walls aren’t supposed to grow tentacles! And who are you—Finding Nemo’s nightmare cousin?  
 
-*(The creature hums, amused. A bubble drifts down; inside is a weathered **EXPLORER** with sunburnt skin and gentle eyes.)*  
+*(The creature hums, amused. A bubble drifts down; inside is a weathered **EXPLORER** with sunburnt skin and gentle eyes. She steps lightly as if gravity barely touches her, a notebook clasped to her chest.)*  
 
 **EXPLORER:**  
 Fear not. You’ve stepped into the bubble of the Southern Cross. Here, nature remembers itself. The land, the sea, the sky—untouched, eternal.  
@@ -54,13 +54,23 @@ Fear not. You’ve stepped into the bubble of the Southern Cross. Here, nature r
 **WAI** *(scratching his head)*:  
 So… this is like… paradise? Looks a bit mouldy.  
 
-**EXPLORER** *(smiling faintly)*:  
+**EXPLORER** *(smiling faintly, her gaze sweeping the horizon)*:  
 Paradise to some. A warning to others. You humans tear at the world too fast. Perhaps the bubble shows what is lost—or what could be, if you listened.  
 
-**CREATURE:**  
-The earth endures without you. The question is—do you endure without it?  
+*(She opens her notebook; the pages shimmer with drawings of luminous corals, impossible birds, plants glowing with inner fire.)*  
 
-*(Wai stares, speechless. For once, no joke rises to his lips. He takes a shaky breath.)*  
+**EXPLORER:**  
+I was once a biologist. Out there, my research was always half-finished—papers lost in politics, species dying before I could name them. But here… here I complete it all. Every creature thrives, every pattern of life unfolds before me without end.  
+
+*(Her voice softens; she gestures to another bubble floating near, where a second figure waits—an older woman with kind eyes. The two exchange a look that is wordless and eternal.)*  
+
+**EXPLORER:**  
+And I am never alone. My love and I—no wars to part us, no time to steal her from me. The bubble grants us what the world denied: a life uninterrupted, side by side.  
+
+*(Her eyes shine, not with fanaticism but with awe. She looks back at Wai, almost pitying.)*  
+
+*(Wai stares, speechless. For once, no joke rises to his lips. He takes a shaky breath, caught between yearning and dread.)*  
+
 
 ---
 
@@ -89,16 +99,20 @@ Then join me. Merge with the light. Leave behind their shouting, their endless a
 *(But then another memory hits: Amber’s voice, scolding him even as she covers him with a blanket after training too hard. Will’s smirk on the tennis court—“rematch next week, don’t you dare flake.” Mark’s awkward grin as he fixes Wai’s tangled shoelaces with neat precision, muttering but never truly angry. The warmth of being needed, of belonging, even in chaos.)*  
 
 **WAI** *(voice breaking)*:  
-No… No, this isn’t it. Paradise that asks you to quit isn’t paradise. If I want clean air, I’ll fight for it in Sydney. If I want peace, I’ll carve it with my own hands, not hide in some bubble.  
+No, this isn’t it. It feels like a bubble… vast enough to hold oceans, stars, maybe the whole universe. And part of me—God, part of me—wants to stay, to float here where nothing hurts.  
+
+*(He presses a hand to his chest, breath ragged.)*  
+
+**WAI:**  
+But if I sink into this… I leave them. Amber’s shouting, Will’s stupid tennis bets, Mark fussing over the smallest things - my own chaos. How do I trade them for silence, even perfect silence?  
+
+*(His voice cracks, almost a plea.)*  
 
 *(The apparition falters, its glow flickering. The Other Wai sneers, then dissolves back into the light. Suddenly the walls begin to shudder. Cracks streak across the stone like lightning. Flowering tendrils wither into ash. The great beam of the lighthouse flares, blinding white, then fractures into shards of light that rain down like broken glass.)*  
 
 *(Wai shields his face as the whole tower convulses. The floor splits, seawater gushes through, the spiral stairs twist and collapse. Outside, the sky itself buckles—the violet fades, the emerald sea drains of colour. The world of the bubble is dying with his refusal.)*  
 
 *(With a thunderous roar, the lighthouse implodes into a whirl of salt spray and petals. When the light clears, Wai is hurled out onto the sand, coughing, clothes soaked, the ordinary ocean roaring behind him. The lighthouse is gone, leaving only an empty headland.)*  
-
-**WAI** *(on his knees, whispering, breathless but resolute)*:  
-No more running. The world’s messy—but it’s mine. And I’ll fight to make it better.  
 
 
 ## Scene 4: Reunion  
