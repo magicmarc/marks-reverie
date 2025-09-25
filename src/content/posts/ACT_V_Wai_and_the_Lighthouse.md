@@ -76,7 +76,7 @@ The world’s a bloody mess… Politics tearing people apart, cities choking on 
 *(The light shimmers. Out of it steps another Wai—an apparition, sharper, calmer, radiant with the glow of the lighthouse itself. His twin smiles knowingly.)*  
 
 **OTHER WAI:**  
-Why go back? Out there you’re just noise, a joker with a tennis racket. Here you can be pure—part of something vast, untainted. No smog, no bills, no pretending you like the city’s grind. Just nature, eternal and clean.  
+Indeed. Out there you’re just noise, a joker with a tennis racket. Here you can be pure—part of something vast, untainted. No smog, no bills, no pretending you like the city’s grind. Just nature, eternal and clean.  
 
 **WAI** *(hesitant, swallowing hard)*:  
 I do hate the city. Hate the traffic, the screens, the rush. I’ve always wanted the bush, the sea… a place where air actually tastes like air.  
