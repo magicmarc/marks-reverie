@@ -51,7 +51,7 @@ Big sister? Me? Don’t make me laugh. If I am, then I’ve clearly inherited fo
 Meg, you moan about not being pretty enough. Do you think beauty is your only ticket in life?  
 
 **MEG** *(blushing, defensive but earnest)*:  
-Yes, I wish to look prettier, because I wish to bring gentleness where life is harsh.  
+I want to be pretty, because I wish to bring gentleness where life is harsh.  
 
 **AMBER** *(softening a fraction, then turning on Jo)*:  
 And you, Jo—growling about injustice. Writing won’t change the world if all you do is complain. Are you here to prove women can fight with words, or to sulk because men don’t hand you the stage?  
