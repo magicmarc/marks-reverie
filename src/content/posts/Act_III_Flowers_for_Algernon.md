@@ -123,7 +123,7 @@ If… if I became an idiot, if I lost everything in my head—would you still…
 *(Will holds him firmly, silent at first. Then his hand strokes the back of Mark’s damp hair. His voice is low, uncharacteristically tender.)*
 
 **WILL:**  
-Even if the world forgot your name, I’d remember you. You’re more than your cleverness. You always were.
+Even if the world forgot your name, I’d remember you.
 
 *(Mark trembles, half-comforted, half-afraid. Will’s eyes, though gentle, still carry that glint of someone who pushes too far, who tears down walls whether invited or not. Before Mark can reply, the kitchen door bangs open. Amber appears, apron dusted with flour, a wooden spoon in hand. The smell of stew follows her.)*
 
