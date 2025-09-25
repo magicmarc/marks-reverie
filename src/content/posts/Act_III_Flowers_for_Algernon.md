@@ -117,7 +117,7 @@ You should never have touched that book. Do you even realise how dangerous it is
 *(Mark stiffens, guilt flashing in his wet eyes. But then Will exhales, his hand stroking the back of Mark’s damp hair, his voice softening.)*  
 
 **WILL:**  
-Foolish as you are… I can’t be angry. Not when you’re shaking like this. Tell me, what did you see?  
+Foolish as you are… Tell me, what did you see?  
 
 **MARK** *(shuddering, voice raw)*:  
 A story I wish I’d never entered. A life so brief, a mind that burned so brightly and then crumbled into dust. I saw that nothing lasts: not knowledge, not triumph, not even the flowers I held. Everything slips away.  
