@@ -37,7 +37,7 @@ Of course. Brilliant.
 *(Amber surveys the room. Ahe air buzzing with vanity, frustration, shyness, and daydreams. Amber’s jaw drops.)*  
 
 **AMBER** *(in disbelief)*:  
-What on earth is this circus? Rouge, scribbles, sighs, and gossip—are you girls rehearsing for your ridiculous play, or is this just daily life?  What are you doing here.
+What on earth is this circus? Rouge, scribbles, sighs, and gossip—are you girls rehearsing for your ridiculous play, or is this just daily life?
 
 **MEG** *(startled, then hopeful)*:  
 Does our big sister need a hand in the kitchen?  
