@@ -145,13 +145,13 @@ export default function NovelListing({ acts }: NovelListingProps) {
         <Subtitle>A Light Novel</Subtitle>
         <Description>
           <p>
-            Four friends in Sydney discover that their flatmate Will's bookcase holds more than just stories—it holds entire worlds. 
-            When Mark, Amber, and Wai find themselves pulled into the pages of classic literature, they must navigate not just 
-            fictional realms, but their own fears, desires, and the bonds that hold them together.
+          In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning. But Will’s bookcase is no ordinary piece of furniture. Behind its shelves lies something vast—worlds that breathe, stories that bleed into reality.
           </p>
           <p>
-            From the dinner table chaos of their shared flat to the weight of stars in distant galaxies, 
-            each Act reveals new depths to their friendship and the mysterious power of Will's collection.
+          Every journey cuts closer to the bone, exposing what they fear, what they crave, and what it means to belong in a world that might be ending—or beginning again.
+          </p>
+          <p>
+          Because Will’s bookcase doesn’t just open onto fiction. It opens onto them.
           </p>
         </Description>
       </Header>
