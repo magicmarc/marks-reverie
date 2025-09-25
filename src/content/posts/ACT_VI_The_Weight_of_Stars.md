@@ -151,24 +151,39 @@ Even if the stars cage us… we still look up.
 
 ## Scene 4: Back to the Camp  
 
-*(Amber and Wai rush over, alarmed. Mark steadies Will with a hand, grounding him. Will looks past them toward the horizon—where moments ago the radar station stood. Now there is only dark bush and the vast southern sky, burning with impossible clarity.)*  
+*(Amber and Wai rush over, their footsteps loud on the scrub. Mark steadies Will with a hand, grounding him. Will blinks up at them, pale but breathing. The horizon is empty where the radar station once loomed; only dark bush and the vast southern sky remain, burning with impossible clarity.)*  
 
-**WILL** *(hushed, almost reverent)*:  
-Tell me… when you look up, what do you see?  
+**AMBER** *(kneeling, voice sharp but shaken):*  
+Bloody hell, Will—are you hurt? Don’t you dare die on us, I’ve still got rent money to squeeze out of you.  
+
+**WAI** *(hovering awkwardly, wringing his cap):*  
+Yeah, mate, you look wrecked. Want me to carry you back? Or, uh… call triple zero?  
+
+*(Will coughs, then waves them off with infuriating calm. A thin smile curves his lips.)*  
+
+**WILL** *(dry, almost mocking):*  
+Relax. If I were dying, I’d make it far more dramatic. This—this is just a scratch.  
+
+*(Amber scowls, half-relieved, half-annoyed. Wai exhales, muttering under his breath. Mark squeezes Will’s shoulder, still tense. Will lets the silence hang for a beat, then his tone shifts—silken, edged with that familiar darkness.)*  
+
+**WILL:**  
+Tell me, then. Since you’re all hovering like mother hens—when you look up at that sky, what do you actually see?  
+
+*(The others glance at one another. For once, no jokes come quickly. The stars wheel above, merciless and magnificent.)*  
 
 **AMBER** *(quiet for once, then softly):*  
 I see fire. Millions of lanterns, carried by hands we’ll never touch. It’s beautiful… and it doesn’t need us at all.  
 
 **WAI** *(swallowing hard, voice unsteady):*  
-I see distance. Courts so wide I’ll never reach the baseline. It’s… sorta terrifying.
+I see distance. Courts so wide I’ll never reach the baseline. Makes every point I win here feel tiny. Terrifying, really.  
 
 **MARK** *(his gaze fixed upward, trembling with awe):*  
-I see questions without answers. Patterns too vast for us to solve. It’s wonder, and dread, all knotted together.  
+I see questions without answers. Patterns too vast for us to solve. Wonder, and dread, all knotted together.  
 
 *(They fall into silence. For a long moment, the only sound is the surf against the cliffs, steady and eternal. The stars blaze above, indifferent and magnificent.)*  
 
-**WILL** *(finally, his voice low, weighted):*  
+**WILL** *(finally, his voice low, weighted, almost tender beneath the bite):*  
 I see how small we are. How fragile. And yet—how lucky, that we get to look up at all.  
 
-*(The others nod, no laughter this time. They lie back together on the cool earth, shoulder to shoulder, four figures dwarfed by the infinite night. The bush hums, the sea breathes, and under the Southern sky they feel both terrified and tender, impossibly small and quietly infinite.)*  
+*(The others nod. No laughter this time. They lie back together on the cool earth, shoulder to shoulder, four figures dwarfed by the infinite night. The bush hums, the sea breathes, and under the Southern sky they feel both terrified and tender, impossibly small and quietly infinite.)*  
 
