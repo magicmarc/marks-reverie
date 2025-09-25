@@ -30,7 +30,7 @@ You’d manage to find homework even in heaven.
 *(Above, the stars seem to pulse brighter, colder, as though listening. Will exhales slowly, eyes narrowing. To the others, he is the dependable flatmate, the gentle teacher. But here, alone under the infinite sky, he looks like something else entirely: a man preparing to play a move that could fracture the board itself. He whispers—not prayer, not hope, but something darker.)*  
 
 **WILL** *(under his breath):*  
-Every story begins with a sky full of stars.  
+Every story begins with stars.  
 
 
 ## Scene 2: The Radar Station  
