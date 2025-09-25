@@ -130,7 +130,6 @@ const StartButton = styled(Link)`
   }
 `
 
-
 interface NovelListingProps {
   acts: BlogPost[]
 }
@@ -145,7 +144,7 @@ export default function NovelListing({ acts }: NovelListingProps) {
         <Subtitle>A Light Novel</Subtitle>
         <Description>
           <p>
-          In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning. But Will’s bookcase is no ordinary piece of furniture. Behind its shelves lies something vast—worlds that breathe, stories that bleed into reality.
+          In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning. But Will's bookcase is no ordinary piece of furniture. Behind its shelves lies something vast—worlds that breathe, stories that bleed into reality.
           </p>
         </Description>
       </Header>
@@ -155,7 +154,7 @@ export default function NovelListing({ acts }: NovelListingProps) {
           <ActCard key={act.id} href={`/novel/${act.slug}`}>
             <ActHeader>
               <ActTitle>{act.title}</ActTitle>
-              <ActNumber>Act {index + 1}</ActNumber>
+              <ActNumber>{index + 1}</ActNumber>
             </ActHeader>
             
             <ActExcerpt>{act.excerpt}</ActExcerpt>
