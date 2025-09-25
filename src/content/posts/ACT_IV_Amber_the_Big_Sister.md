@@ -69,7 +69,7 @@ Because I’d rather give than take. I only want to ease Father’s burdens.
 And Amy—don’t think I didn’t see you. Pining over old Lawrence like he’s the prize. You believe that is love? What happens when it fades?  
 
 **AMY** *(chin high, defiant)*:  
-Then I’ll have art. I want to paint what’s eternal. And I want peace, no more war, no more brothers sent away. And I want to care for you guys as we are sisters!
+Then I’ll have art. I want to paint what’s eternal.
 
 *(Amber lowers the spatula slowly, taking in their flushed faces, their stubborn eyes. Her scowl slips into something warmer, thoughtful.)*  
 
