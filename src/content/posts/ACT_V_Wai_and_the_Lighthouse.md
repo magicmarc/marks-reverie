@@ -71,7 +71,7 @@ The earth endures without you. The question is—do you endure without it?
 *(The chamber shifts around him. The floor becomes glassy water; reflections ripple and solidify into images—wars raging on TV screens, choking smoke above cities, oil slicks smothering seas. The hum of the light becomes a chorus of newscasters, protests, sirens. Wai clutches his ears, but the sound is inside him.)*  
 
 **WAI** *(hoarse, muttering)*:  
-The world’s a bloody mess… Politics tearing people apart, cities choking on their own fumes. Everyone rushing, never breathing. Maybe this bubble’s the way out.  
+The world’s a bloody mess… Politics tearing people apart, cities choking on their own fumes.
 
 *(The light shimmers. Out of it steps another Wai—an apparition, sharper, calmer, radiant with the glow of the lighthouse itself. His twin smiles knowingly.)*  
 
