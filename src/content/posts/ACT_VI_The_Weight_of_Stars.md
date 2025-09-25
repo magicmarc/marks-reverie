@@ -118,21 +118,28 @@ Why… why help us now?
 **YE WENJIE** *(softly, with a bitter smile):*  
 And even monsters weep when children bleed.  
 
-*(Will, pale but stable, slips into unconsciousness. Mark sits beside him, gripping his hand. Across the room, Ye Wenjie sinks into a chair, her eyes lost in thought. Mark looks at her, voice trembling.)*  
+*(Will, pale but stable, slips into unconsciousness. Mark sits beside him, gripping his hand. Across the room, Ye Wenjie sinks into a chair, her eyes lost in thought. Mark wipes his face, then turns toward her.)*  
+
+**MARK** *(quietly, voice breaking):*  
+Thank you. I thought… I thought we’d lost him. Whatever else you’ve done—thank you.  
+
+*(Ye Wenjie doesn’t answer, but her gaze softens, the dagger at her side forgotten. The silence between them is heavy but not hostile. Mark takes a shaky breath, words tumbling out before he can stop them.)*  
 
 **MARK:**  
-Do you… do you believe in fate? Or in our power to change it?  
+You know… I’ve spent so much of my life trying to live by the rules. My family’s rules, society’s rules, the script that says who I’m supposed to be. I thought if I kept everything neat and perfect, maybe the world would finally leave me alone. But it never does.  
 
-**YE WENJIE** *(after a long pause):*  
+*(He looks down at Will’s limp hand in his own, voice trembling.)*  
+
+**MARK:**  
+And then he crashes into my life, loud and impossible. And suddenly the script doesn’t fit anymore. Sometimes I think—maybe that’s the point. Maybe we’re meant to stumble off the path.  
+
+*(Ye Wenjie studies him, her face unreadable. Mark looks up, eyes red, but steady.)*  
+
+**MARK:**  
+Do you… do you believe in the script of universe? Or in our power to change it?  
+
+**YE WENJIE** *(after a long pause, her tone measured):*  
 Physics has not answered that question. Entropy rules, but choice whispers. Perhaps both are true, perhaps neither.  
-
-*(She studies Mark’s face with sudden intensity.)*  
-
-**YE WENJIE:**  
-You two… you are not like the others. Perhaps you, too, are visitors from beyond. If so—tell me. Do you know what lies ahead for us?  
-
-**MARK** *(helpless, shaking his head):*  
-I don’t know. I wish I did.  
 
 *(Ye Wenjie exhales, almost a sigh. They fall silent together. Outside the window, the stars blaze differently—patterns alien, constellations unrecognisable. Mark sits beside her, sharing the stillness. For a moment, there is no war, no betrayal, only the infinite night.)*  
 
@@ -153,7 +160,7 @@ Tell me… when you look up, what do you see?
 I see fire. Millions of lanterns, carried by hands we’ll never touch. It’s beautiful… and it doesn’t need us at all.  
 
 **WAI** *(swallowing hard, voice unsteady):*  
-I see distance. Courts so wide I’ll never reach the baseline. It’s… terrifying.
+I see distance. Courts so wide I’ll never reach the baseline. It’s… sorta terrifying.
 
 **MARK** *(his gaze fixed upward, trembling with awe):*  
 I see questions without answers. Patterns too vast for us to solve. It’s wonder, and dread, all knotted together.  
