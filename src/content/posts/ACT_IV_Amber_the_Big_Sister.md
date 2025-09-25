@@ -66,7 +66,7 @@ Beth—quiet as a mouse. You’d rather suffer by yourself than ask for help. Sw
 Because I’d rather give than take. I only want to ease Father’s burdens.  
 
 **AMBER** *(her stare lingers, then moves to Amy)*:  
-And Amy—don’t think I didn’t hear you. Pining over old Lawrence like he’s the prize. You believe beauty entitles you to love? What happens when it fades?  
+And Amy—don’t think I didn’t see you. Pining over old Lawrence like he’s the prize. You believe beauty entitles you to love? What happens when it fades?  
 
 **AMY** *(chin high, defiant)*:  
 Then I’ll have art. I want to paint what’s eternal, to prove that I am more than a pretty face. And I want peace, no more war, no more brothers sent away.  
