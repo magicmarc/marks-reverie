@@ -196,7 +196,7 @@ I’ll drag you out of that script, Mark - even if you hate me for it.
 **MARK** *(flinching, but not pulling away)*:  
 Or I’ll drown first.
 
-**MARK** *(chuckling softly, tilting his head)*:  
+**WILL** *(chuckling softly, tilting his head)*:  
 Then I’ll be there to pull you out. Always.
 
 *(The sounds of Amber and Wai’s laughter swell in the background, oblivious. Mark lowers his gaze, caught between fear and something he dares not name. Will straightens, his expression bright again as he turns back to the others.)*
