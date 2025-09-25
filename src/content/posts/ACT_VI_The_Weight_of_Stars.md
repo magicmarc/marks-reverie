@@ -4,7 +4,7 @@ excerpt: "On a starlit night in the wild, Will slips into another book—finding
 publishedAt: "2025-09-28"
 readTime: 15
 tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
-slug: "act-6-under-the-southern-sky"
+slug: "act-6-the-weight-of-stars"
 ---
 
 ## Scene 1: The Stargazing  
