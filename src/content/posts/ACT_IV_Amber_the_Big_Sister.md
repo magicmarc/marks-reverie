@@ -9,7 +9,7 @@ slug: "act-4-amber-the-big-sister"
 
 # Act IV — *Amber the Big Sister*  
 
-## Scene 1: The Borrowed Book  
+## Scene 1: Kitchen  
 
 *(Sydney flat, early evening. The kitchen is noisy with bubbling pots and clattering pans. Amber has already swiped 'Little Women' from Will’s bookcase, meaning to skim a few pages between chopping onions. The book lies open on the counter, ignored as steam rises from the stove.)*  
 
