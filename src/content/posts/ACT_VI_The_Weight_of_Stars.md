@@ -101,10 +101,10 @@ From now, we are no longer alone.
 *(She cleans the wound briskly, binds the gash with practiced efficiency. Her touch is firm, impersonal, yet not cruel. Will watches her, lips curling faintly despite the pain.)*  
 
 **WILL** *(hoarse, voice edged with dark amusement):*  
-Strange mercy. You stab, then save. You’re full of contradictions.  
+You are a complicated character, Ye. I tried to read you many times yet I still don't full grasp the person behind this all.
 
 **YE WENJIE** *(without looking at him):*  
-No. I am consistent. I remove obstacles. Now that you are no longer one, you may live.  
+No. I am consistent. I bleed and I adpate - like everyone here.
 
 *(They sit in silence, the hum of machines filling the space. Outside, stars burn against the void. Will tilts his head back, wincing but still poised, eyes on the alien constellations above.)*  
 
