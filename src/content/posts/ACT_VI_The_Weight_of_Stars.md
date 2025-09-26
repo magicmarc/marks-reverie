@@ -9,7 +9,7 @@ slug: "act-6-the-weight-of-stars"
 
 ## Scene 1: The Stargazing  
 
-*(The four friends sit by their tent, the coastal bush stretching into silence. A billion stars glitter above. They sprawl on sleeping bags, pointing out constellations, voices carried on the sea breeze.)*  
+*(The four friends sit by their tent, the coastal bush stretching into silence. A billion stars glitter above, the air sharp with salt and eucalyptus. They sprawl on sleeping bags, pointing out constellations, voices carried on the sea breeze. The night feels impossibly wide, and for once, theirs to claim.)*  
 
 **AMBER** *(yawning, swatting a mosquito):*  
 That one looks like three crooked buttons. If the universe has a tailor, he’s drunk.  
@@ -23,14 +23,27 @@ Actually, that’s Scorpius. See—the curve there? It’s in every star chart.
 **AMBER** *(snorting):*  
 You’d manage to find homework even in heaven.  
 
-*(They burst into laughter, their banter rolling easy and untroubled. Slowly, sleep tugs at them—Amber curls into her blanket, Wai lets the chip bag slip from his hand, Mark mutters one last fact before his voice fades. They shuffle into the tent, leaving Will alone beneath the stars.)*  
+*(They burst into laughter, the sound rolling easy and untroubled. Amber props herself on her elbow, gazing at the sky with a softness she rarely shows.)*  
 
-*(Will stays on his back, hands folded neatly, gaze fixed on the sky. His expression is calm, almost elegant, but his eyes gleam with something harder. He reaches into his rucksack and withdraws a book—'The Three-Body Problem.' He does not smile. Instead, he runs a thumb across the cover as if weighing its judgement. The torchlight flickers across his face, hollowing the shadows.)*  
+**AMBER** *(gruff, almost embarrassed):*  
+Alright—fine. I’ll admit it. This was romantic. Told you so.  
 
-*(Above, the stars seem to pulse brighter, colder, as though listening. Will exhales slowly, eyes narrowing. To the others, he is the dependable flatmate, the gentle teacher. But here, alone under the infinite sky, he looks like something else entirely: a man preparing to play a move that could fracture the board itself. He whispers—not prayer, not hope, but something darker.)*  
+**WAI** *(mock-groaning):*  
+You just wanted proof you were right.  
+
+**MARK** *(smiling faintly, voice hushed):*  
+Maybe she was. Nights like this… it feels like the whole world’s holding its breath.  
+
+*(Amber smirks, hiding her satisfaction in the shadows. For once, no one argues. The three murmur half-formed jokes, scraps of wonder, letting the night stretch around them. The bush hums, the surf keeps its rhythm. It feels like a moment they might actually remember.)*  
+
+*(Slowly, sleep tugs at them—Amber curls into her blanket, Wai lets the chip bag slip from his hand, Mark mutters one last fact before his voice fades. They shuffle into the tent, leaving Will alone beneath the stars.)*  
+
+*(Will stays on his back, hands folded neatly, gaze fixed on the sky. His expression is calm, almost elegant, but his eyes gleam with something harder. He reaches into his rucksack and withdraws a book—'The Three-Body Problem'. He does not smile. Instead, he runs a thumb across the cover as if weighing its judgement. The torchlight flickers across his face, hollowing the shadows.)*  
+
+*(Above, the stars seem to pulse brighter, colder, as though listening. To the others, Will is the dependable flatmate, the gentle teacher. But here, alone under the infinite sky, he looks like something else entirely: a man preparing to make a move that could fracture the board itself. He exhales slowly, his whisper caught between the stars and the page—not prayer, not hope, but something darker.)*  
 
 **WILL** *(under his breath):*  
-Every story begins with stars.  
+Stars are never as romantic as they look. 
 
 
 ## Scene 2: The Radar Station  

@@ -124,17 +124,35 @@ But if I sink into this… I leave them. How do I trade my own chaos for silence
 
 ## Scene 4: Reunion  
 
-*(Moments later. The others appear around the bend.)*  
+*(Moments later. The others appear around the bend. Amber charges ahead, her cheeks flushed with sun and irritation.)*  
 
-**AMBER** *(storming up)*:  
-Where the hell did you wander off to, you muppet?
+**AMBER** *(storming up):*  
+Where the hell did you wander off to, you muppet?  
 
-**WAI** *(forcing a grin, still pale)*:  
+**WAI** *(forcing a grin, still pale, brushing sand from his hands):*  
 Took the scenic route. Saw a few things. Maybe too many.  
 
-*(They walk together toward the lighthouse cliff. Wai pauses, staring at the ocean spread beneath—the blinding blue, the endless sky, the green bushlands swaying.)*  
+*(They regroup, trudging together toward the lighthouse cliff. The ocean spreads beneath them—the blinding blue, the endless sky, the green bushlands swaying in the heat. Wai slows, staring out, something shifted in his eyes. His voice comes low, stripped of his usual bravado.)*  
 
-**WAI** *(quietly, almost to himself)*:  
+**WAI** *(quietly, almost to himself):*  
 You know… we walk too fast. Chase too much. And all this—(he gestures at the sea, the headlands, the sky)—we barely even look at it. Maybe the world’s already giving us paradise, and we’re just too stupid to notice.  
 
-*(The others fall silent. Even Amber doesn’t quip. For a moment, they all stand there, letting the surf and sky wash over them. Four friends, one cliff, and a rare, unhurried pause.)*  
+*(The others fall silent. Even Amber doesn’t quip. For a long moment, the four of them stand there, letting the surf and sky wash over them. The cicadas scream, gulls wheel overhead, and the waves crash against the cliffs below. It is rare stillness, unhurried, unearned, yet wholly theirs.)*  
+
+**MARK** *(softly, with a faint smile):*  
+Feels like… the kind of day that deserves to be remembered.  
+
+**AMBER** *(relenting, nodding once):*  
+Yeah. Don’t get used to me saying this, but… not bad, you lot. Not bad at all.  
+
+*(Wai tilts his face toward the sky, the sunlight sharp on his skin. A thought flickers, and he speaks almost idly.)*  
+
+**WAI:**  
+Clear skies like this… means tonight’ll be perfect for stars. Maybe we should stick around. Camp here.  
+
+*(Amber arches a brow in surprise, Mark blinks. Before either can answer, Will finally speaks. His tone is smooth, agreeable—but his eyes glint with something unreadable, as though the suggestion has unlocked a thought he was already carrying.)*  
+
+**WILL** *(smiling faintly):*  
+A fine idea. Stay the night. Watch the heavens turn above us. After all… what’s the point of rushing back, when the stars are waiting?  
+
+*(Mark studies him, sensing a weight beneath the easy words. But Amber claps Wai on the back, laughing, and the moment breaks. Together, the four turn from the lighthouse, already imagining firelight, tents, and the southern sky burning clear above them. None notice how long Will lingers on that sky, his expression calm, patient—like a man counting down to something only he knows.)*  
