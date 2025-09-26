@@ -59,7 +59,7 @@ Because walls aren’t supposed to grow tentacles! And who are you—Finding Nem
 *(The creature hums, amused. A bubble drifts down; inside is a weathered **EXPLORER** with sunburnt skin and gentle eyes. She steps lightly as if gravity barely touches her, a notebook clasped to her chest.)*  
 
 **EXPLORER:**  
-Fear not. You’ve stepped into the bubble of the Southern Cross. Here, nature remembers itself. The land, the sea, the sky—untouched, eternal.  
+Fear not. You’ve stepped into the bubble of the Southern Reach. Here, nature remembers itself. The land, the sea, the sky—untouched, eternal.  
 
 **WAI** *(scratching his head)*:  
 So… this is like… paradise? Looks a bit mouldy.  
@@ -106,7 +106,7 @@ Then join me. Merge with the light. Leave behind their shouting, their endless a
 *(But then another memory hits: Amber’s voice, scolding him even as she covers him with a blanket after training too hard. Will’s smirk on the tennis court—“rematch next week, don’t you dare flake.” Mark’s awkward grin as he fixes Wai’s tangled shoelaces with neat precision, muttering but never truly angry. The warmth of being needed, of belonging, even in chaos.)*  
 
 **WAI** *(voice breaking)*:  
-No, this isn’t it. It feels like a bubble… vast enough to hold oceans, stars, maybe the whole universe. And part of me—God, part of me—wants to stay, to float here where nothing hurts.  
+No, this isn’t it. This bubble… vast enough to hold oceans, stars, maybe the whole universe. And part of me—God, part of me—wants to stay, to float here where nothing hurts.  
 
 *(He presses a hand to his chest, breath ragged.)*  
 
