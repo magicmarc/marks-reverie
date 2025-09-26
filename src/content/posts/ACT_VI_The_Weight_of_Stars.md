@@ -109,15 +109,15 @@ No. I am consistent. I bleed and I adpate - like everyone here.
 *(They sit in silence, the hum of machines filling the space. Outside, stars burn against the void. Will tilts his head back, wincing but still poised, eyes on the alien constellations above.)*  
 
 **WILL:**  
-Do you never wonder what you’ve unleashed? A cry into the dark—something may answer. Isn’t that fear?  
+Do you never wonder what you’ve unleashed?
 
 **YE WENJIE** *(gazing out the window, her tone even):*  
-Of course it is fear. But hope is born from fear. Without it, there is only silence. I would rather live beneath terror than beneath despair.  
+I would rather live beneath terror than beneath despair.  
 
 *(Will studies her, then allows a small, knowing smile.)*  
 
 **WILL:**  
-Mark would never understand. He hides from fear, folds himself into scripts written by others. But perhaps… he will learn.  
+I hope Mark gets to read you one day.
 
 **YE WENJIE** *(finally turning to him, voice low):*  
 Do you believe in fate?  
