@@ -32,7 +32,7 @@ This was romantic. Told you so.
 You just wanted proof you were right.  
 
 **MARK** *(smiling faintly, voice hushed):*  
-Maybe she was. Nights like this… it feels like the whole world’s holding its breath.  
+Maybe she was. 
 
 *(Amber smirks, hiding her satisfaction in the shadows. For once, no one argues. The three murmur half-formed jokes, scraps of wonder, letting the night stretch around them. The bush hums, the surf keeps its rhythm. It feels like a moment they might actually remember.)*  
 
