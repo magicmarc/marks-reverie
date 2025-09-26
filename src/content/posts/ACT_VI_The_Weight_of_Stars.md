@@ -148,7 +148,7 @@ Don’t tell me you went wandering just to have a private chat with the stars.
 *(Mark swallows his questions. Will leans back against his pack, tilting his head skyward. His tone is casual, but there’s an undercurrent too steady, too deliberate.)*  
 
 **WILL:**  
-Humour me. What do you lot see when you look up?  
+Guys, what do you lot see when you look up?  
 
 *(The others blink, then glance skyward. The stars glimmers above, sharp and brilliant.)*  
 
