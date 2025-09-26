@@ -12,10 +12,10 @@ slug: "act-6-the-weight-of-stars"
 *(Mark, Will, Amber, and Wai sit by their tent, the coastal bush stretching into silence. Stars glitter above, the air sharp with salt and eucalyptus. They sprawl on sleeping bags, pointing out constellations, voices carried on the sea breeze. The night feels impossibly wide.)*  
 
 **AMBER** *(yawning, swatting a mosquito):*  
-That one looks like three crooked buttons. If the universe has a tailor, he’s drunk.  
+That one looks like three crooked buttons. The universe is drunk.  
 
 **WAI** *(munching chips, grinning):*  
-Nah—clearly a tennis racket. Cosmic Wimbledon. I’d win in straight sets.  
+Nah—clearly a tennis racket. Or... a huge space playground for me to explore one day!
 
 **MARK** *(earnest, adjusting his glasses):*  
 Actually, that’s Scorpius. See—the curve there? It’s in every star chart.  
