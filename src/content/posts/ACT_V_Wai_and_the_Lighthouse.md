@@ -1,6 +1,6 @@
 ---
 title: "Act V - Wai and the Lighthouse"
-excerpt: "On a blazing Sydney coastal walk, Wai strays from his friends and stumbles into the strange world of 'The Southern Cross'. There he confronts visions of nature’s endurance, temptation, and his own place in the group."
+excerpt: "On a blazing Sydney coastal walk, Wai strays from his friends and stumbles into the strange world of 'Annihilation'. There he confronts visions of nature’s endurance, temptation, and his own place in the group."
 publishedAt: "2025-09-27"
 readTime: 14
 tags: ["novel", "fiction", "fantasy", "Sydney", "Will's Bookcase"]
@@ -37,7 +37,7 @@ Alright, alright. It’s not awful. But if there’s no ice cream truck at the e
 **WILL** *(with mock gravity):*  
 To whom, exactly? Poseidon?  
 
-*(They laugh, the sound carried off by the wind. The track bends, leading them deeper along the cliffs. Amber strides ahead, Mark and Will walk side by side, Wai drags his feet at the rear. None notice when his steps begin to falter, his gaze snagged by the glimmer of a distant lighthouse, white and stark against the horizon. His backpack shifts; inside, an unfamiliar book’s cover peeks—'The Southern Cross', with a beast sprouting blossoms. He had slipped it from Will’s shelf the night before, fascinated by the strange artwork.)*  
+*(They laugh, the sound carried off by the wind. The track bends, leading them deeper along the cliffs. Amber strides ahead, Mark and Will walk side by side, Wai drags his feet at the rear. None notice when his steps begin to falter, his gaze snagged by the glimmer of a distant lighthouse, white and stark against the horizon. His backpack shifts; inside, an unfamiliar book’s cover peeks—'Annihilation', with a beast sprouting blossoms. He had slipped it from Will’s shelf the night before, fascinated by the strange artwork.)*  
 
 *(As the others vanish around the bend, Wai pauses. The lighthouse gleams in the sun, calling. With a glance back at his friends, he hesitates—then trudges alone towards it.)*  
 
