@@ -155,7 +155,7 @@ Don’t tell me you went wandering just to have a private smoke with the stars.
 **WILL:**  
 Humour me. What do you lot see when you look up?  
 
-*(The others blink, then glance skyward. The Southern Cross glimmers above, sharp and brilliant.)*  
+*(The others blink, then glance skyward. The stars glimmers above, sharp and brilliant.)*  
 
 **AMBER** *(grinning, then softer):*  
 Fairy lights. Like the kind I always wanted strung across my room when I was a kid. Silly, eh?  
@@ -171,4 +171,4 @@ I see… questions. Equations too vast to solve. It’s unsettling, but… beaut
 **WILL:**  
 I see how fragile we are. Sparks that vanish before the universe even notices. And yet… we keep staring upward, as if the stars might owe us meaning. That’s our grace. And our folly.  
 
-*(Amber shifts, uncharacteristically quiet. Wai looks away, chewing on the thought. Mark, still watching Will, feels something cold stir in his chest—a sense that Will has seen further, and darker, than any of them can follow. The night deepens. The bush hums. The sea breathes. Four friends lie beneath the Southern Cross, laughter gone, silence heavier, their smallness undeniable.)*  
+*(Amber shifts, uncharacteristically quiet. Wai looks away, chewing on the thought. Mark, still watching Will, feels something cold stir in his chest—a sense that Will has seen further, and darker, than any of them can follow. The night deepens. The bush hums. The sea breathes. Four of them lie beneath the stars, laughter gone, silence heavier, their smallness undeniable.)*  
