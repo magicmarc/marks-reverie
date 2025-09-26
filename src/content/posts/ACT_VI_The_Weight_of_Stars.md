@@ -93,9 +93,7 @@ I don’t know who you are, or why you appear now. But I cannot risk delay. I ha
 
 ## Scene 3: The Wound and the Stars  
 
-*(Will collapses against the cold floor, breath ragged but his composure intact. Blood seeps through his shirt, yet his eyes remain sharp, watching Ye Wenjie at the console. Her fingers fly over the keys, finishing the sequence. Outside, the radar dish groans, tilting to face the heavens. The message is gone, the deed complete.)*  
-
-*(At last she exhales, shoulders sinking. She glances back at Will—pale, slumped, but still alive. For a long moment, her expression is unreadable. Then, with a sharp movement, she drops the dagger, retrieves a first aid kit from the wall, and kneels beside him.)*  
+Ye Wenjie exhales, shoulders sinking. She glances back at Will—pale, slumped, but still alive. For a long moment, her expression is unreadable. Then, with a sharp movement, she drops the dagger, retrieves a first aid kit from the wall, and kneels beside him.  
 
 **YE WENJIE** *(quiet, almost clinical):*  
 My task is done.
