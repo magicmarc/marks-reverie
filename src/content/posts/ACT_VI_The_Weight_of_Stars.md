@@ -159,7 +159,7 @@ Fairy lights. Like the kind I always wanted strung across my room when I was a k
 I see a pitch with no lines, no end. You can’t really win on it… but maybe it’s worth running anyway.  
 
 **MARK** *(after a pause, voice careful):*  
-I see… questions. Equations too vast to solve. It’s unsettling, but… beautiful too.  
+I see… questions. Equations too vast to solve. It’s unsettling, yet… beautiful too.  
 
 *(Will’s eyes don’t leave the sky. When he answers, his words are measured, his voice quiet but heavy, cutting through the night like a verdict.)*  
 
