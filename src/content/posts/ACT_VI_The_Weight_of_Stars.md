@@ -161,7 +161,7 @@ I see a pitch with no lines, no end. You can’t really win on it… but maybe i
 **MARK** *(after a pause, voice careful):*  
 I see… questions. Equations too vast to solve. It’s mysterious, yet… beautiful too.  
 
-*(Will’s eyes don’t leave the sky. When he answers, his words are measured, his voice quiet but heavy, cutting through the night like a verdict.)*  
+*(Will’s eyes don’t leave the sky. When he answers, his words are measured, his voice quiet but heavy, cutting through the night.)*  
 
 **WILL:**  
 I see how fragile we are. Sparks that vanish before the universe even notices. And yet… we keep staring upward, as if the stars might owe us meaning. That’s our grace. And our folly.  
