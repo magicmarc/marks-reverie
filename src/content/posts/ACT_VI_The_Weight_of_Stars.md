@@ -9,7 +9,7 @@ slug: "act-6-the-weight-of-stars"
 
 ## Scene 1: The Stargazing  
 
-*(The four friends sit by their tent, the coastal bush stretching into silence. A billion stars glitter above, the air sharp with salt and eucalyptus. They sprawl on sleeping bags, pointing out constellations, voices carried on the sea breeze. The night feels impossibly wide, and for once, theirs to claim.)*  
+*(Mark, Will, Amber, and Wai sit by their tent, the coastal bush stretching into silence. Stars glitter above, the air sharp with salt and eucalyptus. They sprawl on sleeping bags, pointing out constellations, voices carried on the sea breeze. The night feels impossibly wide.)*  
 
 **AMBER** *(yawning, swatting a mosquito):*  
 That one looks like three crooked buttons. If the universe has a tailor, he’s drunk.  
