@@ -118,30 +118,23 @@ Get me out of here.
 **WILL** *(smile wicked, tilting his head)*:  
 Not until I've had my fill.
 
-*(As the dancers part and turn, Elizabeth steps before Mark. Her smile is gentle at first, the warmth of a gracious hostess. She takes his hand—firm, steady, her eyes lingering with a curiosity that feels almost kind. For a heartbeat, Mark steadies under her gaze.)*  
+*(Before Mark can protest, Will releases his hand and gives him the slightest shove forward. The dancers part and turn—Mark stumbles straight into Elizabeth’s path. She steadies him with effortless grace, her smile gentle at first, but her eyes already watchful.)*  
 
-**ELIZABETH** *(softly, almost teasing):*  
-You are not so dreadful a dancer as you think.  
+**ELIZABETH** *(gracious, almost teasing):*  
+Careful, sir. You look less like a partner seeking a dance… and more like a man caught trespassing.  
 
-*(Mark flushes, fumbling a bow, trying to laugh it off. But Elizabeth does not let go of his hand. Her eyes sharpen, searching deeper, as though peeling back a mask.)*  
+*(Mark forces a nervous laugh, fumbling a bow. Elizabeth does not release his hand. Her gaze lingers too long, sharp as a scalpel masked beneath civility.)*  
 
-**ELIZABETH** *(quieter now, with unsettling clarity):*  
-But you… you do not belong here.  
+**ELIZABETH** *(lowering her voice):*  
+Tell me truly—who are you? 
 
-*(Mark’s breath catches. The candles blur; the music feels distant. Around them, laughter carries on, yet Elizabeth’s voice seems to echo above it, cold and unyielding.)*  
+*(The warmth in her tone fades, replaced by a searching clarity. Mark’s chest tightens; he hasn’t prepared, hasn’t rehearsed an answer. His silence betrays him. Elizabeth leans closer, her grip firm, her eyes cutting past his mask.)*  
 
-**MARK** *(stammering, voice thin):*  
-I—I… I don’t understand—  
+**ELIZABETH:**  
+You are not here to dance, nor to woo. You are here with another purpose. And the story will not let you hide forever.  
 
-**ELIZABETH** *(leaning closer, her grip tightening, eyes suddenly fearful):*  
-No. You shouldn’t be seen. You mustn’t be seen.  
+*(Mark trembles, breath shallow. The candlelight flares as though the whole ballroom leans in to hear. His lips part, but no words come. At last, panic seizes him—he tears his hand free and bolts through the crowd, the music faltering as skirts rustle and gasps follow him. Elizabeth remains behind, pale but composed, her eyes clouded with both suspicion and pity.)*  
 
-*(The brightness drains from her face, replaced by something like dread—as if she has glimpsed a shadow that does not fit her world. Mark recoils, panicked. Every glance in the ballroom now feels like suspicion, every candle like a spotlight.)*  
-
-**MARK** *(whispering, frantic):*  
-I—I shouldn’t be here!  
-
-*(He tears free from her hand and bolts through the crowd. Gasps ripple, skirts rustle, the music falters. Elizabeth watches him flee, her face pale, her hand still trembling as though she has touched a ghost.)*  
 
 **MARK** *(panicked, stumbling through the crowd)*:  
 Excuse me—sorry—pardon—
@@ -149,7 +142,7 @@ Excuse me—sorry—pardon—
 *(He breaks from the dancers, pushing into the garden. Lanterns cast a dim glow. He stumbles backwards, words of the novel's world buzzing in his head—cotillions, propriety, Darcy, duty—until his heel catches the edge of a stone pool. With a splash, he tumbles in.)*
 
 **MARK** *(spluttering, furious and mortified)*:  
-Perfect. Absolutely perfect. My grand Regency debut ends in a pond.
+Perfect. Absolutely perfect.
 
 *(Will appears at the pool's edge, maddeningly dry and composed, crouching with a wry smile.)*
 
