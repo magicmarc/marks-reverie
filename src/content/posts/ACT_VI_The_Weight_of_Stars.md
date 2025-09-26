@@ -164,6 +164,6 @@ I see… questions. Equations too vast to solve. It’s mysterious, yet… beaut
 *(Will’s eyes don’t leave the sky. When he answers, his words are measured, his voice quiet but heavy, cutting through the night.)*  
 
 **WILL:**  
-I see how fragile we are. Sparks that vanish before the universe even notices. And yet… we keep staring upward, as if the stars might owe us meaning. That’s our grace. And our folly.  
+We are just like sparks that vanish before the universe even notices. And yet… we keep staring upward, as if the stars might owe us meaning. 
 
 *(Amber shifts, uncharacteristically quiet. Wai looks away, chewing on the thought. Mark, still watching Will, feels something cold stir in his chest—a sense that Will has seen further, and darker, than any of them can follow. The night deepens. The bush hums. The sea breathes. Four of them lie beneath the stars, laughter gone, silence heavier, their smallness undeniable.)*  
