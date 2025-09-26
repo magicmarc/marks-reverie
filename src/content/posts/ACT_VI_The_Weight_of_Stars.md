@@ -116,22 +116,19 @@ I would rather live beneath terror than beneath despair.
 
 *(Will studies her, then allows a small, knowing smile.)*  
 
-**WILL:**  
+**WILL***(voice low):*  
 I hope Mark gets to read you one day.
 
-**YE WENJIE** *(finally turning to him, voice low):*  
+**Will** *(turning to Ye):*  
 Do you believe in fate?  
 
-**WILL** *(after a long pause, almost whispering):*  
-I believe in patterns too vast for us to see. Threads we mistake for choice. Perhaps that is fate.  
-
-**YE WENJIE** *(nodding faintly):*  
-Physics has no answer. Entropy rules, but choice whispers. Perhaps both are true. Perhaps neither.  
+**YE WENJIE** *(after a long pause, almost whispering):* 
+Physics has no answer. Entropy rules, but choice whispers. Perhaps both are true. Perhaps neither. I believe in patterns too vast for us to see. Threads we mistake for choice. Perhaps that is fate.  
 
 *(They fall into a heavy silence, staring at the shifting constellations. The sky above the station seems subtly wrong—lines of stars forming shapes unrecognisable, as though the universe itself has tilted. Ye Wenjie finally stands, glancing at the clock.)*  
 
 **YE WENJIE:**  
-The next shift will wake soon. You cannot remain.  
+The next shift will come soon. You cannot remain.  
 
 *(She reaches for the book lying beside Will. Her hand lingers on the cover, then she closes it with quiet finality. The radar station dissolves into starlight, the machines fading into silence. Will feels his body grow weightless, pulled back toward another world. His last sight is Ye Wenjie’s profile against the alien sky, unyielding, solitary, resolute.)*  
 
@@ -141,10 +138,10 @@ The next shift will wake soon. You cannot remain.
 *(Will staggers back toward the camp, his steps slow, shoulders slightly hunched. The wound is gone, but the phantom ache lingers deep in his chest. He lowers himself carefully onto the ground beside the fire. Amber and Wai, bleary from sleep, barely notice anything unusual.)*  
 
 **AMBER** *(yawning, pulling her blanket tighter):*  
-You’re back. Took you long enough.  
+You’re back.
 
 **WAI** *(half-smiling, eyes still heavy):*  
-Don’t tell me you went wandering just to have a private smoke with the stars.  
+Don’t tell me you went wandering just to have a private chat with the stars.  
 
 *(They chuckle drowsily, settling back down. Only Mark stays awake, watching Will closely. His sharp eyes catch the tremor in Will’s hand, the pallor in his face—signs no one else notices. Something about him feels altered, as if he has walked through death itself. Mark opens his mouth, but Will turns, meeting his gaze. A faint shake of the head, a glint of command in his eyes. Do not ask. Not now.)*  
 
