@@ -131,12 +131,26 @@ Here’s to the sisters you missed out on—and to the one we’re lucky enough 
 *(Laughter ripples. Amber raises her glass, the others follow.)*  
 
 **AMBER:**  
-For the record—I may swear like a bogan, but I’ve a soft spot for girls’ lives. The ribbons, the ink-stained fingers, the frozen hands clutching teacups, the foolish crushes and the stubborn courage. If the world ever learns kindness, it should begin with them.
+For the record—I may swear like a bogan, but I’ve a soft spot for girls’ lives. The ribbons, the ink-stained fingers, the frozen hands clutching teacups, the foolish crushes and the stubborn courage. If the world ever learns kindness, it should begin with them.  
 
-**WAI** *(mock-wounded)*:  
-Blimey, listen to that speech—our big sister gone all poet laureate. Next she’ll be knitting doilies and writing sonnets.
+*(For once, Amber doesn’t laugh at her own words. There’s a pause—Mark glancing at her curiously, Will tilting his head with interest. Even Wai looks briefly disarmed. Amber clears her throat, trying to brush off the silence with a gruff wave of her hand.)*  
 
-**AMBER** *(snorts, grabbing a bread roll and lobbing it at his head)*:  
-Shut it, you little rat. 
+**AMBER:**  
+Anyway, what I’m saying is—sometimes it’s good to do something… nice. Romantic, even. Not roses-and-sonnets rubbish, but—say—a coastal walk. Sun on our backs, sea air in our lungs. No deadlines, no arguments. Just… us. Wouldn’t that be something?  
 
-*(Wai ducks, laughing. Mark nearly chokes on his wine. Will hides a smirk behind his glass. Amber slaps the table with a bark of laughter, the veneer of sentiment gone, her rough edges shining through once more.)*  
+*(Mark smiles faintly, touched. Will’s eyes narrow with amused approval, as though he’s seen a side of Amber she’s tried to keep hidden. Wai, of course, breaks the moment with a snort.)*  
+
+**WAI:**  
+You? Romantic? Please. You’d scare off the dolphins before we even left the car park.  
+
+**AMBER** *(glaring, grabbing a bread roll and hurling it at him):*  
+Better than you, mate—you’d spend the whole way whining about blisters.  
+
+**WAI** *(ducking, laughing, then firing back):*  
+At least I wouldn’t trip over my own boots trying to look deep and mysterious.  
+
+**AMBER** *(snorts, half-smiling despite herself):*  
+Deep? The only deep thing about you is the hole in your wallet.  
+
+*(The table bursts into laughter. Mark nearly spills his wine, Will hides a smirk behind his glass. Amber slaps the table, rough edges firmly back in place, though a trace of softness lingers in her eyes. The moment is fleeting but real: beneath the teasing, there’s the promise of a walk by the sea, and the unspoken truth that even the roughest hearts can crave a little romance.)*  
+

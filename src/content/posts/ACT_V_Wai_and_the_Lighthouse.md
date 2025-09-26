@@ -9,23 +9,37 @@ slug: "act-5-wai-and-the-lighthouse"
 
 ## Scene 1: The Coastal Walk  
 
-*(Sydney coastline. The four flatmates trudge along a sandy bush track under the blazing sun. Waves crash below; cicadas scream overhead.)*  
+*(Sydney coastline. The four flatmates trudge along a sandy bush track under the blazing sun. Waves crash below; cicadas scream overhead. The salt air is sharp and alive, a world away from their usual cluttered flat.)*  
 
-**MARK** *(panting)*:  
-Whose idea was this? Coastal walk, my foot—this is coastal death march.  
+**MARK** *(panting):*  
+I still can’t believe we’re actually doing this. We talked about it last night, but I thought it’d end like every other plan—with takeout and Netflix.  
 
-**AMBER** *(cheerfully cruel)*:  
-Mine. Builds character. And leg muscles. You three could use both.  
+**AMBER** *(swinging her water bottle, grinning):*  
+Shows what you know. For once in our lives, we followed through. Miracles do happen.  
 
-**WAI** *(lagging behind, fanning himself with his cap)*:  
-Character’s overrated. What I need is an ice cream truck. Or a stretcher.  
+**WAI** *(mock-solemn, wiping sweat from his forehead):*  
+Miracles? More like madness. Who in their right mind trades air-con for cicadas?  
 
-**WILL** *(smirking, still immaculate)*:  
-You’re the athlete, remember? If you collapse first, it’ll be embarrassing for all of us.  
+**WILL** *(smiling faintly, hands tucked behind his back as if strolling a promenade, not a bush track):*  
+People who need reminding there’s a world beyond deadlines and dirty dishes. Admit it—you feel better already.  
 
-*(They laugh, trudging on. None notice Wai slowing, turning his gaze to the distant lighthouse, its white tower shimmering in the heat. His backpack shifts; inside, an unfamiliar book’s cover peeks—*The Southern Cross*, with a beast sprouting blossoms. He had taken it earlier from Will’s shelf, fascinated by its cover art.)*  
+*(They pause a moment. The sea breeze tugs at their clothes; gulls wheel above, shrieking. For the first time in a long while, the four are together outside their flat, without laptops, phones, or schedules clawing at them.)*  
 
-*(As the others vanish around a bend, Wai pauses, drawn. He trudges alone towards the lighthouse.)*  
+**MARK** *(softening, almost surprised at himself):*  
+It is… nice. I’ve lived in Sydney for years, and somehow I’ve never walked this path. Feels wrong—and yet perfect.  
+
+**AMBER** *(teasing, but gentler than usual):*  
+See? You can be a human, not just a spreadsheet with legs.  
+
+**WAI** *(grinning despite himself):*  
+Alright, alright. It’s not awful. But if there’s no ice cream truck at the end, I’m writing a formal complaint.  
+
+**WILL** *(with mock gravity):*  
+To whom, exactly? Poseidon?  
+
+*(They laugh, the sound carried off by the wind. The track bends, leading them deeper along the cliffs. Amber strides ahead, Mark and Will walk side by side, Wai drags his feet at the rear. None notice when his steps begin to falter, his gaze snagged by the glimmer of a distant lighthouse, white and stark against the horizon. His backpack shifts; inside, an unfamiliar book’s cover peeks—*The Southern Cross*, with a beast sprouting blossoms. He had slipped it from Will’s shelf the night before, fascinated by the strange artwork.)*  
+
+*(As the others vanish around the bend, Wai pauses. The lighthouse gleams in the sun, calling. With a glance back at his friends, he hesitates—then trudges alone towards it.)*  
 
 
 ## Scene 2: The Lighthouse  
