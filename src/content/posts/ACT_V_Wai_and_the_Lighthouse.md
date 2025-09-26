@@ -41,7 +41,6 @@ To whom, exactly? Poseidon?
 
 *(As the others vanish around the bend, Wai pauses. The lighthouse gleams in the sun, calling. With a glance back at his friends, he hesitates—then trudges alone towards it.)*  
 
-
 ## Scene 2: The Lighthouse  
 
 *(The lighthouse door groans open. Inside, shadows crawl. The walls pulse, sprouting grotesque tendrils tipped with flowers. The air smells of salt and pollen. Wai staggers back.)*  
