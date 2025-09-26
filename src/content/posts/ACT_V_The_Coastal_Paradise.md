@@ -1,5 +1,5 @@
 ---
-title: "Act V - Wai and the Lighthouse"
+title: "Act V - The Coastal Paradise"
 excerpt: "On a blazing Sydney coastal walk, Wai strays from his friends and stumbles into the strange world of 'Annihilation'. There he confronts visions of nature’s endurance, temptation, and his own place in the group."
 publishedAt: "2025-09-27"
 readTime: 14
