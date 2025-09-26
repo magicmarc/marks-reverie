@@ -26,7 +26,7 @@ You’d manage to find homework even in heaven.
 *(They burst into laughter, the sound rolling easy and untroubled. Amber props herself on her elbow, gazing at the sky with a softness she rarely shows.)*  
 
 **AMBER** *(gruff, almost embarrassed):*  
-Alright—fine. I’ll admit it. This was romantic. Told you so.  
+This was romantic. Told you so.  
 
 **WAI** *(mock-groaning):*  
 You just wanted proof you were right.  
