@@ -81,7 +81,7 @@ Better the unknown than the monster we already are.
 A single move in a universe-sized game. You know it may doom us all.  
 
 **YE WENJIE** *(with a trace of iron):*  
-I have thought this through longer than you can imagine. The man who brought me here, who believed in me—he died in an accident. His faith will not be wasted. Tonight I will answer the stars, even if the answer destroys us.  
+I have thought this through longer than you can imagine. Tonight I will answer the stars.  
 
 *(A silence hangs between them. Will studies her, something like respect flickering in his eyes. He opens his mouth to speak again, but Ye Wenjie grips the dagger tighter, her face set like stone.)*  
 
