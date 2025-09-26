@@ -164,6 +164,19 @@ I see… questions. Equations too vast to solve. It’s mysterious, yet… beaut
 *(Will’s eyes don’t leave the sky. When he answers, his words are measured, his voice quiet but heavy, cutting through the night.)*  
 
 **WILL:**  
-We are just like sparks that vanish before the universe even notices. And yet… we keep staring upward, as if the stars might owe us meaning. 
+We are just like sparks that vanish before the universe even notices. And yet… we keep staring upward, as if the stars might owe us meaning.  
 
-*(Amber shifts, uncharacteristically quiet. Wai looks away, chewing on the thought. Mark, still watching Will, feels something cold stir in his chest—a sense that Will has seen further, and darker, than any of them can follow. The night deepens. The bush hums. The sea breathes. Four of them lie beneath the stars, laughter gone, silence heavier, their smallness undeniable.)*  
+*(Silence follows. Amber, usually quick with a joke, says nothing, her eyes fixed on the sky. Wai fidgets, chewing the inside of his cheek, suddenly restless. Even Mark feels his breath catch—something cold stirring in his chest. None of them have ever thought of the heavens this way: not as pretty lights, but as an abyss that questions them back.)*  
+
+*(Will watches their faces—troubled, thoughtful, unsettled. Then, slowly, the severity softens. The sharp line of his mouth eases into a faint, knowing smile—half polite, half wicked.)*  
+
+**WILL** *(lightly, almost teasing):*  
+Don’t look so spooked. Philosophy’s no good on an empty stomach.  
+
+*(He reaches over, ruffles Mark’s hair with a mock-affectionate pat. Mark sputters but doesn’t resist. Will drapes an arm briefly around Amber and Wai, pulling them in with surprising warmth, before letting go again.)*  
+
+**WILL:**  
+Enough stargazing for one night. Sleep. The sky will still be there in the morning.  
+
+*(The others stir, awkward but comforted, retreating into their blankets. The fire dwindles to embers, cicadas fading to silence. One by one, they close their eyes, the vast sky wheeling above them. They know little, understand less, yet still—beneath the indifferent stars—they keep searching. And in that searching, they drift into sleep together.)*  
+
