@@ -86,7 +86,7 @@ I have thought this through longer than you can imagine. Tonight I will answer t
 *(A silence hangs between them. Will studies her, something like respect flickering in his eyes. He opens his mouth to speak again, but Ye Wenjie grips the dagger tighter, her face set like stone.)*  
 
 **YE WENJIE:**  
-I don’t know who you are, or why you appear now. But I cannot risk delay. I have this one chance—perhaps in all of history. I will not let a stranger take it from me.  
+I don’t know who you are, or why you appear now. But I cannot risk delay. I have this one chance—perhaps in all of history. I will not let you take it from me.  
 
 *(Before Will can reply, she lunges—not in rage, but in ruthless calculation. The dagger drives into his chest. His breath catches, blood blooming across his shirt. She turns back to the console at once, typing rapidly. Outside, the radar dish groans, pivoting skyward. The signal is launched, carrying humanity’s fate into the void. Will crumples to the floor, clutching the wound, his face pale but still composed, a ghost of that sly smile lingering even as his strength fades.)*  
 
