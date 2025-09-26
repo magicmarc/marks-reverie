@@ -1,6 +1,6 @@
 ---
 title: "Act VI - The Weight of Stars"
-excerpt: "Beneath the Southern Cross, Will opens a book and walks into the heart of Ye Wenjie’s defiance. Wounded but unbroken, he returns with the question no one escapes: when we face the stars, do we see hope, or only our own fragility?"
+excerpt: "Under the Sydney night sky, Will’s mask slips and his truth flickers through. As the others share their fleeting hopes and fears beneath the stars, the laughter fades into wonder."
 publishedAt: "2025-09-28"
 readTime: 15
 tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
