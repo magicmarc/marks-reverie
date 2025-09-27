@@ -19,6 +19,8 @@ And Will… well. Will’s a nursery teacher. Kind, patient, disgustingly polite
 
 So here we are: four people, one dinner table, and a recipe for chaos. Literally. Because I may or may not have already dropped the pasta in the bin by mistake.
 
+---
+
 ## SCENE: Kitchen
 
 **MARK** *(muttering, dead serious)*:  
@@ -73,6 +75,8 @@ You hold this like you hold your authority at work - tight, nervous… terrified
 
 **MARK** *(stiffening)*:  
 I...I'm not nervous!
+
+---
 
 ## SCENE: Dinner Table
 

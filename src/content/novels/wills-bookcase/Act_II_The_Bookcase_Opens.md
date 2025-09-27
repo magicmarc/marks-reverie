@@ -57,6 +57,8 @@ This is going to be a disaster.
 
 *(They disappear into the candlelit building, music already spilling out.)*
 
+---
+
 ## Scene: A grand assembly room in Meryton
 
 Candles glitter. Musicians tune fiddles. The Bennet sisters are radiant; the local gentry mill about. Mark, still in his ridiculous cravat, is shoved through the door beside Will, who looks utterly at home in Regency finery.
@@ -155,6 +157,8 @@ You really are determined to drown tonight, aren’t you?
 Enough. Time to go home.
 
 *(He snaps the book shut. The ballroom vanishes—the candles, the music, the cold water—all gone. Mark blinks, gasping, as reality floods back.)*
+
+---
 
 ## Scene: The flat, seconds later
 

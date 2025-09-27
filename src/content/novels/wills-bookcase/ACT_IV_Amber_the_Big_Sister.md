@@ -7,7 +7,7 @@ tags: ["novel", "fiction", "fantasy", "wills-bookcase"]
 slug: "act-4-amber-the-big-sister"
 ---
 
-## Scene 1: Kitchen  
+## Scene: Kitchen  
 
 *(Sydney flat, early evening. The kitchen is noisy with bubbling pots and clattering pans. Amber swiped 'Little Women' from Will’s bookcase, meaning to skim a few pages between chopping onions. The book lies open on the counter, ignored as steam rises from the stove.)*  
 

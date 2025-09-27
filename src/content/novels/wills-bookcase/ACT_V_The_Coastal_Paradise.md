@@ -7,7 +7,7 @@ tags: ["novel", "fiction", "fantasy", "Sydney", "wills-bookcase"]
 slug: "act-5-wai-and-the-lighthouse"
 ---
 
-## Scene 1: The Coastal Walk  
+## Scene: The Coastal Walk  
 
 *(Sydney coastline. The four flatmates trudge along a sandy bush track under the blazing sun. Waves crash below; cicadas scream overhead. The salt air is sharp and alive, a world away from their usual cluttered flat.)*  
 
@@ -41,7 +41,9 @@ To whom, exactly? Poseidon?
 
 *(As the others vanish around the bend, Wai pauses. The lighthouse gleams in the sun, calling. With a glance back at his friends, he hesitates—then trudges alone towards it.)*  
 
-## Scene 2: The Lighthouse  
+---
+
+## Scene: The Lighthouse  
 
 *(The lighthouse door groans open. Inside, shadows crawl. The walls pulse, sprouting grotesque tendrils tipped with flowers. The air smells of salt and pollen. Wai staggers back.)*  
 
@@ -81,7 +83,9 @@ And I am never alone. My love and I—no wars to part us, no time to steal her f
 
 *(Wai stares, speechless. For once, no joke rises to his lips. He takes a shaky breath, caught between yearning and dread.)*  
 
-## Scene 3: The Temptation  
+---
+
+## Scene: The Temptation  
 
 *(Wai stumbles back into the lighthouse. At its heart is a radiant light, pure and beckoning. He squints, raising a hand to shield his eyes. The voice of the light thrums inside his chest, promising unity, peace, timelessness.)*  
 
@@ -121,8 +125,9 @@ But if I sink into this… I leave them. How do I trade my own chaos for silence
 
 *(With a thunderous roar, the lighthouse implodes into a whirl of salt spray and petals. When the light clears, Wai is hurled out onto the sand, coughing, clothes soaked, the ordinary ocean roaring behind him. The lighthouse is gone, leaving only an empty headland.)*  
 
+---
 
-## Scene 4: Reunion  
+## Scene: Reunion  
 
 *(Moments later. The others appear around the bend. Amber charges ahead, her cheeks flushed with sun and irritation.)*  
 

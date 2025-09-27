@@ -7,7 +7,7 @@ tags: ["novel", "fiction", "fantasy", "wills-bookcase"]
 slug: "act-6-the-weight-of-stars"
 ---
 
-## Scene 1: The Stargazing  
+## Scene: The Stargazing  
 
 *(Mark, Will, Amber, and Wai sit by their tent, the coastal bush stretching into silence. Stars glitter above, the air sharp with salt and eucalyptus. They sprawl on sleeping bags, pointing out constellations, voices carried on the sea breeze. The night feels impossibly wide.)*  
 
@@ -45,8 +45,9 @@ Maybe she was.
 **WILL** *(under his breath):*  
 Stars are never as romantic as they look. 
 
+---
 
-## Scene 2: The Radar Station  
+## Scene: The Radar Station  
 
 *(In an instant, the wilderness dissolves. Will blinks—and finds himself before a massive radar station rising from the hillside, its dish sweeping across the night sky. He doesn’t flinch. Instead, he adjusts his cuffs, then strolls forward with the calm assurance of a guest arriving precisely on time.)*  
 
@@ -90,8 +91,9 @@ I don’t know who you are, or why you appear now. But I cannot risk delay. I ha
 
 *(Before Will can reply, she lunges—not in rage, but in ruthless calculation. The dagger drives into his chest. His breath catches, blood blooming across his shirt. She turns back to the console at once, typing rapidly. Outside, the radar dish groans, pivoting skyward. The signal is launched, carrying humanity’s fate into the void. Will crumples to the floor, clutching the wound, his face pale but still composed, a ghost of that sly smile lingering even as his strength fades.)*  
 
+---
 
-## Scene 3: The Wound and the Stars  
+## Scene: The Wound and the Stars  
 
 Ye Wenjie exhales, shoulders sinking. She glances back at Will—pale, slumped, but still alive. For a long moment, her expression is unreadable. Then, with a sharp movement, she drops the dagger, retrieves a first aid kit from the wall, and kneels beside him.  
 
@@ -132,8 +134,9 @@ The next shift will come soon. You cannot remain.
 
 *(She reaches for the book lying beside Will. Her hand lingers on the cover, then she closes it with quiet finality. The radar station dissolves into starlight, the machines fading into silence. Will feels his body grow weightless, pulled back toward another world. His last sight is Ye Wenjie’s profile against the alien sky, unyielding, solitary, resolute.)*  
 
+---
 
-## Scene 4: Back to the Camp  
+## Scene: Back to the Camp  
 
 *(Will staggers back toward the camp, his steps slow, shoulders slightly hunched. The wound is gone, but the phantom ache lingers deep in his chest. He lowers himself carefully onto the ground beside the fire. Amber and Wai, bleary from sleep, barely notice anything unusual.)*  
 
