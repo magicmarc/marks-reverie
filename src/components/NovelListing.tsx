@@ -77,6 +77,11 @@ const NovelHeader = styled.div`
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 1rem;
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
 `
 
 const NovelTitle = styled.h2`
@@ -93,6 +98,10 @@ const NovelMeta = styled.div`
   gap: 1rem;
   font-size: 0.9rem;
   color: ${props => props.theme.colors.text.secondary};
+  
+  @media (max-width: 768px) {
+    align-self: flex-start;
+  }
 `
 
 const ActCount = styled.span`
