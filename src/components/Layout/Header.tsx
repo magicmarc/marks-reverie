@@ -90,6 +90,9 @@ const Header = () => {
           <NavLink href="/novel" $isActive={pathname === '/novel' || pathname.startsWith('/novel/')}>
             Novel
           </NavLink>
+          <NavLink href="/contact" $isActive={pathname === '/contact'}>
+            Contact
+          </NavLink>
         </Navigation>
       </HeaderContent>
     </HeaderContainer>
