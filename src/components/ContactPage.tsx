@@ -11,9 +11,7 @@ const Container = styled.div`
 
 const Header = styled.div`
   text-align: center;
-  margin-bottom: 3rem;
-  padding: 2rem 0;
-  border-bottom: 2px solid ${props => props.theme.colors.border.light};
+  margin-bottom: ${props => props.theme.spacing['3xl']};
 `
 
 const Title = styled.h1`

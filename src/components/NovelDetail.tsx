@@ -6,16 +6,14 @@ import { Novel } from '@/lib/novel'
 import styled from 'styled-components'
 
 const Container = styled.div`
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
 `
 
 const Header = styled.div`
   text-align: center;
-  margin-bottom: 3rem;
-  padding: 2rem 0;
-  border-bottom: 2px solid ${props => props.theme.colors.border.light};
+  margin-bottom: ${props => props.theme.spacing['3xl']};
 `
 
 const Title = styled.h1`
