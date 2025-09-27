@@ -104,6 +104,10 @@ const ContactValue = styled.a`
   background: ${props => props.theme.colors.background.subtle};
   border: 1px solid ${props => props.theme.colors.border.light};
 
+  @media (max-width: ${props => props.theme.breakpoints.md}) {
+    font-size: ${props => props.theme.typography.fontSize.base};
+  }
+
   &:hover {
     color: ${props => props.theme.colors.text.primary};
     background: ${props => props.theme.colors.accent.gold};
