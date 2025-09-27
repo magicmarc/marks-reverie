@@ -19,18 +19,20 @@ const Header = styled.div`
 `
 
 const Title = styled.h1`
-  font-size: 3rem;
-  font-weight: 700;
+  font-size: ${props => props.theme.typography.fontSize['4xl']};
+  font-weight: ${props => props.theme.typography.fontWeight.light};
   color: ${props => props.theme.colors.text.primary};
-  margin-bottom: 1rem;
+  margin-bottom: ${props => props.theme.spacing.lg};
   font-family: ${props => props.theme.typography.fontFamily.serif};
+  letter-spacing: -0.02em;
 `
 
 const Subtitle = styled.p`
-  font-size: 1.2rem;
+  font-size: ${props => props.theme.typography.fontSize.lg};
   color: ${props => props.theme.colors.text.secondary};
-  margin-bottom: 2rem;
+  margin-bottom: ${props => props.theme.spacing['2xl']};
   font-style: italic;
+  line-height: ${props => props.theme.typography.lineHeight.relaxed};
 `
 
 const Description = styled.div`

@@ -19,12 +19,13 @@ const Header = styled.div`
 `
 
 const Title = styled.h1`
-  font-size: 2.5rem;
-  font-weight: 700;
+  font-size: ${props => props.theme.typography.fontSize['4xl']};
+  font-weight: ${props => props.theme.typography.fontWeight.light};
   color: ${props => props.theme.colors.text.primary};
-  margin-bottom: 1rem;
+  margin-bottom: ${props => props.theme.spacing.lg};
   font-family: ${props => props.theme.typography.fontFamily.serif};
-  line-height: 1.2;
+  line-height: ${props => props.theme.typography.lineHeight.tight};
+  letter-spacing: -0.02em;
 `
 
 const ActNumber = styled.div`
