@@ -214,10 +214,10 @@ const Header = () => {
               Home
             </NavLink>
             <NavLink href="/blog" $isActive={pathname === '/blog'}>
-              Blog
+              Blogs
             </NavLink>
             <NavLink href="/novel" $isActive={pathname === '/novel' || pathname.startsWith('/novel/')}>
-              Novel
+              Novels
             </NavLink>
             <NavLink href="/contact" $isActive={pathname === '/contact'}>
               Contact
@@ -240,10 +240,10 @@ const Header = () => {
           Home
         </MobileNavLink>
         <MobileNavLink href="/blog" $isActive={pathname === '/blog'} onClick={closeMobileMenu}>
-          Blog
+          Blogs
         </MobileNavLink>
         <MobileNavLink href="/novel" $isActive={pathname === '/novel' || pathname.startsWith('/novel/')} onClick={closeMobileMenu}>
-          Novel
+          Novels
         </MobileNavLink>
         <MobileNavLink href="/contact" $isActive={pathname === '/contact'} onClick={closeMobileMenu}>
           Contact
