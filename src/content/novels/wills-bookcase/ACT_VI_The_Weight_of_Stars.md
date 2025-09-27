@@ -106,7 +106,7 @@ From now, we are no longer alone.
 You are a complicated character, Ye. I tried to read you many times yet I still don't full grasp the person behind this all.
 
 **YE WENJIE** *(without looking at him):*  
-No. I am consistent. I bleed and I adpate - like everyone else here.
+No. I am consistent. I bleed and I adapte - like everyone else here.
 
 *(They sit in silence, the hum of machines filling the space. Outside, stars burn against the void. Will tilts his head back, wincing but still poised, eyes on the alien constellations above.)*  
 
