@@ -1,7 +1,8 @@
 'use client'
 
 import Link from 'next/link'
-import { BlogPost } from '@/lib/blog'
+import Image from 'next/image'
+import { Novel } from '@/lib/novel'
 import styled from 'styled-components'
 
 const Container = styled.div`
@@ -41,13 +42,13 @@ const Description = styled.div`
   text-align: left;
 `
 
-const ActsContainer = styled.div`
+const NovelsContainer = styled.div`
   display: grid;
   gap: 2rem;
   margin-top: 3rem;
 `
 
-const ActCard = styled(Link)`
+const NovelCard = styled(Link)`
   background: ${props => props.theme.colors.background.paper};
   border: 1px solid ${props => props.theme.colors.border.light};
   border-radius: 12px;
@@ -55,51 +56,51 @@ const ActCard = styled(Link)`
   transition: all 0.3s ease;
   cursor: pointer;
   text-decoration: none;
-  display: block;
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
   
   &:hover {
     transform: translateY(-2px);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
     border-color: ${props => props.theme.colors.accent.gold};
   }
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 1rem;
+  }
 `
 
-const ActHeader = styled.div`
+const NovelHeader = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 1rem;
 `
 
-const ActTitle = styled.h2`
-  font-size: 1.5rem;
+const NovelTitle = styled.h2`
+  font-size: 1.8rem;
   font-weight: 600;
   color: ${props => props.theme.colors.text.primary};
   margin: 0;
   font-family: ${props => props.theme.typography.fontFamily.serif};
 `
 
-const ActNumber = styled.span`
+const NovelMeta = styled.div`
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.9rem;
+  color: ${props => props.theme.colors.text.secondary};
+`
+
+const ActCount = styled.span`
   background: ${props => props.theme.colors.accent.gold};
   color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 20px;
-  font-size: 0.9rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
   font-weight: 600;
-`
-
-const ActExcerpt = styled.p`
-  color: ${props => props.theme.colors.text.secondary};
-  line-height: 1.6;
-  margin-bottom: 1rem;
-`
-
-const ActMeta = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 0.9rem;
-  color: ${props => props.theme.colors.text.secondary};
 `
 
 const ReadTime = styled.span`
@@ -108,71 +109,80 @@ const ReadTime = styled.span`
   border-radius: 12px;
 `
 
-const StartReadingButton = styled.div`
-  text-align: center;
-  margin-top: 3rem;
+const NovelExcerpt = styled.p`
+  color: ${props => props.theme.colors.text.secondary};
+  line-height: 1.6;
+  margin-bottom: 1rem;
 `
 
-const StartButton = styled(Link)`
-  background: ${props => props.theme.colors.accent.gold};
-  color: white;
-  padding: 1rem 2rem;
+const CoverImage = styled.div`
+  flex-shrink: 0;
+  width: 200px;
+  height: 280px;
   border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 1.1rem;
-  transition: all 0.3s ease;
-  display: inline-block;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   
-  &:hover {
-    background: ${props => props.theme.colors.text.primary};
-    transform: translateY(-2px);
+  @media (max-width: 768px) {
+    width: 100%;
+    height: 200px;
   }
 `
 
+const NovelContent = styled.div`
+  flex: 1;
+`
+
 interface NovelListingProps {
-  acts: BlogPost[]
+  novels: Novel[]
 }
 
-export default function NovelListing({ acts }: NovelListingProps) {
-  const firstAct = acts[0]
-
+export default function NovelListing({ novels }: NovelListingProps) {
   return (
     <Container>
       <Header>
-        <Title>Will's Bookcase</Title>
-        <Subtitle>A Light Novel</Subtitle>
+        <Title>Novels</Title>
+        <Subtitle>Light Novels & Fiction</Subtitle>
         <Description>
           <p>
-          In a cramped Sydney flat, four friends drift between rent payments, late-night arguments, and the restless search for meaning.
+            Explore our collection of light novels and fiction stories, each offering unique perspectives on life, friendship, and the human experience.
           </p>
         </Description>
       </Header>
 
-      <ActsContainer>
-        {acts.map((act, index) => (
-          <ActCard key={act.id} href={`/novel/${act.slug}`}>
-            <ActHeader>
-              <ActTitle>{act.title}</ActTitle>
-              <ActNumber>{index + 1}</ActNumber>
-            </ActHeader>
+      <NovelsContainer>
+        {novels.map((novel) => (
+          <NovelCard key={novel.metadata.slug} href={`/novel/${novel.metadata.slug}`}>
+            {novel.metadata.coverImage && (
+              <CoverImage>
+                <Image
+                  src={novel.metadata.coverImage}
+                  alt={`${novel.metadata.title} cover`}
+                  width={200}
+                  height={280}
+                  style={{
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'cover'
+                  }}
+                />
+              </CoverImage>
+            )}
             
-            <ActExcerpt>{act.excerpt}</ActExcerpt>
-            
-            <ActMeta>
-              <ReadTime>{act.readTime} min read</ReadTime>
-            </ActMeta>
-          </ActCard>
+            <NovelContent>
+              <NovelHeader>
+                <NovelTitle>{novel.metadata.title}</NovelTitle>
+                <NovelMeta>
+                  <ActCount>{novel.acts.length} Acts</ActCount>
+                  <ReadTime>{novel.metadata.readTime} min read</ReadTime>
+                </NovelMeta>
+              </NovelHeader>
+              
+              <NovelExcerpt>{novel.metadata.excerpt}</NovelExcerpt>
+            </NovelContent>
+          </NovelCard>
         ))}
-      </ActsContainer>
-
-      {firstAct && (
-        <StartReadingButton>
-          <StartButton href={`/novel/${firstAct.slug}`}>
-            Start Reading
-          </StartButton>
-        </StartReadingButton>
-      )}
+      </NovelsContainer>
     </Container>
   )
 }

@@ -3,7 +3,7 @@ title: "Act VI - The Weight of Stars"
 excerpt: "Under the Sydney night sky, Will’s mask slips and his truth flickers through. As the others share their fleeting hopes and fears beneath the stars, the laughter fades into wonder."
 publishedAt: "2025-09-28"
 readTime: 15
-tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
+tags: ["novel", "fiction", "fantasy", "wills-bookcase"]
 slug: "act-6-the-weight-of-stars"
 ---
 

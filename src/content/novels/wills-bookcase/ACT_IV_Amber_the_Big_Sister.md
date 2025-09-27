@@ -3,7 +3,7 @@ title: "Act IV - Amber the Big Sister"
 excerpt: "Amber stumbles into the world of 'Little Women', clashes with the four March sisters, and discovers a deep admiration for the beauty of girls’ lives—even if she pretends otherwise."
 publishedAt: "2025-09-26"
 readTime: 15
-tags: ["novel", "fiction", "fantasy", "Will's Bookcase"]
+tags: ["novel", "fiction", "fantasy", "wills-bookcase"]
 slug: "act-4-amber-the-big-sister"
 ---
 

@@ -152,6 +152,7 @@ interface NovelActContentProps {
   nextAct: BlogPost | null
   currentIndex: number
   totalActs: number
+  novelSlug?: string
 }
 
 export default function NovelActContent({ 
@@ -159,7 +160,8 @@ export default function NovelActContent({
   previousAct, 
   nextAct, 
   currentIndex, 
-  totalActs 
+  totalActs,
+  novelSlug
 }: NovelActContentProps) {
   const getActNumber = (title: string) => {
     const match = title.match(/Act ([IVX]+)/i)
@@ -183,20 +185,20 @@ export default function NovelActContent({
 
       <Navigation>
         <NavButton 
-          href={previousAct ? `/novel/${previousAct.slug}` : '#'} 
+          href={previousAct ? `/novel/${novelSlug}/${previousAct.slug}` : '#'} 
           $disabled={!previousAct}
         >
           ← {previousAct ? `Act ${getActNumber(previousAct.title)}` : 'First Act'}
         </NavButton>
         
         <CenterNav>
-          <BackToNovel href="/novel">
-            📚 All Acts
+          <BackToNovel href={novelSlug ? `/novel/${novelSlug}` : '/novel'}>
+            📚 {novelSlug ? 'Back to Novel' : 'All Novels'}
           </BackToNovel>
         </CenterNav>
         
         <NavButton 
-          href={nextAct ? `/novel/${nextAct.slug}` : '#'} 
+          href={nextAct ? `/novel/${novelSlug}/${nextAct.slug}` : '#'} 
           $disabled={!nextAct}
         >
           {nextAct ? `Act ${getActNumber(nextAct.title)}` : 'Last Act'} →
