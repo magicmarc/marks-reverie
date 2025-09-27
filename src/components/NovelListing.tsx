@@ -154,11 +154,6 @@ export default function NovelListing({ novels }: NovelListingProps) {
       <Header>
         <Title>Novels</Title>
         <Subtitle>Light Novels & Fiction</Subtitle>
-        <Description>
-          <p>
-            Explore our collection of light novels and fiction stories, each offering unique perspectives on life, friendship, and the human experience.
-          </p>
-        </Description>
       </Header>
 
       <NovelsContainer>
