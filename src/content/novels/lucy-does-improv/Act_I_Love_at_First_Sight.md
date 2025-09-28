@@ -15,7 +15,7 @@ Lucy, for her part, found them equally puzzling. Their laughter struck her as sh
 
 Still, she persisted. Equation by equation, ratio by ratio, she pressed herself into the shape of a perfect student. Until, one afternoon, the numbers blurred, and through the open door of the hall came a sound that jarred her concentration—laughter. Loud, unrestrained, entirely at odds with the quiet discipline of the lecture.
 
-When class ended, her steps should have taken her to the library. Instead, as though nudged by some invisible current, they drifted—hesitant, reluctant, yet curious—toward the room at the end of the hall, where that laughter lived: The Improv Club.
+When class ended, her steps should have taken her to the library. Instead, as though nudged by some invisible current, they drifted—hesitant, reluctant, yet curious—toward the room at the end of the hall, where that laughter lived: **The Improv Club**.
 
 ## First Encounter
 
