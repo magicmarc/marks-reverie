@@ -92,11 +92,21 @@ After that night, Joseph did not message her again. The silence was almost a rel
 
 And for a time, she believed she was safe. Safe from him, safe from them, safe from *The Improv Club*.
 
-Her demon always died… almost.
-
 ##  The Gaze in the Square
 
-Until one afternoon, crossing the campus square, Lucy stumbled into a crowd. A temporary stage had been raised, students milling about, laughter echoing. Onstage, Joseph and Bella were mid-performance, their voices rolling out like a spell that caught even passersby.
+Months later, on a breezy afternoon, Lucy had almost forgotten the improv club. The weeks had blurred into assignments, late-night study sessions, and the dull rhythm of lectures. She carried her books across the campus square, thinking only of the exam schedule tacked above her desk.
+
+Then she noticed a swell of voices. Students were gathering, clustering in a loose semicircle. A temporary stage had been set up, and laughter rippled through the air—light, contagious, pulling even strangers to stop and watch.
+
+Curious despite herself, Lucy drifted closer. At first she thought it was some cheerful end-of-term showcase, another harmless performance meant to lighten the mood before finals. Her lips even twitched into a small smile, ready to enjoy the noise from the safe distance of a spectator.
+
+But then she saw them.
+
+Joseph—commanding the stage with his easy grin. Bella—animated, sharp, the kind of presence that drew eyes without effort. The sight hit her like a sudden plunge into cold water. Her chest tightened.
+
+For a heartbeat, instinct told her to turn, to slip back into the current of the crowd and vanish before they noticed. She even shifted her weight, ready to pivot away.
+
+And yet—something held her still. A strange, stubborn curiosity rooted her to the spot. Part dread, part pull, as though some hidden thread bound her to the stage. Against her better judgment, Lucy stayed, her breath caught, her heart thudding as she watched.
 
 Joseph suddenly straightened, throwing his arm wide with theatrical command:
 “Bella!”
