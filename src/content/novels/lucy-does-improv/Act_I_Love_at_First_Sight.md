@@ -55,9 +55,17 @@ That night at home, Lucy sat hunched over her books, her forehead pressed hard a
 
 But the next day, when the final bell rang, her feet betrayed her. Again she found herself outside the club room.  
 
-Bella wore silver earrings this time, her hair tied back. Joseph’s presence steadied the room. Lucy stared too long, as though memorising their outlines. That evening the three played a family: Joseph and Bella the parents, Lucy the daughter. She leaned into Bella’s shoulder and felt a warmth she had never known how to ask for.  
+Bella wore silver earrings this time, her hair tied back neatly, the shine catching every flicker of the light. Joseph’s calm presence steadied the room, as though he were the quiet anchor in a sea of make-believe. Lucy found herself staring at them too long, her gaze clinging as if to fix their shapes in memory—Bella’s assured posture, Joseph’s unhurried voice.
 
-For an instant, she looked at peace. Then the scene ended, and her arms snapped back to her books as though she had been caught stealing.  
+That evening, the game was simple: play a family. Joseph slipped easily into the role of a father, puffing his chest and lowering his voice with exaggerated seriousness. Bella, without hesitation, became the mother—her tone sharp one moment, tender the next, a theatrical rhythm that made the room ripple with amusement. And Lucy—Lucy was the daughter.
+
+At first, she played it clumsily. Her voice cracked when she called Joseph “Dad,” her lips stumbled over “Mom” when she looked at Bella. But then, as Bella drew her close and let Lucy’s head rest against her shoulder, something shifted. The warmth of skin, the steadiness of breath—it felt absurd, almost embarrassing, yet unbearably comforting. A warmth she had never known how to ask for.
+
+For a fleeting instant, she let go. She allowed herself to sink into it, into the fragile illusion of belonging. It was a child’s game, yet her chest ached as though it touched something raw.
+
+And then—the scene ended. Joseph clapped his hands, breaking character with a grin. Bella laughed and stretched her arms. Lucy jerked back to herself, her spine stiffening, her hands clutching at her books as if they were evidence of some theft.
+
+The laughter still echoed around her, but inside, Lucy felt the cold snap of guilt, as though she had trespassed into a happiness she was never meant to have. 
 
 That night, a message from Joseph lit her phone. The vibration rattled the desk. Lucy stared at it, eyes wide, before flinging the phone across the room with a choked sound. She pressed herself against her books, panting, as if covering a crime.  
 
