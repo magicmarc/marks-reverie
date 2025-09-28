@@ -75,7 +75,7 @@ The laughter still echoed around her, but inside, Lucy felt the cold snap of gui
 
 That night, a message from Joseph lit her phone. The vibration rattled the desk. Lucy stared at it, eyes wide, before flinging the phone across the room with a choked sound. She pressed herself against her books, panting, as if covering a crime.  
 
-Weeks passed. She buried herself in assignments, copying whole chapters at once, eyes red from lack of sleep. She thought the hunger would die.  
+Weeks passed. She buried herself in assignments, copying whole chapters at once, eyes red from lack of sleep. Her demon always died... almost. 
 
 
 ##  The Gaze in the Square
