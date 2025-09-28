@@ -104,7 +104,7 @@ Curious despite herself, Lucy drifted closer. At first she thought it was some c
 
 But then she saw them.
 
-Joseph—commanding the stage with his easy grin. Bella—animated, sharp, the kind of presence that drew eyes without effort. The sight hit her like a sudden plunge into cold water. Her chest tightened.
+Joseph—commanding the stage with his easy grin. Bella—animated, sharp, the kind of presence that drew eyes without effort. The sight hit her like a sudden plunge into cold water.
 
 For a heartbeat, instinct told her to turn, to slip back into the current of the crowd and vanish before they noticed.
 
