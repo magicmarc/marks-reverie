@@ -7,8 +7,6 @@ tags: ["novel", "fiction", "lucy-does-improv"]
 slug: "act-i" 
 ---
 
-# Lucy Does Improv
-
 Lucy was an accounting student. On an ordinary afternoon, she sat in class, eyes glazed over as she read through yet another dull financial report. The numbers blurred into one another—assets, liabilities, balance sheets, ratios. Suddenly, her mind wandered. She remembered the improv club she had once glimpsed in the hallway, their laughter echoing far more brightly than any lecture on depreciation.  
 
 When class ended, Lucy drifted—almost without meaning to—toward the gathering place of that very improv club.  
