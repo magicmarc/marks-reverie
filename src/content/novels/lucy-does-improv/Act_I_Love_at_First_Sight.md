@@ -19,9 +19,17 @@ When class ended, her steps should have taken her to the library. Instead, as th
 
 ## First Encounter
 
-Inside, **Joseph**, the president of the improv club, greeted her with open warmth. And there's **Bella**, a first-year computer science student who just joined the club. Bella’s smile had the ease of someone unafraid of being seen. Lucy clutched her books tight against her chest, her knuckles pale.  
+Inside, *Joseph*, the president of the improv club, greeted her with open warmth. And there was *Bella*, a first-year computer science student who had only recently joined. Bella’s smile carried the ease of someone unafraid of being seen. Lucy clutched her books tighter to her chest, her knuckles pale, as if they were her last shield.
 
-Lucy hardly realised how it happened. One moment she was hugging her books, the next she was inside the circle, Joseph already booming with authority.
+She hadn’t planned this. Her mind was still buzzing with tonight’s assignments—formulas to memorise, chapters to review. Yet her feet had brought her here, and now she stood at the threshold, caught between guilt and curiosity.
+
+The room was alive. A few students were in the middle of a scene, voices loud, arms flung wide in absurd gestures. Others laughed from the sidelines, calling out prompts, encouraging with playful shouts. The air was warm, humid with energy, their faces open, their bodies unafraid to look ridiculous. Compared to the stiff rows of her lecture hall, the difference was dizzying.
+
+Joseph stepped forward, his grin disarming, his voice a booming invitation that seemed to sweep her into the circle before she had a chance to retreat. Bella mirrored the welcome, her expression unguarded, her presence calm but confident. They felt—different. Less like students burdened with grades and futures, more like people who had found a space where they could simply exist.
+
+For a brief, impossible moment, Lucy felt it: the thought that perhaps this was where she belonged, that this chaotic, reckless laughter was the world she had been missing all along. The thought bloomed—and then, frightened by its own daring, she crushed it quickly, burying it under the weight of duty.
+
+But by then, it was too late. Somehow she was inside the circle, Joseph already in character as the booming landlord, Bella slipping easily into the role of a nosy neighbour, and Lucy herself—awkward, trembling—cast as the poor tenant who could not pay her rent.
 
 Joseph (landlord, chest puffed out): “Rent! Where is my rent? This is the third month! Do you think I run a charity?”
 
