@@ -61,7 +61,7 @@ Lucy froze. Her throat locked. She wanted to laugh but feared the sound of it. S
 
 That night at home, Lucy sat hunched over her books, her forehead pressed hard against the page. She copied the same formula three times, then ripped it out and began again. A voice she would not name seemed to hover in the silence: disapproving, heavy, impossible to please. She whispered into the paper, almost a prayer:  
 
-*“Tomorrow, I will be good and focus on my accounting class. I will.”*  
+*“Tomorrow, I will be good and focus on what actually matters. I will.”*  
 
 
 ## The Family Game
