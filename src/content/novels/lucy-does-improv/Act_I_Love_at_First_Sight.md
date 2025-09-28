@@ -90,7 +90,7 @@ Then, methodically, she began to copy. Line after line, chapter after chapter, h
 
 After that night, Joseph did not message her again. The silence was almost a relief. Lucy told herself she had survived it—that she had resisted the devil’s lure. The semester rolled on, assignments completed, exams prepared. She moved through her days with the steadiness of someone who had sealed a crack in the wall.
 
-And for a time, she believed she was safe. Safe from him, safe from them, safe from 'The Improv Club.
+And for a time, she believed she was safe. Safe from him, safe from them, safe from *The Improv Club*.
 
 Her demon always died… almost.
 
