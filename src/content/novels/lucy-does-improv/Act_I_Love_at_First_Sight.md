@@ -15,7 +15,7 @@ On afternoons like this, even the balance sheet blurred. Numbers tumbled into ea
 
 Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived - **the Improv Club**.
 
-Inside, Joseph greeted her with open warmth. Bella’s smile had the ease of someone unafraid of being seen. Lucy clutched her books tight against her chest, her knuckles pale.  
+Inside, **Joseph**, the president of the improv club, greeted her with open warmth. And there's **Bella**, a first-year computer science student who just joined the club. Bella’s smile had the ease of someone unafraid of being seen. Lucy clutched her books tight against her chest, her knuckles pale.  
 
 Withou noticing it, Lucy joined them and started an improv scene: Joseph, the landlord; Bella, a nosy neiborgh; Lucy, the tenant who could not pay. Joseph barked, Bella snapped, Lucy stammered. And then—Bella spun into a wild dance, sudden and unrestrained. Joseph played along. The air shook with play.  
 
