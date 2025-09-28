@@ -1,6 +1,6 @@
 ---
 title: "Act I: Love at First Sight" 
-excerpt: "Lucy, caught between her mother’s suffocating control and her father’s failed dreams, stumbles into improv as both escape and temptation." 
+excerpt: "Lucy stumbles into improv as both escape and temptation." 
 publishedAt: "2025-09-28" 
 readTime: 7
 tags: ["novel", "fiction", "lucy-does-improv"] 
