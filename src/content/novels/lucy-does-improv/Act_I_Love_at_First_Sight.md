@@ -13,17 +13,17 @@ Her classmates gave her space. To them, she seemed strange: restless, distracted
 
 On afternoons like this, even the balance sheet blurred. Numbers tumbled into each other, ratios turned to static. Lucy pressed her palm to the paper as if pinning it down, but her mind wandered. Somewhere down the hallway, laughter spilled out—sharp, unrestrained, a sound that didn’t belong to the quiet tyranny of the lecture hall.  
 
-Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived.  
+Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived - **the Improv Club**.
 
 Inside, Joseph greeted her with open warmth. Bella’s smile had the ease of someone unafraid of being seen. Lucy clutched her books tight against her chest, her knuckles pale.  
 
-They began an improv scene: Joseph, the landlord; Bella, the landlady; Lucy, the tenant who could not pay. Joseph barked, Bella snapped, Lucy stammered. And then—Bella spun into a wild dance, sudden and unrestrained. Joseph played along. The air shook with play.  
+Withou noticing it, Lucy joined them and started an improv scene: Joseph, the landlord; Bella, a nosy neiborgh; Lucy, the tenant who could not pay. Joseph barked, Bella snapped, Lucy stammered. And then—Bella spun into a wild dance, sudden and unrestrained. Joseph played along. The air shook with play.  
 
 Lucy froze. Her throat locked. She wanted to laugh but feared the sound of it. She wanted to speak but found herself mute. Something broke loose in her chest, and for a moment she looked almost alive.  
 
 That night she sat hunched over her books, her forehead pressed hard against the page. She copied the same formula three times, then ripped it out and began again. A voice she would not name seemed to hover in the silence: disapproving, heavy, impossible to please. She whispered into the paper, almost a prayer:  
 
-*“Tomorrow, I will study. I will.”*  
+*“Tomorrow, I will be good and focus on my accounting class. I will.”*  
 
 But the next day, when the final bell rang, her feet betrayed her. Again she found herself outside the club room.  
 
