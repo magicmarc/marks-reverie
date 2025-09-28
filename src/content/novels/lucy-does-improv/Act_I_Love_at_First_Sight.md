@@ -100,10 +100,15 @@ Then, mercifully, Bella looked away. The crowd exhaled.
 
 Lucy didn’t. She broke into a run, heart hammering, her legs carrying her out of the square before the applause could follow. She fled to her dorm, slammed the door, and pressed her phone to her chest as though it might scorch her.
 
-Tears came hot and fast. Between gasps she whispered, raw and breaking:
+Tears came hot and fast. Her chest convulsed with each breath, as if something poisonous had already entered her blood. She pressed her palm against her mouth to stifle the sound, but the tremor would not stop.
 
+Between gasps she whispered:
 **“Why won’t you let me go?”**
 
-At last, trembling, she opened Joseph’s old message. She typed slowly, as though the words themselves were forbidden:  
+Her phone lay on the desk, screen glowing faintly. She reached for it as though it burned, pulled back, then reached again. A sick dread tightened her stomach—the same terror as touching a substance she knew would ruin her, yet could not resist.
+
+At last, trembling, she opened Joseph’s old message. Her fingers hovered, then moved with dreadful slowness, each keystroke a betrayal, each letter a surrender.
+
+She typed, haltingly, as though carving words she had no right to speak:
 
 **“See you tomorrow.”**
