@@ -19,13 +19,11 @@ When class ended, her steps should have taken her to the library. Instead, as th
 
 ## First Encounter
 
-Inside, *Joseph*, the president of the improv club, greeted her with open warmth. And there was *Bella*, a first-year computer science student who had only recently joined. Bella’s smile carried the ease of someone unafraid of being seen. Lucy clutched her books tighter to her chest, her knuckles pale, as if they were her last shield.
-
 She hadn’t planned this. Her mind was still buzzing with tonight’s assignments—formulas to memorise, chapters to review. Yet her feet had brought her here, and now she stood at the threshold, caught between guilt and curiosity.
 
 The room was alive. A few students were in the middle of a scene, voices loud, arms flung wide in absurd gestures. Others laughed from the sidelines, calling out prompts, encouraging with playful shouts. The air was warm, humid with energy, their faces open, their bodies unafraid to look ridiculous. Compared to the stiff rows of her lecture hall, the difference was dizzying.
 
-Joseph stepped forward, his grin disarming, his voice a booming invitation that seemed to sweep her into the circle before she had a chance to retreat. Bella mirrored the welcome, her expression unguarded, her presence calm but confident. They felt—different. Less like students burdened with grades and futures, more like people who had found a space where they could simply exist.
+**Joseph**, the president of the improv club, stepped forward, his grin disarming, his voice a booming invitation that seemed to sweep her into the circle before she had a chance to retreat. **Bella**, a first-year computer science student who had only recently joined, mirrored the welcome, her expression unguarded, her presence calm but confident. They felt—different. Less like students burdened with grades and futures, more like people who had found a space where they could simply exist.
 
 For a brief, impossible moment, Lucy felt it: the thought that perhaps this was where she belonged, that this chaotic, reckless laughter was the world she had been missing all along. The thought bloomed—and then, frightened by its own daring, she crushed it quickly, burying it under the weight of duty.
 
