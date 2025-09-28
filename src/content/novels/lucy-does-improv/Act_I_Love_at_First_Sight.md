@@ -2,7 +2,7 @@
 title: "Act I: Love at First Sight" 
 excerpt: "Lucy stumbles into school's improv club." 
 publishedAt: "2025-09-28" 
-readTime: 7
+readTime: 15
 tags: ["novel", "fiction", "lucy-does-improv"] 
 slug: "act-i" 
 ---
