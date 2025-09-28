@@ -119,7 +119,7 @@ Bella followed the cue. Her eyes scanned the crowd, hawk-like, sharp and mercile
 
 For a moment, time fractured.
 
-Lucy’s body jolted as though caught stealing. Heat surged into her face. Her hands shook, clutching her bag, but her eyes—traitorous, trembling—stayed locked with Bella’s. In those three unbearable seconds, everything collapsed into contradiction: the shame of being exposed, the terror of being seen, the guilt leaving them without saying goodbye. Yet beneath all of it, another current swelled—an aching recognition, a secret hunger to be chosen, to be pulled into the circle rather than left at the edges.
+Lucy’s body jolted as though caught stealing. Heat surged into her face. Her hands shook, clutching her bag, but her eyes—traitorous, trembling—stayed locked with Bella’s. In those three unbearable seconds, everything collapsed into contradiction: the shame of being exposed, the terror of being seen, the guilt of leaving them without saying goodbye. Yet beneath all of it, another current swelled—an aching recognition, a secret hunger to be chosen, to be pulled into the circle rather than left at the edges.
 
 Her breath caught. Bella’s eyes were not cruel, not mocking, just steady, direct, as though asking something Lucy had no words for.
 
