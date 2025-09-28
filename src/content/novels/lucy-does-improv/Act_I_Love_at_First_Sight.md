@@ -9,7 +9,7 @@ slug: "act-i"
 
 Lucy was an accounting student. In class she always sat near the front, her notebook neatly lined, her hand shooting up whenever the lecturer posed a question. Her answers were precise, her tone composed, as if she had rehearsed them the night before. When group discussions began, she leaned in with practiced interest, nodding, underlining, filling margins with tidy annotations.
 
-Lukcy liked her annotaitons - "They are pretty, and fitting!".
+Lukcy liked her annotaitons: "They are pretty, and fitting!".
 
 Her classmates admired her diligence, yet kept a certain distance. There was something in her manner - too intent, too tightly wound - a seriousness that seemed out of place.
 
