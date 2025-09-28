@@ -7,57 +7,44 @@ tags: ["novel", "fiction", "lucy-does-improv"]
 slug: "act-i" 
 ---
 
-Lucy was an accounting student. On an ordinary afternoon, she sat in class, eyes glazed over as she read through yet another dull financial report. The numbers blurred into one another—assets, liabilities, balance sheets, ratios. To her classmates she seemed strange: restless, distracted, a faint smile flickering at the wrong times, as though her mind were elsewhere entirely.  
+Lucy was an accounting student. She sat in class, her pen scratching furiously across the margins of her notebook—equations, fragments of words, then long, useless lines drawn again and again until the page tore. Sometimes she smiled faintly at nothing, then seconds later her face collapsed into panic as though she had made a terrible mistake no one else could see.  
 
-It was.  
+Her classmates gave her space. To them, she seemed strange: restless, distracted, prone to sudden stillness as though listening to voices no one else could hear.  
 
-Lucy remembered the improv club she had once glimpsed in the hallway, their laughter spilling out like sunlight. That joy stood in painful contrast to the world she carried from home.  
+On afternoons like this, even the balance sheet blurred. Numbers tumbled into each other, ratios turned to static. Lucy pressed her palm to the paper as if pinning it down, but her mind wandered. Somewhere down the hallway, laughter spilled out—sharp, unrestrained, a sound that didn’t belong to the quiet tyranny of the lecture hall.  
 
-Her father had once loved performing, chasing small theater stages with a boyish hope that someday he would succeed. He never did. Now he worked in a repair shop, hands blackened with grease, his dreams reduced to silence. Her mother never forgave him for it. She became the backbone of the family—hard-working, tireless at the hospital—but also sharp, controlling, relentless.  
+Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived.  
 
-From Lucy’s earliest memory, her mother’s voice had been iron:  
-*“If you waste time with friends, with clubs, with foolish hobbies, you’ll end up like your father—pathetic, broke, a burden. You owe me better.”*  
+Inside, Joseph greeted her with open warmth. Bella’s smile had the ease of someone unafraid of being seen. Lucy clutched her books tight against her chest, her knuckles pale.  
 
-Those words echoed whenever Lucy dared to look at something outside her textbooks. They haunted her in the quiet hours of the library, binding her with guilt. Yet inside, the more her mother forbade, the more Lucy’s hunger grew—for friendship, for play, for another kind of life. That hunger leaked out in the odd way she carried herself at school: a mixture of tension, longing, and secrecy.  
+They began an improv scene: Joseph, the landlord; Bella, the landlady; Lucy, the tenant who could not pay. Joseph barked, Bella snapped, Lucy stammered. And then—Bella spun into a wild dance, sudden and unrestrained. Joseph played along. The air shook with play.  
 
-When class ended, Lucy drifted—almost against her will—toward the gathering place of the improv club.  
+Lucy froze. Her throat locked. She wanted to laugh but feared the sound of it. She wanted to speak but found herself mute. Something broke loose in her chest, and for a moment she looked almost alive.  
 
-The club’s president, Joseph, greeted her warmly. Another member, a girl named Bella, smiled with easy confidence. That day, Lucy joined her very first improv exercise. Joseph played the grumpy landlord; Bella, the sharp-tongued landlady; and Lucy, the hapless tenant unable to pay her rent. Joseph barked, Bella scolded, Lucy stammered. Then suddenly, Bella burst into a wild dance, twirling with arms flung wide.  
+That night she sat hunched over her books, her forehead pressed hard against the page. She copied the same formula three times, then ripped it out and began again. A voice she would not name seemed to hover in the silence: disapproving, heavy, impossible to please. She whispered into the paper, almost a prayer:  
 
-Lucy froze, caught between awe and terror. For a moment, she forgot her role entirely. Yet something cracked open inside her—a forbidden joy, raw and dangerous.  
+*“Tomorrow, I will study. I will.”*  
 
-Afterward, she looked again at her accounting notes and felt only disgust. The neat lines of the balance sheet seemed pale, lifeless. Joseph and Bella’s energy lingered in her chest like fire.  
+But the next day, when the final bell rang, her feet betrayed her. Again she found herself outside the club room.  
 
-But the fire was not free. She knew her mother would never forgive it. And she knew what her mother would say if she ever found out: *“You are throwing away your future. You are betraying me.”*  
+Bella wore silver earrings this time, her hair tied back. Joseph’s presence steadied the room. Lucy stared too long, as though memorising their outlines. That evening the three played a family: Joseph and Bella the parents, Lucy the daughter. She leaned into Bella’s shoulder and felt a warmth she had never known how to ask for.  
 
-Lucy pressed her forehead to her books that night, tears sliding silently onto the pages. She told herself she would study harder, crush the longing, bury the laughter that still rang in her ears.  
+For an instant, she looked at peace. Then the scene ended, and her arms snapped back to her books as though she had been caught stealing.  
 
-Yet the next day, when the final bell rang, her feet betrayed her. She found herself walking, almost sleepwalking, back toward the club.  
+That night, a message from Joseph lit her phone. The vibration rattled the desk. Lucy stared at it, eyes wide, before flinging the phone across the room with a choked sound. She pressed herself against her books, panting, as if covering a crime.  
 
-This time Bella wore silver earrings, her hair tied back. To Lucy, she looked almost dazzling, magnetic. Joseph, too, seemed brighter, his presence steadier than the classmates she never dared to befriend.  
+Weeks passed. She buried herself in assignments, copying whole chapters at once, eyes red from lack of sleep. She thought the hunger would die.  
 
-That evening the three played a family: Joseph and Bella the parents, Lucy their daughter. She leaned against Bella and felt the warmth of her body. For an instant, Lucy forgot the weight of duty, the trap of her mother’s words. She belonged. She wanted it.  
+Until one afternoon, crossing the campus square, she stumbled into a crowd. A small stage had been raised. Joseph and Bella were performing, voices carrying like a spell.  
 
-But when the exercise ended, reality crashed back. Lucy clutched her books and whispered through gritted teeth:  
-*“Tomorrow, I must study. I must.”*  
+Joseph shouted, “Bella!” His gaze swept the audience. Bella’s eyes followed, hawk-like, catching Lucy where she stood.  
 
-That night, her phone buzzed with a message from Joseph. Lucy’s body jolted as though struck. She threw the phone across the room, heart hammering, as though her mother herself had discovered her crime.  
+Time froze. Lucy’s hands shook, but her eyes locked with Bella’s. Three seconds, endless, unbearable. Then Bella looked away.  
 
-For days she tried to bury improv again, drowning in assignments, clinging to the path her mother demanded. Yet the hunger remained.  
+Lucy ran. She fled to her dorm, clutching her phone as though it burned. Tears streaked down her cheeks as she whispered:  
 
-And one afternoon, months later, she stumbled across a stage set up in the campus square. Joseph and Bella were performing improv for a crowd.  
-
-Joseph’s voice rang out: *“Bella!”* His gaze swept the audience, searching.  
-
-Bella’s eyes followed, sharp as a hawk. Then she found Lucy.  
-
-For three long seconds, Lucy could not move. Her body trembled, but her eyes locked onto Bella’s, terrified, enthralled. When Bella finally looked away, Lucy fled, her chest tight, her thoughts screaming.  
-
-Back in her dorm, clutching her phone, she whispered through tears:  
 *“Why won’t you let me go?”*  
 
-And then, with shaking fingers, she reopened Joseph’s long-silent message.  
-
-She typed, slowly, as though stepping across a line she could never return from:  
+At last, trembling, she opened Joseph’s old message. She typed slowly, as though the words themselves were forbidden:  
 
 **“See you tomorrow.”**
