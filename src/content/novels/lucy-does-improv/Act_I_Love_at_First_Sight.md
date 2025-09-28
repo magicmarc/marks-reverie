@@ -7,14 +7,15 @@ tags: ["novel", "fiction", "lucy-does-improv"]
 slug: "act-i" 
 ---
 
-Lucy was an accounting student. She sat in class, her pen scratching furiously across the margins of her notebook—equations, fragments of words, then long, useless lines drawn again and again until the page tore. Sometimes she smiled faintly at nothing, then seconds later her face collapsed into panic as though she had made a terrible mistake no one else could see.  
+Lucy was an accounting student. In class she always sat near the front, her notebook neatly lined, her hand shooting up whenever the lecturer posed a question. Her answers were precise, her tone composed, as if she had rehearsed them the night before. When group discussions began, she leaned in with practiced interest, nodding, underlining, filling margins with tidy annotations.
 
-Her classmates gave her space. To them, she seemed strange: restless, distracted, prone to sudden stillness as though listening to voices no one else could hear.  
+Her classmates admired her diligence, yet kept a certain distance. There was something in her manner—too intent, too tightly wound—that felt more like obligation than ease. A seriousness that seemed out of place in a sea of casual chatter and half-formed jokes.
 
-On afternoons like this, even the balance sheet blurred. Numbers tumbled into each other, ratios turned to static. Lucy pressed her palm to the paper as if pinning it down, but her mind wandered. Somewhere down the hallway, laughter spilled out—sharp, unrestrained, a sound that didn’t belong to the quiet tyranny of the lecture hall.  
+Lucy, for her part, found them equally puzzling. Their laughter struck her as shallow, their drifting attention a kind of weakness. She smiled when courtesy demanded, but behind it she wondered why no one else seemed to carry the weight she carried.
 
-Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived - **The Improv Club**.
+Still, she persisted. Equation by equation, ratio by ratio, she pressed herself into the shape of a perfect student. Until, one afternoon, the numbers blurred, and through the open door of the hall came a sound that jarred her concentration—laughter. Loud, unrestrained, entirely at odds with the quiet discipline of the lecture.
 
+When class ended, her steps should have taken her to the library. Instead, as though nudged by some invisible current, they drifted—hesitant, reluctant, yet curious—toward the room at the end of the hall, where that laughter lived: The Improv Club.
 
 ## First Encounter
 
