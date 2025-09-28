@@ -13,7 +13,7 @@ Her classmates gave her space. To them, she seemed strange: restless, distracted
 
 On afternoons like this, even the balance sheet blurred. Numbers tumbled into each other, ratios turned to static. Lucy pressed her palm to the paper as if pinning it down, but her mind wandered. Somewhere down the hallway, laughter spilled out—sharp, unrestrained, a sound that didn’t belong to the quiet tyranny of the lecture hall.  
 
-Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived - **the Improv Club**.
+Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived - **The Improv Club**.
 
 
 ## First Encounter
