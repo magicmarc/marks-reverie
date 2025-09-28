@@ -71,15 +71,28 @@ That night, a message from Joseph lit her phone. The vibration rattled the desk.
 
 Weeks passed. She buried herself in assignments, copying whole chapters at once, eyes red from lack of sleep. She thought the hunger would die.  
 
-Until one afternoon, crossing the campus square, she stumbled into a crowd. A small stage had been raised. Joseph and Bella were performing, voices carrying like a spell.  
+Until one afternoon, crossing the campus square, Lucy stumbled into a crowd. A temporary stage had been raised, students milling about, laughter echoing. Onstage, Joseph and Bella were mid-performance, their voices rolling out like a spell that caught even passersby.
 
-Joseph shouted, “Bella!” His gaze swept the audience. Bella’s eyes followed, hawk-like, catching Lucy where she stood.  
+Joseph suddenly straightened, throwing his arm wide with theatrical command:
+“Bella!”
 
-Time froze. Lucy’s hands shook, but her eyes locked with Bella’s. Three seconds, endless, unbearable. Then Bella looked away.  
+His voice cracked like a whip, then softened into a grin. His gaze swept the audience deliberately, a game she recognised now—the familiar trick of improv: draw someone in, pull the crowd closer by singling out the most withdrawn, the shyest, the one who least wanted the spotlight.
 
-Lucy ran. She fled to her dorm, clutching her phone as though it burned. Tears streaked down her cheeks as she whispered:  
+Bella followed the cue. Her eyes scanned the crowd, hawk-like, sharp and merciless in their hunt. Students tittered nervously, ducking behind each other. Then—her gaze landed on Lucy.
 
-*“Why won’t you let me go?”*  
+For a moment, time fractured.
+
+Lucy’s body jolted as though caught stealing. Heat surged into her face. Her hands shook, clutching her bag, but her eyes—traitorous, trembling—stayed locked with Bella’s. In those three unbearable seconds, everything collapsed into contradiction: the shame of being exposed, the terror of being seen, the guilt of returning again and again to what she swore to resist. Yet beneath all of it, another current swelled—an aching recognition, a secret hunger to be chosen, to be pulled into the circle rather than left at the edges.
+
+Her breath caught. Bella’s eyes were not cruel, not mocking, just steady, direct, as though asking something Lucy had no words for.
+
+Then, mercifully, Bella looked away. The crowd exhaled.
+
+Lucy didn’t. She broke into a run, heart hammering, her legs carrying her out of the square before the applause could follow. She fled to her dorm, slammed the door, and pressed her phone to her chest as though it might scorch her.
+
+Tears came hot and fast. Between gasps she whispered, raw and breaking:
+
+**“Why won’t you let me go?”**
 
 At last, trembling, she opened Joseph’s old message. She typed slowly, as though the words themselves were forbidden:  
 
