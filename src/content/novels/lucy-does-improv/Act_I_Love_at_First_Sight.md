@@ -57,7 +57,7 @@ Lucy (stammering, voice cracking): “I—I admit nothing! I… I only wanted co
 
 The scene collapsed into laughter, but for Lucy, the air was still trembling, as though something inside her had cracked open.
 
-Lucy froze. Her throat locked. She wanted to laugh but feared the sound of it. She wanted to speak but found herself mute. Something broke loose in her chest, and for a moment she looked almost alive.  
+Lucy froze. Her throat locked. She wanted to laugh but feared the sound of it. She wanted to speak but found herself mute. Something broke loose in her chest, and for a moment she felt alive again.  
 
 That night at home, Lucy sat hunched over her books, her forehead pressed hard against the page. She copied the same formula three times, then ripped it out and began again. A voice she would not name seemed to hover in the silence: disapproving, heavy, impossible to please. She whispered into the paper, almost a prayer:  
 
