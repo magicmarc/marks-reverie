@@ -15,6 +15,9 @@ On afternoons like this, even the balance sheet blurred. Numbers tumbled into ea
 
 Her steps, when class ended, did not take her back to the library as they should have. Instead they carried her, hesitant, guilty, almost sleepwalking, to the room where that laughter lived - **the Improv Club**.
 
+
+## First Encounter
+
 Inside, **Joseph**, the president of the improv club, greeted her with open warmth. And there's **Bella**, a first-year computer science student who just joined the club. Bella’s smile had the ease of someone unafraid of being seen. Lucy clutched her books tight against her chest, her knuckles pale.  
 
 Lucy hardly realised how it happened. One moment she was hugging her books, the next she was inside the circle, Joseph already booming with authority.
@@ -53,6 +56,9 @@ That night at home, Lucy sat hunched over her books, her forehead pressed hard a
 
 *“Tomorrow, I will be good and focus on my accounting class. I will.”*  
 
+
+## The Family Game
+
 But the next day, when the final bell rang, her feet betrayed her. Again she found herself outside the club room.  
 
 Bella wore silver earrings this time, her hair tied back neatly, the shine catching every flicker of the light. Joseph’s calm presence steadied the room, as though he were the quiet anchor in a sea of make-believe. Lucy found herself staring at them too long, her gaze clinging as if to fix their shapes in memory—Bella’s assured posture, Joseph’s unhurried voice.
@@ -70,6 +76,9 @@ The laughter still echoed around her, but inside, Lucy felt the cold snap of gui
 That night, a message from Joseph lit her phone. The vibration rattled the desk. Lucy stared at it, eyes wide, before flinging the phone across the room with a choked sound. She pressed herself against her books, panting, as if covering a crime.  
 
 Weeks passed. She buried herself in assignments, copying whole chapters at once, eyes red from lack of sleep. She thought the hunger would die.  
+
+
+##  The Gaze in the Square
 
 Until one afternoon, crossing the campus square, Lucy stumbled into a crowd. A temporary stage had been raised, students milling about, laughter echoing. Onstage, Joseph and Bella were mid-performance, their voices rolling out like a spell that caught even passersby.
 
