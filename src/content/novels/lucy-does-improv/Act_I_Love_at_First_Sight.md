@@ -9,11 +9,15 @@ slug: "act-i"
 
 Lucy was an accounting student. In class she always sat near the front, her notebook neatly lined, her hand shooting up whenever the lecturer posed a question. Her answers were precise, her tone composed, as if she had rehearsed them the night before. When group discussions began, she leaned in with practiced interest, nodding, underlining, filling margins with tidy annotations.
 
-Her classmates admired her diligence, yet kept a certain distance. There was something in her manner—too intent, too tightly wound—that felt more like obligation than ease. A seriousness that seemed out of place in a sea of casual chatter and half-formed jokes.
+Lukcy liked her annotaitons - "They are pretty, and fitting!".
 
-Lucy, for her part, found them equally puzzling. Their laughter struck her as shallow, their drifting attention a kind of weakness. She smiled when courtesy demanded, but behind it she wondered why no one else seemed to carry the weight she carried.
+Her classmates admired her diligence, yet kept a certain distance. There was something in her manner - too intent, too tightly wound - a seriousness that seemed out of place.
 
-Still, she persisted. Equation by equation, ratio by ratio, she pressed herself into the shape of a perfect student. Until, one afternoon, the numbers blurred, and through the open door of the hall came a sound that jarred her concentration—laughter. Loud, unrestrained, entirely at odds with the quiet discipline of the lecture.
+Lucy, for her part, found them equally puzzling. Their laughter struck her as shallow, their drifting attention a kind of weakness. She smiled when courtesy demanded, but behind it she wondered why she alone seemed to be acting in a different script.
+
+Still, she persisted. Equation by equation, ratio by ratio, she pressed herself into the shape of a perfect student. 
+
+Until, one afternoon, the numbers suddenly getting blurred, and through the open door of the hall came a sound that jarred her concentration—laughter. Loud, unrestrained, entirely at odds with the quiet discipline of the lecture.
 
 When class ended, her steps should have taken her to the library. Instead, as though nudged by some invisible current, they drifted—hesitant, reluctant, yet curious—toward the room at the end of the hall, where that laughter lived: **The Improv Club**.
 
@@ -23,9 +27,9 @@ She hadn’t planned this. Her mind was still buzzing with tonight’s assignmen
 
 The room was alive. A few students were in the middle of a scene, voices loud, arms flung wide in absurd gestures. Others laughed from the sidelines, calling out prompts, encouraging with playful shouts. The air was warm, humid with energy, their faces open, their bodies unafraid to look ridiculous. Compared to the stiff rows of her lecture hall, the difference was dizzying.
 
-**Joseph**, the president of the improv club, stepped forward, his grin disarming, his voice a booming invitation that seemed to sweep her into the circle before she had a chance to retreat. **Bella**, a first-year computer science student who had only recently joined, mirrored the welcome, her expression unguarded, her presence calm but confident. They felt—different. Less like students burdened with grades and futures, more like people who had found a space where they could simply exist.
+**Joseph**, the president of the improv club, stepped forward, his grin disarming, his voice a booming invitation that seemed to sweep her into the circle before she had a chance to retreat. **Bella**, a first-year computer science student who had only recently joined, mirrored the welcome, her expression unguarded, her presence calm but confident. They felt—different. Less like students burdened with grades and futures, more like people who had found a space where they could *simply exist*.
 
-For a brief, impossible moment, Lucy felt it: the thought that perhaps this was where she belonged, that this chaotic, reckless laughter was the world she had been missing all along. The thought bloomed—and then, frightened by its own daring, she crushed it quickly, burying it under the weight of duty.
+For a brief, impossible moment, Lucy felt it: the thought that perhaps this was where she belonged, that this chaotic, reckless laughter was the world she had been missing out all along. The thought bloomed—and then, frightened by its own daring, she crushed it quickly.
 
 But by then, it was too late. Somehow she was inside the circle, Joseph already in character as the booming landlord, Bella slipping easily into the role of a nosy neighbour, and Lucy herself—awkward, trembling—cast as the poor tenant who could not pay her rent.
 
@@ -33,7 +37,7 @@ Joseph (landlord, chest puffed out): “Rent! Where is my rent? This is the thir
 
 Lucy (tenant, startled): “I—I—I… I’ll pay next week, I promise—”
 
-Bella (as the nosy neighbour, leaning in conspiratorially): “Oh, Mr. Landlord, I saw her buying cookies yesterday. Fancy cookies. Clearly she has money. She just doesn’t respect you.”
+Bella (as the nosy neighbour, leaning in conspiratorially): “Oh, Mr. Landlord, I saw her buying cookies yesterday. Fancy cookies! Clearly she has money. She just doesn’t respect you.”
 
 (Joseph gasps in mock outrage, pointing at Lucy like a judge about to deliver a sentence.)
 
@@ -45,7 +49,7 @@ Bella (smirking, circling Lucy like a detective): “On sale? Lies! I checked th
 
 (Gasps from Joseph. Lucy looks cornered, her face flushing as she tries to think of an excuse. Then, without warning, Bella breaks character—her body twists, and she launches into an exaggerated dance: wild hip sways, arms flailing, spinning like a puppet on broken strings.)
 
-Joseph (quick to adapt, clapping to her rhythm): “Oh no! The neighbour’s curse has begun again. Every time she smells unpaid rent, she dances!”
+Joseph (quick to adapt, clapping to her rhythm): “Oh no! The neighbour’s curse has begun again. Every time she smells lies, she dances!”
 
 (The room bursts into laughter. Bella twirls closer to Lucy, who freezes, eyes wide. Joseph claps louder, chanting like a priest banishing spirits.)
 
@@ -53,22 +57,20 @@ Joseph: “Tenant, only you can stop her! Confess! Admit your guilt!”
 
 Lucy (stammering, voice cracking): “I—I admit nothing! I… I only wanted cookies—”
 
-(Bella suddenly spins to a stop, staring directly into Lucy’s eyes with mock ferocity. Lucy bursts into a nervous giggle, forgetting her lines entirely. For a beat, she just stands there, caught in the current of their energy, half-terrified, half-alive.)
+(Bella suddenly spins to a stop, staring directly into Lucy’s eyes with mock ferocity. Lucy bursts into a nervous giggle, forgetting her role entirely. For a beat, she just stands there, caught in the current of their energy, half-terrified.)
 
 The scene collapsed into laughter, but for Lucy, the air was still trembling, as though something inside her had cracked open.
 
-Lucy froze. Her throat locked. She wanted to laugh but feared the sound of it. She wanted to speak but found herself mute. Something broke loose in her chest, and for a moment she felt alive again.  
+That night at home, Lucy calmed herself. She sat hunched over her books, her forehead pressed hard against the page. She copied the same formula three times, then ripped it out and began again. A voice she would not name seemed to hover in the silence: disapproving, heavy, impossible to please. She whispered into the paper, almost a prayer:  
 
-That night at home, Lucy sat hunched over her books, her forehead pressed hard against the page. She copied the same formula three times, then ripped it out and began again. A voice she would not name seemed to hover in the silence: disapproving, heavy, impossible to please. She whispered into the paper, almost a prayer:  
-
-*“Tomorrow, I will be good and focus on what actually matters. I will.”*  
+“Tomorrow, I will be good and focus on *what actually matters*. I will.”  
 
 
 ## The Family Game
 
-But the next day, when the final bell rang, her feet betrayed her. Again she found herself outside the club room.  
+But the next day, when the final bell rang, her feet betrayed her. Again, she found herself outside the club room.  
 
-Bella wore silver earrings this time, her hair tied back neatly, the shine catching every flicker of the light. Joseph’s calm presence steadied the room, as though he were the quiet anchor in a sea of make-believe. Lucy found herself staring at them too long, her gaze clinging as if to fix their shapes in memory—Bella’s assured posture, Joseph’s unhurried voice.
+Bella wore silver earrings this time, her hair tied back neatly, the shine catching every flicker of the light. Lucy found herself staring at Bella, her gaze clinging as if to fix her posture.
 
 That evening, the game was simple: play a family. Joseph slipped easily into the role of a father, puffing his chest and lowering his voice with exaggerated seriousness. Bella, without hesitation, became the mother—her tone sharp one moment, tender the next, a theatrical rhythm that made the room ripple with amusement. And Lucy—Lucy was the daughter.
 
@@ -80,7 +82,7 @@ And then—the scene ended. Joseph clapped his hands, breaking character with a 
 
 The laughter still echoed around her, but inside, Lucy felt the cold snap of guilt, as though she had trespassed into a happiness she was never meant to have. 
 
-That night, a message from Joseph lit her phone. The vibration rattled the desk like a warning bell. Lucy froze, her eyes wide, heart hammering. It was as if a ghost had slipped into her room, as if some devil had chosen her name.
+That night, a message from Joseph lit her phone. The vibration rattled the desk like a warning bell.
 
 The phone shivered again. She let out a choked sound, grabbed it as though it were burning her, and hurled it to the far corner. For a moment she stood there, trembling. Then, as if afraid it might still whisper to her, she retrieved it, switched it to silent, and buried it deep under her pillow like contraband.
 
@@ -104,7 +106,7 @@ But then she saw them.
 
 Joseph—commanding the stage with his easy grin. Bella—animated, sharp, the kind of presence that drew eyes without effort. The sight hit her like a sudden plunge into cold water. Her chest tightened.
 
-For a heartbeat, instinct told her to turn, to slip back into the current of the crowd and vanish before they noticed. She even shifted her weight, ready to pivot away.
+For a heartbeat, instinct told her to turn, to slip back into the current of the crowd and vanish before they noticed.
 
 And yet—something held her still. A strange, stubborn curiosity rooted her to the spot. Part dread, part pull, as though some hidden thread bound her to the stage. Against her better judgment, Lucy stayed, her breath caught, her heart thudding as she watched.
 
@@ -117,13 +119,13 @@ Bella followed the cue. Her eyes scanned the crowd, hawk-like, sharp and mercile
 
 For a moment, time fractured.
 
-Lucy’s body jolted as though caught stealing. Heat surged into her face. Her hands shook, clutching her bag, but her eyes—traitorous, trembling—stayed locked with Bella’s. In those three unbearable seconds, everything collapsed into contradiction: the shame of being exposed, the terror of being seen, the guilt of returning again and again to what she swore to resist. Yet beneath all of it, another current swelled—an aching recognition, a secret hunger to be chosen, to be pulled into the circle rather than left at the edges.
+Lucy’s body jolted as though caught stealing. Heat surged into her face. Her hands shook, clutching her bag, but her eyes—traitorous, trembling—stayed locked with Bella’s. In those three unbearable seconds, everything collapsed into contradiction: the shame of being exposed, the terror of being seen, the guilt leaving them without saying goodbye. Yet beneath all of it, another current swelled—an aching recognition, a secret hunger to be chosen, to be pulled into the circle rather than left at the edges.
 
 Her breath caught. Bella’s eyes were not cruel, not mocking, just steady, direct, as though asking something Lucy had no words for.
 
-Then, mercifully, Bella looked away. The crowd exhaled.
+Then, mercifully, Bella looked away.
 
-Lucy didn’t. She broke into a run, heart hammering, her legs carrying her out of the square before the applause could follow. She fled to her dorm, slammed the door, and pressed her phone to her chest as though it might scorch her.
+Bella didn't pick Lucy. Relieved, Lucy could escape now. She broke into a run, heart hammering, her legs carrying her out of the square before the applause could follow. She fled to her dorm, slammed the door.
 
 Tears came hot and fast. Her chest convulsed with each breath, as if something poisonous had already entered her blood. She pressed her palm against her mouth to stifle the sound, but the tremor would not stop.
 
