@@ -17,7 +17,35 @@ Her steps, when class ended, did not take her back to the library as they should
 
 Inside, **Joseph**, the president of the improv club, greeted her with open warmth. And there's **Bella**, a first-year computer science student who just joined the club. Bella’s smile had the ease of someone unafraid of being seen. Lucy clutched her books tight against her chest, her knuckles pale.  
 
-Withou noticing it, Lucy joined them and started an improv scene: Joseph, the landlord; Bella, a nosy neiborgh; Lucy, the tenant who could not pay. Joseph barked, Bella snapped, Lucy stammered. And then—Bella spun into a wild dance, sudden and unrestrained. Joseph played along. The air shook with play.  
+Lucy hardly realised how it happened. One moment she was hugging her books, the next she was inside the circle, Joseph already booming with authority.
+
+Joseph (landlord, chest puffed out): “Rent! Where is my rent? This is the third month! Do you think I run a charity?”
+
+Lucy (tenant, startled): “I—I—I… I’ll pay next week, I promise—”
+
+Bella (as the nosy neighbour, leaning in conspiratorially): “Oh, Mr. Landlord, I saw her buying cookies yesterday. Fancy cookies. Clearly she has money. She just doesn’t respect you.”
+
+(Joseph gasps in mock outrage, pointing at Lucy like a judge about to deliver a sentence.)
+
+Joseph: “Cookies! You dare eat cookies when you owe me rent?”
+
+Lucy (blurting out): “They—they were on sale!”
+
+Bella (smirking, circling Lucy like a detective): “On sale? Lies! I checked the supermarket flyers. They weren’t discounted at all.”
+
+(Gasps from Joseph. Lucy looks cornered, her face flushing as she tries to think of an excuse. Then, without warning, Bella breaks character—her body twists, and she launches into an exaggerated dance: wild hip sways, arms flailing, spinning like a puppet on broken strings.)
+
+Joseph (quick to adapt, clapping to her rhythm): “Oh no! The neighbour’s curse has begun again. Every time she smells unpaid rent, she dances!”
+
+(The room bursts into laughter. Bella twirls closer to Lucy, who freezes, eyes wide. Joseph claps louder, chanting like a priest banishing spirits.)
+
+Joseph: “Tenant, only you can stop her! Confess! Admit your guilt!”
+
+Lucy (stammering, voice cracking): “I—I admit nothing! I… I only wanted cookies—”
+
+(Bella suddenly spins to a stop, staring directly into Lucy’s eyes with mock ferocity. Lucy bursts into a nervous giggle, forgetting her lines entirely. For a beat, she just stands there, caught in the current of their energy, half-terrified, half-alive.)
+
+The scene collapsed into laughter, but for Lucy, the air was still trembling, as though something inside her had cracked open.
 
 Lucy froze. Her throat locked. She wanted to laugh but feared the sound of it. She wanted to speak but found herself mute. Something broke loose in her chest, and for a moment she looked almost alive.  
 
