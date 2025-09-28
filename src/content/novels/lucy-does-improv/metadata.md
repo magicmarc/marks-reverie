@@ -6,6 +6,7 @@ readTime: 15
 tags: ["novel", "fiction", "improv", "coming-of-age", "lucy-does-improv"]
 slug: "lucy-does-improv"
 author: "Mark"
+coverImage: "/images/Lucy-Does-Improv_cover.png"
 ---
 
 # Lucy Does Improv
