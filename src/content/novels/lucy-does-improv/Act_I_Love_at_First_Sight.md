@@ -80,10 +80,19 @@ And then—the scene ended. Joseph clapped his hands, breaking character with a 
 
 The laughter still echoed around her, but inside, Lucy felt the cold snap of guilt, as though she had trespassed into a happiness she was never meant to have. 
 
-That night, a message from Joseph lit her phone. The vibration rattled the desk. Lucy stared at it, eyes wide, before flinging the phone across the room with a choked sound. She pressed herself against her books, panting, as if covering a crime.  
+That night, a message from Joseph lit her phone. The vibration rattled the desk like a warning bell. Lucy froze, her eyes wide, heart hammering. It was as if a ghost had slipped into her room, as if some devil had chosen her name.
 
-Weeks passed. She buried herself in assignments, copying whole chapters at once, eyes red from lack of sleep. Her demon always died... almost. 
+The phone shivered again. She let out a choked sound, grabbed it as though it were burning her, and hurled it to the far corner. For a moment she stood there, trembling. Then, as if afraid it might still whisper to her, she retrieved it, switched it to silent, and buried it deep under her pillow like contraband.
 
+Panting, she seized her accounting textbook and slammed it open. The neat columns and formulas glared back at her. Desperate, she lifted the heavy volume and brought it down against her head with a dull thud, as if to knock the temptation out. Once. Twice. She pressed her forehead into the paper, whispering half-curses, half-prayers.
+
+Then, methodically, she began to copy. Line after line, chapter after chapter, her pen scratching in furious discipline. Her shoulders stiffened, her face hardened, and the frantic trembling ebbed into mechanical precision. By dawn she had forced herself back into the shape she knew—an exemplary student, the girl who always had the right answer, the girl who never strayed.
+
+After that night, Joseph did not message her again. The silence was almost a relief. Lucy told herself she had survived it—that she had resisted the devil’s lure. The semester rolled on, assignments completed, exams prepared. She moved through her days with the steadiness of someone who had sealed a crack in the wall.
+
+And for a time, she believed she was safe. Safe from him, safe from them, safe from 'The Improv Club.
+
+Her demon always died… almost.
 
 ##  The Gaze in the Square
 
