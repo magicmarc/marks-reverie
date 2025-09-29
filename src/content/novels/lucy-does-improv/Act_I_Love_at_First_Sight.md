@@ -66,7 +66,7 @@ That night at home, Lucy calmed herself. She sat hunched over her books, her for
 “Tomorrow, I will be good and focus on *what actually matters*. I will.”  
 
 
-## The Family Game
+## Playing Daughter
 
 But the next day, when the final bell rang, her feet betrayed her. Again, she found herself outside the club room.  
 
@@ -94,7 +94,7 @@ After that night, Joseph did not message her again. The silence was almost a rel
 
 And for a time, she believed she was safe. Safe from him, safe from them, safe from *The Improv Club*.
 
-##  The Gaze in the Square
+##  The Gaze
 
 Months later, on a breezy afternoon, Lucy had almost forgotten the improv club. The weeks had blurred into assignments, late-night study sessions, and the dull rhythm of lectures. She carried her books across the campus square, thinking only of the exam schedule tacked above her desk.
 
