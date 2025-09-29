@@ -114,3 +114,24 @@ Lucy realised she had not seen that kind of approval—gentle, unforced—for a 
 And in that moment, she felt something settle inside her. Not fear. Not duty. But a steadiness, as though courage had quietly taken root.  
 
 ---
+
+## A Dream
+
+That night, back in her dorm, Lucy’s eyes fell on her tidy bookshelf and desk—rows of accounting volumes, binders stacked with precise notes. For the first time, the sight did not suffocate her. Instead, it felt like a steady foundation, not a cage.
+
+She thought: perhaps life did not have to split her in two. Perhaps she could have both—her studies and her secret passion, her discipline and her play.
+
+Calmly, almost serenely, she opened her textbook to the chapter covered that day in lecture. The formulas no longer blurred. She underlined, made neat annotations, and for once her hand did not tremble. Catherine’s class had left her body humming with an afterglow, like a deep massage to her spirit, loosening knots she hadn’t known she carried.
+
+The hours slipped by. Lucy finished her assignments with quiet satisfaction, slid the papers into their folder, and closed her books. When she lay down, her mind was neither restless nor frantic. Instead she drifted easily into sleep, wearing the faintest smile, as though she were the luckiest person in the world.
+
+She was once again barefoot in Catherine’s classroom, but this time there were no desks, no books—only a vast open floor. Joseph and Bella stood at the edges, their faces kind but silent, as though waiting to see what she would do.
+
+Lucy hesitated at first, her hands hovering uncertainly. Then, slowly, she lifted her arms, let her body sway, and began to move. Not timidly, not as a reaction to someone else’s touch, but on her own. Her steps grew bolder, her gestures wider, until she was twirling, spinning in the centre of the room, unafraid of the eyes upon her.
+
+Catherine’s voice echoed gently, though Catherine herself was nowhere to be seen:
+“Breathe, Lucy. Take the space. It’s yours.”
+
+And Lucy did. In her dream she laughed, a free, bright sound, the kind she never dared release when awake. She felt as though she had crossed some invisible threshold—not away from duty, not away from study, but into a place where she could carry both, balanced, without fear.
+
+When she woke in the morning, the dream clung to her like the shimmer of a bubble—fragile, fleeting, yet impossibly real.
