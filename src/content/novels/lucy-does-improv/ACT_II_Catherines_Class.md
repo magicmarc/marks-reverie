@@ -2,7 +2,7 @@
 title: "Act II: Catherine's Class" 
 excerpt: "Under Catherine’s gentle guidance, Lucy discovers a new self through performing." 
 publishedAt: "2025-09-29" 
-readTime: 8
+readTime: 10
 tags: ["novel", "fiction", "lucy-does-improv"] 
 slug: "act-ii" 
 ---
