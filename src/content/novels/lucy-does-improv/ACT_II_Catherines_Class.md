@@ -117,7 +117,7 @@ And in that moment, she felt something settle inside her. Not fear. Not duty. Bu
 
 ## A Dream
 
-That night, back in her dorm, Lucy’s eyes fell on her tidy bookshelf and desk—rows of accounting volumes, binders stacked with precise notes. For the first time, the sight did not suffocate her. Instead, it felt like a steady foundation, not a cage.
+That night, back in her dorm, Lucy’s eyes fell on her tidy bookshelf and desk—rows of accounting volumes, binders stacked with precise notes.
 
 She thought: perhaps life did not have to split her in two. Perhaps she could have both—her studies and her secret passion, her discipline and her play.
 
