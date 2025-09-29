@@ -132,6 +132,6 @@ Lucy hesitated at first, her hands hovering uncertainly. Then, slowly, she lifte
 Catherine’s voice echoed gently, though Catherine herself was nowhere to be seen:
 “Breathe, Lucy. Take the space. It’s yours.”
 
-And Lucy did. In her dream she laughed, a free, bright sound, the kind she never dared release when awake. She felt as though she had crossed some invisible threshold—not away from duty, not away from study, but into a place where she could carry both, balanced, without fear.
+And Lucy did. In her dream she laughed, a free, bright sound, the kind she never dared release when awake. 
 
 When she woke in the morning, the dream clung to her like the shimmer of a bubble—fragile, fleeting, yet impossibly real.
