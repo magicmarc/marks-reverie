@@ -1,6 +1,6 @@
 ---
 title: "Act II: Catherine's Class" 
-excerpt: "Under Catherine’s gentle guidance, Lucy discovers a new steadiness—and a courage she never thought she had." 
+excerpt: "Under Catherine’s gentle guidance, Lucy discovers a new self through performing." 
 publishedAt: "2025-09-29" 
 readTime: 8
 tags: ["novel", "fiction", "lucy-does-improv"] 
