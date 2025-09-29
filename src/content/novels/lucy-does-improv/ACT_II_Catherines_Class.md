@@ -27,7 +27,7 @@ At the sound of her voice, Lucy felt a surprising calm—an enveloping kindness 
 
 ---
 
-## Awakening the Body
+## A Warm-up from Catherine
 
 Catherine clapped her hands lightly. “First, take off your shoes.”  
 
