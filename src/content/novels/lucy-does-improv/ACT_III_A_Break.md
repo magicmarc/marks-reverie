@@ -7,7 +7,7 @@ tags: ["novel", "fiction", "lucy-does-improv"]
 slug: "act-iii" 
 ---
 
-The morning after her last class with Catherine, Lucy woke refreshed. She had finished the semester with strong grades, earned nods of approval from her professors, and—against all odds—made friends in the improv club. For once, the two halves of her life did not seem irreconcilable.  
+The morning after her last class with Catherine, Lucy woke refreshed. She had finished the semester with strong grades, earned nods of approval from her professors, and—against all odds—made friends in the improv club.
 
 On the train home for summer, she idly scrolled through Instagram. First Joseph’s page: group photos of the Improv Club, Bella laughing, Joseph unexpectedly in a suit—“Bachelor of Finance,” the caption read. Lucy blinked, surprised; she had always assumed him a sports or arts major. There were city streets, stray cats, little glimpses of another life.  
 
