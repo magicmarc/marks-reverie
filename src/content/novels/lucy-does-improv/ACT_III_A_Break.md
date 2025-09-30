@@ -145,7 +145,7 @@ Back at the house, she pressed the stone against the wall, and wherever it touch
 
 Her father appeared then, not angry but deliberate, a cloth in his hand. Without a word he began to wipe the wall, careful, methodical, erasing each stroke of light.
 
-“Papa, don’t,” Lucy pleaded. “The stone is meant for this. It makes things beautiful.”
+“Papa, don’t,” Lucy pleaded. “It is beautiful!”
 
 But his hand did not pause. The leaf dissolved into nothing, leaving only the bare wall again, pale and cold.
 
