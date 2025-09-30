@@ -37,7 +37,7 @@ Another photo showed Bella in a cocktail dress, glittering sequins catching ever
 
 There were camping pictures too—Bella sprawled by the fire in ripped jeans, hair tangled, eyes glittering with mischief as if she had just dared someone to jump into the lake at midnight.
 
-And then—the one Lucy could not forget. Bella on a bed, sprawled in an oversized white shirt, collar slipping loose, hair wild across her shoulders. No caption, no explanation, just the directness of the image itself. It was not coy. It was not posed. It radiated a kind of unstudied defiance, as though Bella were saying: Here I am. Look if you dare.
+And then—the one Lucy could not forget. Bella on a bed, sprawled in an oversized white shirt, no underwear, collar slipping loose, hair wild across her shoulders. No caption, no explanation, just the directness of the image itself. It was not coy. It was not posed. It radiated a kind of unstudied defiance, as though Bella were saying: Here I am. Look if you dare.
 
 Lucy stared at the screen, dazed. Her own photos—carefully framed, polite smiles, neat clothes—suddenly seemed like something from another universe. Bella's images clung to her like perfume, intoxicating and inescapable.
 
