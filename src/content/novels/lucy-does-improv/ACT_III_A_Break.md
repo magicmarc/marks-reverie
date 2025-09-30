@@ -43,7 +43,7 @@ Lucy stared at the screen, dazed. Her own photos—carefully framed, polite smil
 
 ## Bedroom Improv
 
-That evening, with her parents cooking in the kitchen, Lucy retreated to her room. She connected her phone to the speaker, let jaunty jazz fill the air, and tried—awkwardly, timidly at first—to step into Joseph, and *Bella’s* world.
+That evening, while her parents cooking in the kitchen, Lucy was in her room. She connected her phone to the speaker, let jaunty jazz fill the air, and tried—awkwardly, timidly at first—to step into Joseph, and *Bella’s* world.
 
 For the first time, she dared to improvise alone. 
 
