@@ -83,7 +83,7 @@ Her cheeks burned hot, but she couldn’t look away. For the first time, she fel
 
 The dining room. Warm light. The smell of braised pork and steamed rice lingers. Lucy sits straight-backed, hands folded, eager to share her semester’s triumphs. Her parents face her across the table. The air feels homely yet stiff.
 
-Lucy (brightly): I did well this semester. My professors praised my work, and I even made some new friends—
+Lucy (brightly): I did well this semester. My professors praised my work, and I even made some new friends at *The Improv Club*. Everyone was so nice! Joseph..
 
 Mother (interrupting, coldly measured): You have ten fingers, Lucy. Ten fingers kill ten flies at once. Anything beyond that—clubs, activities—is excess.
 
