@@ -98,7 +98,7 @@ Father (leans forward, soothing tone, almost paternal): Your mother may be right
 
 Lucy (voice cracks, but firm): But I can learn! I want to do something different! Don't we call that one's development in personality?
 
-Father (soft smile, cruel in its certainty): Maybe it’s destiny. Look at little Amy next door—so outgoing. She can mimic Lady Gaga, Madonna—flawless. Can you?
+Father (soft smile, cruel in its certainty): Maybe there's something we were born with. Look at little Amy next door—so outgoing. She can mimic Lady Gaga, Madonna—flawless. Can you?
 
 Lucy (defiant, trembling): I can!
 
