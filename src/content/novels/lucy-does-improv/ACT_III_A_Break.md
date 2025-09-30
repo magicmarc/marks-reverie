@@ -152,7 +152,7 @@ But his hand did not pause. The leaf dissolved into nothing, leaving only the ba
 Lucy clutched the stone tighter, the glow leaking between her fingers, certain, *achingly certain*, that it was meant to create, even if no one else believed it.
 ---
 
-## Curtain  
+## Closed Curtain  
 
 Lucy woke with her pillow damp, her chest tight, anger burning hot beneath her ribs. She hated them—hated the way they smiled gently while cutting her down, hated how they spoke as if she were something to be managed.
 
