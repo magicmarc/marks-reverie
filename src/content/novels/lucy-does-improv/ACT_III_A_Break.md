@@ -47,9 +47,7 @@ Lucy stared at the screen, dazed. Her own photos—carefully framed, polite smil
 
 ## Bedroom Improv
 
-That evening, while her parents cooking in the kitchen, Lucy was in her room. She connected her phone to the speaker, let jaunty jazz fill the air, and tried—awkwardly, timidly at first—to step into Joseph, and *Bella’s* world.
-
-For the first time, she dared to improvise alone. 
+That evening, while her parents cooking in the kitchen, Lucy was in her room. She connected her phone to the speaker, let jaunty jazz fill the air, and tried—awkwardly, timidly at first—to step into Joseph, and Bella’s world.
 
 She began with Joseph. Not the Joseph of the club, but the Joseph she had just discovered online—years older, dressed in his stiff suit, the Bachelor of Finance. Lucy squared her shoulders, straightened her spine, and paced her small room as if it were a glass-walled office. She jabbed a finger at invisible subordinates, voice clipped and commanding: “Buy. Sell. Faster—don’t waste my time.” For a moment, she almost believed herself powerful, her little room transformed into a high-rise boardroom.
 
