@@ -27,7 +27,11 @@ Lucy paused, unsettled. For the first time she saw him not only as the exuberant
 
 Then Bella’s page. Lucy’s breath caught.
 
-Post after post unfolded like a world Lucy had never dared imagine. In one video, Bella barked commands in a spin class, sweat flinging from her brow, her hair plastered to her face, her voice hoarse with laughter as she shouted: “Faster! Louder! Feel your heart burn!” The students in the background looked half-exhausted, half-drunk on her energy. Lucy could almost hear the thrum of the music, the pounding of bodies, the reckless joy of someone unafraid to take up space.
+Post after post unfolded like a world Lucy had never dared imagine. One photo showed Bella in a gym—nothing extraordinary, just leggings, a tank top, her hair damp with sweat as she gripped the handlebars of a spin bike. The background was cluttered with mirrors and neon lights, other students pedaling in blurred focus.
+
+And yet Lucy’s mind refused to leave it at that. She could almost hear Bella’s voice, sharp and hoarse with laughter, barking orders over pounding music: “Faster! Louder! Feel your heart burn!” In her imagination, sweat flew from Bella’s brow like sparks, her energy so wild it intoxicated the room. The classmates in the photo—ordinary, anonymous—morphed into an audience, half-exhausted, half-drunk on her fire.
+
+What the picture showed was a girl at the gym. What Lucy saw was someone unafraid to take up space, someone alive in a way she herself had never managed to be.
 
 Another photo showed Bella in a cocktail dress, glittering sequins catching every shard of light. She tilted her head back, laughing with a champagne flute in her hand, surrounded by men and women who looked at her as though she were the only person alive. There was nothing demure about her smile—it was sharp, daring, as if she knew exactly how much power she carried in her body and didn’t care who noticed.
 
