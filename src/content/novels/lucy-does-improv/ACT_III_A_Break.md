@@ -9,7 +9,18 @@ slug: "act-iii"
 
 The morning after her last class with Catherine, Lucy woke refreshed. She had finished the semester with strong grades, earned nods of approval from her professors, and—against all odds—made friends in the improv club.
 
-On the train home for summer, she idly scrolled through Instagram. First Joseph’s page: group photos of the Improv Club, Bella laughing, Joseph unexpectedly in a suit—“Bachelor of Finance,” the caption read. Lucy blinked, surprised; she had always assumed him a sports or arts major. There were city streets, stray cats, little glimpses of another life.  
+## Joseph’s Profile
+
+
+On the train home for summer, Lucy leaned against the window, phone in hand, thumbing through Instagram. The first profile she tapped was Joseph’s.
+
+The feed startled her.
+
+Not the booming landlord, not the boy who commanded a room with laughter—but a student, as ordinary as any she had sat beside in lecture halls. Group photos of the Improv Club, yes, but between them: Joseph in a crisp suit at some award night, captioned “Bachelor of Finance.” Lucy blinked; she had always imagined him a theatre kid, or maybe an athlete. Finance. He looked… serious, his tie slightly crooked, smiling in that restrained, professional way.
+
+She swiped further. Grainy snapshots of city streets at dusk, a stray cat crouched beneath a motorbike, a half-empty coffee cup beside an open laptop. Little fragments, mundane and unpolished, like peeking into a private drawer.
+
+Lucy paused, unsettled. For the first time she saw him not only as the exuberant president of the Improv Club, but as a boy with deadlines, commutes, maybe even doubts. A boy living a parallel life, not so different from hers.
 
 ---
 
