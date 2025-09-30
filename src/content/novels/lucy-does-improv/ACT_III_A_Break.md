@@ -174,6 +174,6 @@ Through the wall, Lucy felt her anger falter. The sharp, cold mask of her mother
 
 Her fists loosened, the heat in her chest collapsing into a weary stillness. She wasn’t happy—how could she be?—but she told herself her parents had carried too much already. They worried because they cared, even if their care felt like chains.
 
-So she resolved to try. To eat properly, to sleep on time, to keep her body steady and her mind disciplined. To stay away from the things that might make her stray—improv, imagination, anything that threatened to pull her off the path laid out for her.
+So she resolved to try. To eat properly, to sleep on time, to keep her body steady and her mind disciplined. To stay away from the things that might make her stray—improv, imagination, anything that threatened to pull her off the *path*.
 
-Next semester, she would return stronger, calmer, the daughter everyone believed she could be.
+Next semester, she would return stronger, calmer, and *healthier*.
