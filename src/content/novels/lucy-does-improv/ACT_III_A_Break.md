@@ -85,7 +85,7 @@ The dining room. Warm light. The smell of braised pork and steamed rice lingers.
 
 Lucy (brightly): I did well this semester. My professors praised my work, and I even made some new friends at *The Improv Club*. Everyone was so nice! Joseph..
 
-Mother (interrupting, coldly measured): You have ten fingers, Lucy. Ten fingers kill ten flies at once. Anything beyond that—clubs, activities—is excess.
+Mother (interrupting, coldly measured): You have ten fingers, Lucy. Ten fingers kill ten flies at once. Anything beyond that is excess.
 
 Lucy (forcing a smile): But there are only two flies right now.
 
