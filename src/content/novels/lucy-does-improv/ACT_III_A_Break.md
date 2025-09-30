@@ -138,6 +138,6 @@ Lucy’s sobs echoed against the wall, as the carved leaf disappeared.
 
 ## Curtain  
 
-She woke with her pillow damp, her chest tight. Outside, the house was quiet, the same house she had grown up in. She wiped her eyes and told herself she would study harder in the morning. She would be sensible. She would be—what everyone already believed her to be.  
+She woke with her pillow damp, her chest tight. Outside, the house was quiet, the same house she had grown up in. She wiped her eyes and told herself she would be sensible. She would be—what everyone already believed her to be.  
 
 She would be a good daughter.  
