@@ -133,7 +133,7 @@ Father (patting her hand, kindly, devastatingly): See? We must do what suits us.
 
 ---
 
-## Memories of Another Dream
+## A Glinting Stone
 
 That night, Lucy buried her face in her pillow, tears seeping hot and silent. If only she had Bella’s poise, Bella’s gifts, perhaps then she could be more than this.  
 
