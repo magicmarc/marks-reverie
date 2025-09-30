@@ -75,7 +75,7 @@ Lucy stood before her mirror, heart hammering. She tugged at her own shirt, pull
 
 She tried to drape herself on the bed the way Bella had, stretching one arm above her head, tilting her chin toward an imaginary lens. At once she felt ridiculous. Her back stiffened, her legs at odd angles, her expression caught between pout and grimace. She let out a strangled laugh, half-mortified, half-thrilled.
 
-Then she tried again. She lowered her eyes, parted her lips slightly, tracing the outline of Bella’s expression. The image in the mirror stared back at her—not Bella, not quite Lucy either, but someone in between. Someone braver, someone she might have been if shame were not stitched into her skin.
+She tried again. She lowered her eyes, parted her lips slightly, tracing the outline of Bella’s expression. The image in the mirror stared back at her—not Bella, not quite Lucy either, but someone in between. Someone braver, someone she might have been if shame were not stitched into her skin.
 
 Her cheeks burned hot, but she couldn’t look away. For the first time, she felt the strange intoxication of performing not for others, but for herself.
 
