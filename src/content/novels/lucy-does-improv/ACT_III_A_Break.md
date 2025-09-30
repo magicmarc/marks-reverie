@@ -1,6 +1,6 @@
 ---
-title: "Act III: A Break" 
-excerpt: "At home, Lucy’s fragile discovery of self collides with her family’s expectations, leaving her caught again between yearning and shame." 
+title: "Act III: A Break from School" 
+excerpt: "At home, Lucy’s fragile discovery of self collides with her family, leaving her caught again between yearning and shame." 
 publishedAt: "2025-09-30" 
 readTime: 10
 tags: ["novel", "fiction", "lucy-does-improv"] 
@@ -9,7 +9,7 @@ slug: "act-iii"
 
 The morning after her last class with Catherine, Lucy woke refreshed. She had finished the semester with strong grades, earned nods of approval from her professors, and—against all odds—made friends in the improv club. For once, the two halves of her life did not seem irreconcilable.  
 
-On the train home for summer, she idly scrolled through Instagram. First Joseph’s page: group photos of the club, Bella laughing, Joseph unexpectedly in a suit—“Bachelor of Finance,” the caption read. Lucy blinked, surprised; she had always assumed him a sports or arts major. There were city streets, stray cats, little glimpses of another life.  
+On the train home for summer, she idly scrolled through Instagram. First Joseph’s page: group photos of the Improv Club, Bella laughing, Joseph unexpectedly in a suit—“Bachelor of Finance,” the caption read. Lucy blinked, surprised; she had always assumed him a sports or arts major. There were city streets, stray cats, little glimpses of another life.  
 
 ---
 
@@ -38,41 +38,55 @@ Lucy tried to inhabit the scene, to channel its mystery and seduction. But she c
 
 ## A Family-Friendly Conversation
 
-At dinner she spoke proudly of her grades, her activities, her new friends.
+The dining room. Warm light. The smell of braised pork and steamed rice lingers. Lucy sits straight-backed, hands folded, eager to share her semester’s triumphs. Her parents face her across the table. The air feels both homely and suffocating.)
 
-Her father smiled. “Sounds like you had a good semester.”
+Lucy (brightly): I did well this semester. My professors praised my work, and I even made some new friends—
 
-Her mother’s face tightened. “You have ten fingers, Lucy. You can only kill ten flies at once. Extra clubs are a distraction.”
+Mother (interrupting, coldly measured): You have ten fingers, Lucy. Ten fingers kill ten flies at once. Anything beyond that—clubs, activities—is excess.
 
-“But right now, there are only two flies,” Lucy countered lightly, forcing a smile.
+Lucy (forcing a smile): But there are only two flies right now.
 
-“Don’t argue. Especially performance—it doesn’t suit you.” She turned to her husband. “Isn’t that right?”
+Mother (snaps): Don’t argue. Especially not about performance—it doesn’t suit you. (She turns to Father.) Isn’t that right?
 
-Her father hesitated, then nodded gently, voice calm as if to soften the blow. “You’ve always been a good daughter—patient, studious. Perfect for accounting. Performance requires a different kind of person, someone bold, outspoken. Maybe it’s not your path.”
+Father (hesitant, soft): Well… Lucy’s grades are good. Meeting more friends can be good for her.
 
-Lucy pressed her lips together. “But I could learn.”
+Mother (pressing, voice sharp): Friends, yes. But performance? Do you know what kind of people actors are? Do you know what kind of life they live?
 
-Her father leaned closer, as though soothing a frightened child. “Lucy, you’ve always been sensitive. That’s not a weakness, it just means we must protect you. Think about the stress, the crowds, the exposure—those things could hurt you. Why risk it?”
+Lucy (blurts, desperate): They’re the people I feel most connected to!
 
-His tone was soft, almost kind, but it settled on her like a diagnosis. Lucy felt the air thicken.
+Mother (ignores Lucy, to Father): You know her condition. She’s not suited for this. If she were healthy, perhaps. But as she is—
 
-“I’m not fragile,” she whispered, though even as she said it, the words quivered.
+Father (sighs, gentle, almost pleading): Don’t mention that at the table. The doctor warned us. And she’s been off medication for months. She managed her classes, even made friends. Isn’t that enough?
 
-He smiled sadly, a doctor with a patient he could not cure. “Maybe it’s destiny. Look at Amy next door—she can mimic Lady Gaga, Madonna, anyone. Could you?”
+Mother (lowers her voice, cutting): I saw what she was doing in her room. I didn’t like it.
 
-“I could!” Lucy said, her voice rising too fast, too thin.
+(She finally turns to Lucy, eyes narrowing.)
 
-“Then sing Bad Romance.”
+Mother: The entertainment world is filthy. Actresses are used, coerced, forced into beds with old men.
 
-Lucy swallowed, throat tightening. She half-sang, half-mumbled: “Ra-ra-ah-ah-ah, Roma-roma-ma…”
+Lucy (shakes her head, flustered): Actresses? No, no, I never thought of that. Improv is different—it’s not television or cinema, it’s just… fun.
 
-Her voice cracked, raw and thin. The table fell silent. Her cheeks burned with shame.
+Mother (to Father, dismissing Lucy): Speak to her.
 
-“See?” her father said gently, almost pitying. “We should do what suits us. Your mother just doesn’t want your talents wasted.”
+Father (leans forward, soothing tone, almost paternal): Your mother may be right. Perhaps performance isn’t your path. You’ve always been such a good daughter—obedient, diligent, patient. Perfect for accounting, where steadiness is needed. Performance requires boldness, extroversion. Perhaps you’re not built for it.
 
-Her mother reached across the table, patting Lucy’s hand as though she were ill, not grown. “We know what’s best for you.”
+Lucy (voice cracks, but firm): But I can learn!
 
-Lucy dropped her gaze, her breath shallow. The weight pressing into her shoulders was not just disappointment—it was the suffocating sense of being contained, like glass walls had been built around her. She was not their daughter; she was their patient, forever in treatment, forever unwell in their eyes.
+Father (soft smile, cruel in its certainty): Maybe it’s destiny. Look at little Amy next door—so outgoing. She can mimic Lady Gaga, Madonna—flawless. Can you?
+
+Lucy (defiant, trembling): I can!
+
+Father (gently, like a test): Then sing Bad Romance.
+
+(Lucy swallows. She opens her mouth, voice thin and uneven.)
+
+Lucy (murmurs, broken): Ra-ra-ah-ah-ah… Roma-roma-ma…
+
+(Her voice falters, cracks. The room falls silent. Her cheeks burn crimson. She lowers her head, ashamed, hating the sound of herself.)
+
+Father (patting her hand, kindly, devastatingly): See? We must do what suits us. Be clever. Don’t waste your gifts. Your mother only wants to protect you.
+
+(Lucy does not reply. She keeps her head bowed, spoon moving mechanically to her lips, chewing without tasting. The silence presses in. She looks small, smaller than she is, like a patient being fed at the table of her own home.)
 
 ---
 
