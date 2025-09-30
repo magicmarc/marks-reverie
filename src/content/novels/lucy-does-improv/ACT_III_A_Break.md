@@ -141,7 +141,7 @@ Sleep took her.
 
 She dreamed she was running along a Nordic lake, water shimmering in the dusk. On the shore lay a glinting stone, smooth and cool in her palm, as though it had been waiting only for her. She carried it home, holding it close to her chest like a secret.
 
-Back at the house, she pressed the stone against the wall, and wherever it touched, light spread like ink in water. She carved a leaf—delicate veins, curling stem—something alive, something that breathed. The stone seemed made for this, as though its only purpose was to draw out beauty where there had been only blankness.
+Back at the house, she pressed the stone against the wall, and wherever it touched, light spread like ink in water. She carved a leaf—delicate veins, curling stem—something alive, something that breathed. The stone seemed made for this, as though it was made to draw out beauty where there had been only blankness.
 
 Her father appeared then, not angry but deliberate, a cloth in his hand. Without a word he began to wipe the wall, careful, methodical, erasing each stroke of light.
 
