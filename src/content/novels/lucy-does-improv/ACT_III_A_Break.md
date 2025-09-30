@@ -154,8 +154,26 @@ Lucy clutched the stone tighter, the glow leaking between her fingers, certain, 
 
 ## Curtain  
 
-She woke with her pillow damp, her chest tight. Outside, the house was quiet, the same house she had grown up in. She wiped her eyes and told herself she would be sensible. She would be—what everyone already believed her to be.  
+Lucy woke with her pillow damp, her chest tight, anger burning hot beneath her ribs. She hated them—hated the way they smiled gently while cutting her down, hated how they spoke as if she were something to be managed.
 
-She would be a good daughter.
+But then, from the quiet of her room, she heard voices drifting from the living room.
 
-Lucy was well-rested during this break, and ready for school again.
+Mother: “Do you want Lucy back on medication?”
+
+Father: “Of course I don’t. But… maybe it’s what’s best for her condition.”
+
+Mother: “Best for her? You didn’t see what I saw. The way she was in her room, — it was just like the time she first got sick.”
+
+Father: “Shouldn’t we ask the doctor first?”
+
+Mother (snapping, voice cracking): “Haven’t we asked enough over the years?”
+
+There was a pause, then a sound Lucy had never expected—her mother’s breath hitching, the faint catch of someone fighting tears.
+
+Through the wall, Lucy felt her anger falter. The sharp, cold mask of her mother suddenly revealed itself as something else: brittle, terrified, worn thin by years of worry.
+
+Her fists loosened, the heat in her chest collapsing into a weary stillness. She wasn’t happy—how could she be?—but she told herself her parents had carried too much already. They worried because they cared, even if their care felt like chains.
+
+So she resolved to try. To eat properly, to sleep on time, to keep her body steady and her mind disciplined. To stay away from the things that might make her stray—improv, imagination, anything that threatened to pull her off the path laid out for her.
+
+Next semester, she would return stronger, calmer, the daughter everyone believed she could be.
