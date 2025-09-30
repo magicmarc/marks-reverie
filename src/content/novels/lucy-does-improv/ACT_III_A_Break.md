@@ -51,9 +51,13 @@ She began with Joseph. Not the Joseph of the club, but the Joseph she had just d
 
 Then the image slipped. Her voice softened into a mocking purr, her shoulders hunched, and suddenly she was a stray cat instead, prowling the edge of the desk, mewling with theatrical exaggeration. The banker had vanished, replaced by a creature of instinct and whimsy.
 
-Later, Bella’s images became her cues: a gym trainer pounding push-ups, a dazzling socialite raising her glass, and finally—hesitantly—Bella on the bed in the white shirt.
+The banker-cat routine left her breathless, half-laughing at her own absurdity. She collapsed onto the bed, chest rising and falling, and for a moment the room was quiet again. Her eyes drifted back to the phone on the desk, the glow of Bella’s profile still open.
 
-Lucy scrolled back to the photo—the one she couldn’t forget. Bella sprawled across a bed in an oversized white shirt, collar slipping from her shoulder, hair untamed, gaze direct, as if daring the camera to flinch.
+Almost without deciding, she stood and tried to copy her next. First the gym trainer—Lucy dropped to the floor, imitating push-ups, barking half-hearted encouragements. Then the socialite, chin lifted, glass raised to an invisible crowd.
+
+But when she reached Bella herself, sprawled on the bed in that oversized white shirt, Lucy faltered. She tugged at her own collar, loosened her hair, but the mirror gave her nothing. Bella’s expressions were not poses; they carried a weight Lucy couldn’t place—half-daring, half-mocking, as if she belonged to a world beyond reach.
+
+Lucy frowned, shifting angles, trying to catch it, but the harder she tried, the more it slipped away. Bella was not a costume she could wear, not a voice she could simply borrow. She was something else—something elusive, untamed, impossible to pin down.
 
 Lucy stood before her mirror, heart hammering. She tugged at her own shirt, pulling it loose at the collar, exposing more of her collarbone than she ever had. She let her hair down, shook it out, though it fell flat, obedient rather than wild.
 
