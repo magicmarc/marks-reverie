@@ -130,9 +130,9 @@ She dreamed she was running along a Nordic lake, water shimmering in the dusk. O
 
 She tried to stop him, her small hands gripping his, but his strength was steady, unyielding.  
 
-“Don’t cry,” he whispered. “I’ll buy you ice cream. As much as you want. My job is to keep you and Mama happy.”  
+“Don’t cry,” he whispered. “I’ll buy you ice cream. As much as you want. My job is to keep you and Mama both happy.”  
 
-Lucy’s sobs echoed against the wall, as the carved leaf disappeared beneath his cloth.  
+Lucy’s sobs echoed against the wall, as the carved leaf disappeared.  
 
 ---
 
