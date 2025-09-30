@@ -33,7 +33,7 @@ From that picutre, somehow Lucy heard Bella’s voice, sharp and hoarse with lau
 
 Another photo showed Bella in a cocktail dress, glittering sequins catching every shard of light. She tilted her head back, laughing with a champagne flute in her hand, surrounded by men and women who looked at her. 
 
-"Who the hell are you, Bella?" Lucy couldn't help.
+"Who the hell are you, Bella?" Lucy couldn't help asking.
 
 There were camping pictures too—Bella sprawled by the fire in ripped jeans, hair tangled, eyes glittering with mischief as if she had just dared someone to jump into the lake at midnight.
 
