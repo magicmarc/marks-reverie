@@ -140,4 +140,6 @@ Lucy’s sobs echoed against the wall, as the carved leaf disappeared.
 
 She woke with her pillow damp, her chest tight. Outside, the house was quiet, the same house she had grown up in. She wiped her eyes and told herself she would be sensible. She would be—what everyone already believed her to be.  
 
-She would be a good daughter.  
+She would be a good daughter.
+
+Lucy was well-rested during this break, and ready for school again.
