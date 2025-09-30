@@ -9,9 +9,9 @@ slug: "act-iii"
 
 The morning after her last class with Catherine, Lucy woke refreshed. She had finished the semester with strong grades, earned nods of approval from her professors, and—against all odds—made friends in the improv club.
 
-## Joseph’s Profile
-
 On the train home for summer, Lucy leaned against the window, phone in hand, thumbing through Instagram. The first profile she tapped was Joseph’s.
+
+## Joseph’s Profile
 
 The feed startled her.
 
