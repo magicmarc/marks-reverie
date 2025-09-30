@@ -94,7 +94,7 @@ Lucy (shakes her head, flustered): Actresses? No, no, I never thought of that. I
 
 Mother (to Father, dismissing Lucy): Speak to her.
 
-Father (leans forward, soothing tone, almost paternal): Your mother may be right. Perhaps performance isn’t your path. You’ve always been such a good daughter—obedient, diligent, patient. Perfect for accounting, where steadiness is needed. Performance requires boldness, extroversion. Perhaps you’re not built for it.
+Father (leans forward, soothing tone, almost paternal): Your mother may be right. Perhaps performance isn’t your path. You’ve always been such a good daughter—diligent, patient. Perfect for accounting, where steadiness is needed. Performance requires boldness, extroversion. Perhaps you’re not built for it.
 
 Lucy (voice cracks, but firm): But I can learn!
 
