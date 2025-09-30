@@ -139,18 +139,17 @@ That night, Lucy buried her face in her pillow, tears seeping hot and silent. If
 
 Sleep took her.  
 
-She dreamed she was running along a Nordic lake, water shimmering in the dusk. On the shore lay a glinting stone. She picked it up, carved a leaf into the wall of her house. Her father appeared, not angry but careful, wiping the mark away.  
+She dreamed she was running along a Nordic lake, water shimmering in the dusk. On the shore lay a glinting stone, smooth and cool in her palm, as though it had been waiting only for her. She carried it home, holding it close to her chest like a secret.
 
-“Papa, don’t,” she cried. “It’s beautiful.”  
+Back at the house, she pressed the stone against the wall, and wherever it touched, light spread like ink in water. She carved a leaf—delicate veins, curling stem—something alive, something that breathed. The stone seemed made for this, as though its only purpose was to draw out beauty where there had been only blankness.
 
-“Lucy, love,” he said gently, “if the wall is dirty, Mama will be upset.”  
+Her father appeared then, not angry but deliberate, a cloth in his hand. Without a word he began to wipe the wall, careful, methodical, erasing each stroke of light.
 
-She tried to stop him, her small hands gripping his, but his strength was steady, unyielding.  
+“Papa, don’t,” Lucy pleaded. “The stone is meant for this. It makes things beautiful.”
 
-“Don’t cry,” he whispered. “I’ll buy you ice cream. As much as you want. My job is to keep you and Mama both happy.”  
+But his hand did not pause. The leaf dissolved into nothing, leaving only the bare wall again, pale and cold.
 
-Lucy’s sobs echoed against the wall, as the carved leaf disappeared.  
-
+Lucy clutched the stone tighter, the glow leaking between her fingers, certain—achingly certain—that it was meant to create, even if no one else believed it.
 ---
 
 ## Curtain  
