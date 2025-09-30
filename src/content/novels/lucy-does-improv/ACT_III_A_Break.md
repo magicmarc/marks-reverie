@@ -67,7 +67,7 @@ First came the gym trainer. Lucy dropped to the floor, palms pressed flat, her b
 
 Then she tried the socialite. She straightened her spine, tilted her chin, raised an imaginary glass to the air. She even added a laugh, quick and sharp, as if surrounded by admirers. But it came out brittle, more like a cough. In the picture Bella had seemed dazzling, yes, but also amused, like she was laughing at the room as much as with it. Lucy tried to find that balance and failed—the mirror only showed a girl posturing, unsure whether to play queen or impostor.
 
-Already her chest tightened. She was confused, unsettled. Bella’s expressions weren’t clear signals; they were layered, unreadable, as if every smile hid a dare, every gesture carried a secret joke. Lucy realised she couldn’t pin Bella down.
+Bella’s expressions weren’t clear signals; they were layered, unreadable, as if every smile hid a dare, every gesture carried a secret joke. Lucy realised she couldn’t pin Bella down.
 
 Lucy scrolled back to the photo—the one she couldn’t forget. Bella sprawled across a bed in an oversized white shirt, collar slipping from her shoulder, hair untamed, gaze direct, as if daring the camera to flinch.
 
