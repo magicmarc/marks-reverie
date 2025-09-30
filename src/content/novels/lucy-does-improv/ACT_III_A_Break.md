@@ -149,7 +149,7 @@ Her father appeared then, not angry but deliberate, a cloth in his hand. Without
 
 But his hand did not pause. The leaf dissolved into nothing, leaving only the bare wall again, pale and cold.
 
-Lucy clutched the stone tighter, the glow leaking between her fingers, certain—achingly certain—that it was meant to create, even if no one else believed it.
+Lucy clutched the stone tighter, the glow leaking between her fingers, certain, *achingly certain*, that it was meant to create, even if no one else believed it.
 ---
 
 ## Curtain  
