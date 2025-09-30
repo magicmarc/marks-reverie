@@ -70,7 +70,6 @@ She tried to drape herself on the bed the way Bella had, stretching one arm abov
 Then she tried again. She lowered her eyes, parted her lips slightly, tracing the outline of Bella’s expression. The image in the mirror stared back at her—not Bella, not quite Lucy either, but someone in between. Someone braver, someone she might have been if shame were not stitched into her skin.
 
 Her cheeks burned hot, but she couldn’t look away. For the first time, she felt the strange intoxication of performing not for others, but for herself.
----
 
 ## A Family-Friendly Conversation
 
