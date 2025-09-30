@@ -11,7 +11,6 @@ The morning after her last class with Catherine, Lucy woke refreshed. She had fi
 
 ## Joseph’s Profile
 
-
 On the train home for summer, Lucy leaned against the window, phone in hand, thumbing through Instagram. The first profile she tapped was Joseph’s.
 
 The feed startled her.
