@@ -29,7 +29,7 @@ Then Bella’s page. Lucy’s breath caught.
 
 Post after post unfolded like a world Lucy had never dared imagine. One photo showed Bella in a gym - leggings, a tank top, her hair damp with sweat as she gripped the handlebars of a spin bike. The background was cluttered with mirrors and neon lights, other students pedaling in blurred focus.
 
-From that picutre, somehow Lucy heard Bella’s voice, sharp and hoarse with laughter, barking orders over pounding music: “Faster! Louder! Feel your heart burn!” In Lucy's imagination, sweat flew from Bella’s brow like sparks, her energy so bright that it intoxicated the room. 
+From that picutre, somehow Lucy heard Bella’s voice, sharp and hoarse with laughter, barking orders over pounding music: “Faster! Louder! Feel your heart burn!” In Lucy's imagination, sweat flew from Bella’s brow like sparks, her energy so bright that it lit up the whole room. 
 
 Another photo showed Bella in a cocktail dress, glittering sequins catching every shard of light. She tilted her head back, laughing with a champagne flute in her hand, surrounded by men and women who looked at her. 
 
