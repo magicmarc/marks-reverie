@@ -53,7 +53,11 @@ Then the image slipped. Her voice softened into a mocking purr, her shoulders hu
 
 The banker-cat routine left her breathless, half-laughing at her own absurdity. She collapsed onto the bed, chest rising and falling, and for a moment the room was quiet again. Her eyes drifted back to the phone on the desk, the glow of Bella’s profile still open.
 
-Almost without deciding, she stood and tried to copy Bella next. First the gym trainer—Lucy dropped to the floor, imitating push-ups, barking half-hearted encouragements. Then the socialite, chin lifted, glass raised to an invisible crowd.
+First came the gym trainer. Lucy dropped to the floor, palms pressed flat, her body lowering in shaky push-ups. She forced herself to bark commands into the empty room—“Ten more! Don’t quit now!”—but the sound felt hollow, her voice too soft, more pleading than commanding. She paused mid-push-up, confused. The photo had shown Bella sweating, determined, but Lucy couldn’t tell if Bella’s grin there had been serious or mocking, joy or defiance.
+
+Then she tried the socialite. She straightened her spine, tilted her chin, raised an imaginary glass to the air. She even added a laugh, quick and sharp, as if surrounded by admirers. But it came out brittle, more like a cough. In the picture Bella had seemed dazzling, yes, but also amused, like she was laughing at the room as much as with it. Lucy tried to find that balance and failed—the mirror only showed a girl posturing, unsure whether to play queen or impostor.
+
+Already her chest tightened. She was confused, unsettled. Bella’s expressions weren’t clear signals; they were layered, unreadable, as if every smile hid a dare, every gesture carried a secret joke. Lucy realised she couldn’t pin Bella down.
 
 Lucy scrolled back to the photo—the one she couldn’t forget. Bella sprawled across a bed in an oversized white shirt, collar slipping from her shoulder, hair untamed, gaze direct, as if daring the camera to flinch.
 
