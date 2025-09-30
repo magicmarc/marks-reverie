@@ -27,25 +27,29 @@ Lucy paused, unsettled. For the first time she saw him not only as the exuberant
 
 Then Bella’s page. Lucy’s breath caught.
 
-Post after post unfolded like a world Lucy had never dared imagine. One photo showed Bella in a gym—nothing extraordinary, just leggings, a tank top, her hair damp with sweat as she gripped the handlebars of a spin bike. The background was cluttered with mirrors and neon lights, other students pedaling in blurred focus.
+Post after post unfolded like a world Lucy had never dared imagine. One photo showed Bella in a gym - leggings, a tank top, her hair damp with sweat as she gripped the handlebars of a spin bike. The background was cluttered with mirrors and neon lights, other students pedaling in blurred focus.
 
-And yet Lucy’s mind refused to leave it at that. She could almost hear Bella’s voice, sharp and hoarse with laughter, barking orders over pounding music: “Faster! Louder! Feel your heart burn!” In her imagination, sweat flew from Bella’s brow like sparks, her energy so wild it intoxicated the room. The classmates in the photo—ordinary, anonymous—morphed into an audience, half-exhausted, half-drunk on her fire.
+From that picutre, somehow Lucy heard Bella’s voice, sharp and hoarse with laughter, barking orders over pounding music: “Faster! Louder! Feel your heart burn!” In her imagination, sweat flew from Bella’s brow like sparks, her energy so wild it intoxicated the room. 
 
-What the picture showed was a girl at the gym. What Lucy saw was someone unafraid to take up space, someone alive in a way she herself had never managed to be.
+Another photo showed Bella in a cocktail dress, glittering sequins catching every shard of light. She tilted her head back, laughing with a champagne flute in her hand, surrounded by men and women who looked at her. 
 
-Another photo showed Bella in a cocktail dress, glittering sequins catching every shard of light. She tilted her head back, laughing with a champagne flute in her hand, surrounded by men and women who looked at her as though she were the only person alive. There was nothing demure about her smile—it was sharp, daring, as if she knew exactly how much power she carried in her body and didn’t care who noticed.
+"Who are you, Bella." Lucy couldn't help but asking.
 
-Further down, an image of Bella caught mid-leap in a ballet studio: her back arched, her skirt flying, one hand reaching for something just out of frame. It wasn’t graceful in the polished, competition sense—it was feral, raw, almost dangerous. The caption read only: “Falling is part of it.”
-
-There were camping pictures too—Bella sprawled by the fire in ripped jeans, hair tangled, a bottle of beer in hand, eyes glittering with mischief as if she had just dared someone to jump into the lake at midnight.
+There were camping pictures too—Bella sprawled by the fire in ripped jeans, hair tangled, eyes glittering with mischief as if she had just dared someone to jump into the lake at midnight.
 
 And then—the one Lucy could not forget. Bella on a bed, sprawled in an oversized white shirt, collar slipping loose, hair wild across her shoulders. No caption, no explanation, just the directness of the image itself. It was not coy. It was not posed. It radiated a kind of unstudied defiance, as though Bella were saying: Here I am. Look if you dare.
 
-Lucy stared at the screen, dazed. Her own photos—carefully framed, polite smiles, neat clothes—suddenly seemed like something from another species. She hugged her books tighter to her chest, even as the images clung to her like perfume, intoxicating and inescapable.
+Lucy stared at the screen, dazed. Her own photos—carefully framed, polite smiles, neat clothes—suddenly seemed like something from another universe. Bella's images clung to her like perfume, intoxicating and inescapable.
 
-That evening, with her parents cooking in the kitchen, Lucy retreated to her room. She connected her phone to the speaker, let jaunty jazz fill the air, and tried—awkwardly, timidly at first—to step into Bella’s world.
+## Bedroom Improv
 
-For the first time, she dared to improvise alone. She imagined herself a hard-nosed investment banker, issuing orders to invisible subordinates. Then a stray cat, mewling with dramatic flair. Then Bella’s images became her cues: a gym trainer pounding push-ups, a dazzling socialite raising her glass, and finally—hesitantly—Bella on the bed in the white shirt.
+That evening, with her parents cooking in the kitchen, Lucy retreated to her room. She connected her phone to the speaker, let jaunty jazz fill the air, and tried—awkwardly, timidly at first—to step into Joseph, and *Bella’s* world.
+
+For the first time, she dared to improvise alone. 
+
+She imagined herself as Joseph after graduation,a hard-nosed investment banker, issuing orders to invisible subordinates. Then a stray cat, mewling with dramatic flair. 
+
+Later, Bella’s images became her cues: a gym trainer pounding push-ups, a dazzling socialite raising her glass, and finally—hesitantly—Bella on the bed in the white shirt.
 
 Lucy scrolled back to the photo—the one she couldn’t forget. Bella sprawled across a bed in an oversized white shirt, collar slipping from her shoulder, hair untamed, gaze direct, as if daring the camera to flinch.
 
