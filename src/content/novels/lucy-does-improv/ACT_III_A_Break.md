@@ -57,9 +57,11 @@ Then the image slipped. As she paced, her eyes caught the memory of another phot
 
 Her voice softened into a mocking purr, her shoulders hunched, and suddenly she was the cat instead, prowling along the edge of her desk, mewling with theatrical exaggeration. She arched her back, swiped at invisible shadows, let her movements grow sly and erratic. The stern banker had vanished, replaced by a creature of instinct and whimsy, lifted straight from Joseph’s world and made her own.
 
-The banker-cat routine left her breathless, half-laughing at her own absurdity. She collapsed onto the bed, chest rising and falling, and for a moment the room was quiet again. Her eyes drifted back to the phone on the desk, the glow of Bella’s profile still open.
+The banker-cat routine left her breathless, half-laughing at her own absurdity. She collapsed onto the bed, chest rising and falling, and for a moment the room was quiet again. 
 
-Almost without deciding, she stood and tried to copy Bella next.
+Her breath still quick from the stray cat’s antics, Lucy straightened and laughed under her breath. Joseph’s world—banker, commuter, even his scrappy street cat—she could piece together, picture by picture. He was, in the end, graspable.
+
+But then her gaze slid back to the phone on the desk, the glow of Bella’s profile still waiting. Without quite deciding, almost against her will, she rose again. This time she would try Bella.
 
 First came the gym trainer. Lucy dropped to the floor, palms pressed flat, her body lowering in shaky push-ups. She forced herself to bark commands into the empty room—“Ten more! Don’t quit now!”—but the sound felt hollow, her voice too soft, more pleading than commanding. She paused mid-push-up, confused. The photo had shown Bella sweating, determined, but Lucy couldn’t tell if Bella’s grin there had been serious or mocking, joy or defiance.
 
