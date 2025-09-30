@@ -33,6 +33,15 @@ That evening, with her parents cooking in the kitchen, Lucy retreated to her roo
 
 For the first time, she dared to improvise alone. She imagined herself a hard-nosed investment banker, issuing orders to invisible subordinates. Then a stray cat, mewling with dramatic flair. Then Bella’s images became her cues: a gym trainer pounding push-ups, a dazzling socialite raising her glass, and finally—hesitantly—Bella on the bed in the white shirt.
 
+Lucy scrolled back to the photo—the one she couldn’t forget. Bella sprawled across a bed in an oversized white shirt, collar slipping from her shoulder, hair untamed, gaze direct, as if daring the camera to flinch.
+
+Lucy stood before her mirror, heart hammering. She tugged at her own shirt, pulling it loose at the collar, exposing more of her collarbone than she ever had. She let her hair down, shook it out, though it fell flat, obedient rather than wild.
+
+She tried to drape herself on the bed the way Bella had, stretching one arm above her head, tilting her chin toward an imaginary lens. At once she felt ridiculous. Her back stiffened, her legs at odd angles, her expression caught between pout and grimace. She let out a strangled laugh, half-mortified, half-thrilled.
+
+Then she tried again. She lowered her eyes, parted her lips slightly, tracing the outline of Bella’s expression. The image in the mirror stared back at her—not Bella, not quite Lucy either, but someone in between. Someone braver, someone she might have been if shame were not stitched into her skin.
+
+Her cheeks burned hot, but she couldn’t look away. For the first time, she felt the strange intoxication of performing not for others, but for herself.
 ---
 
 ## A Family-Friendly Conversation
