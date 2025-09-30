@@ -113,7 +113,7 @@ Mother (to Father, dismissing Lucy): Speak to her.
 
 Father (leans forward, soothing tone, almost paternal): Your mother may be right. Perhaps performance isn’t your path. You’ve always been such a good daughter—diligent, patient. Perfect for accounting, where steadiness is needed. Performance requires boldness, extroversion. Perhaps you’re not built for it.
 
-Lucy (voice cracks, but firm): But I can learn! I want to do something different! Don't we call that one's development in personality?
+Lucy (voice cracks, but firm): But I can learn! I just want to try something different— isn’t that how people grow?
 
 Father (soft smile, cruel in its certainty): Maybe there's something we were born with. Look at little Amy next door—so outgoing. She can mimic Lady Gaga, Madonna—flawless. Can you?
 
