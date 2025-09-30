@@ -1,6 +1,6 @@
 ---
 title: "Act III: A Break from School" 
-excerpt: "At home, Lucy’s fragile discovery of self collides with her family, leaving her caught again between yearning and shame." 
+excerpt: "At home, Lucy caught again between yearning and shame." 
 publishedAt: "2025-09-30" 
 readTime: 10
 tags: ["novel", "fiction", "lucy-does-improv"] 
