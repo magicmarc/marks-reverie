@@ -53,7 +53,9 @@ For a moment she simply breathed, recalling Catherine’s voice—“Exhale. Inh
 
 She began with Joseph. Not the Joseph of the club, but the Joseph she had just discovered online—years older, dressed in his stiff suit, the Bachelor of Finance. Lucy squared her shoulders, straightened her spine, and paced her small room as if it were a glass-walled office. She jabbed a finger at invisible subordinates, voice clipped and commanding: “Buy. Sell. Faster—don’t waste my time.” For a moment, she almost believed herself powerful, her little room transformed into a high-rise boardroom.
 
-Then the image slipped. Her voice softened into a mocking purr, her shoulders hunched, and suddenly she was a stray cat instead, prowling the edge of the desk, mewling with theatrical exaggeration. The banker had vanished, replaced by a creature of instinct and whimsy.
+Then the image slipped. As she paced, her eyes caught the memory of another photo from Joseph’s feed—a stray cat crouched beneath a motorbike, its eyes sharp in the dusk. The thought intruded, derailed her banker’s authority.
+
+Her voice softened into a mocking purr, her shoulders hunched, and suddenly she was the cat instead, prowling along the edge of her desk, mewling with theatrical exaggeration. She arched her back, swiped at invisible shadows, let her movements grow sly and erratic. The stern banker had vanished, replaced by a creature of instinct and whimsy, lifted straight from Joseph’s world and made her own.
 
 The banker-cat routine left her breathless, half-laughing at her own absurdity. She collapsed onto the bed, chest rising and falling, and for a moment the room was quiet again. Her eyes drifted back to the phone on the desk, the glow of Bella’s profile still open.
 
