@@ -47,7 +47,7 @@ That evening, while her parents cooking in the kitchen, Lucy was in her room. Sh
 
 For the first time, she dared to improvise alone. 
 
-She began with Joseph. Not the Joseph of the club, but the Joseph she had just discovered online—years older, dressed in his stiff suit, the Bachelor of Finance. Lucy squared her shoulders, straightened her spine, and paced her small room as if it were a glass-walled office. She jabbed a finger at invisible subordinates, voice clipped and commanding: “Buy. Sell. Faster—don’t waste my time.” For a moment, she almost believed herself powerful, her little dorm room transformed into a high-rise boardroom.
+She began with Joseph. Not the Joseph of the club, but the Joseph she had just discovered online—years older, dressed in his stiff suit, the Bachelor of Finance. Lucy squared her shoulders, straightened her spine, and paced her small room as if it were a glass-walled office. She jabbed a finger at invisible subordinates, voice clipped and commanding: “Buy. Sell. Faster—don’t waste my time.” For a moment, she almost believed herself powerful, her little room transformed into a high-rise boardroom.
 
 Then the image slipped. Her voice softened into a mocking purr, her shoulders hunched, and suddenly she was a stray cat instead, prowling the edge of the desk, mewling with theatrical exaggeration. The banker had vanished, replaced by a creature of instinct and whimsy.
 
