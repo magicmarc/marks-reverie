@@ -71,7 +71,7 @@ Bella’s expressions weren’t clear signals; they were layered, unreadable, as
 
 Lucy scrolled back to the photo—the one she couldn’t forget. Bella sprawled across a bed in an oversized white shirt, collar slipping from her shoulder, hair untamed, gaze direct, as if daring the camera to flinch.
 
-Lucy stood before her mirror, heart hammering. She tugged at her own shirt, pulling it loose at the collar, exposing more of her collarbone than she ever had. She let her hair down, shook it out, though it fell flat, obedient rather than wild.
+Lucy stood before her mirror, heart hammering. She tugged at her own shirt, pulling it loose at the collar, exposing more of her collarbone than she ever had. She let her hair down, shook it out.
 
 She tried to drape herself on the bed the way Bella had, stretching one arm above her head, tilting her chin toward an imaginary lens. At once she felt ridiculous. Her back stiffened, her legs at odd angles, her expression caught between pout and grimace. She let out a strangled laugh, half-mortified, half-thrilled.
 
