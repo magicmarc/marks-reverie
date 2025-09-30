@@ -53,7 +53,7 @@ Then the image slipped. Her voice softened into a mocking purr, her shoulders hu
 
 The banker-cat routine left her breathless, half-laughing at her own absurdity. She collapsed onto the bed, chest rising and falling, and for a moment the room was quiet again. Her eyes drifted back to the phone on the desk, the glow of Bella’s profile still open.
 
-Almost without deciding, she stood and tried to copy her next. First the gym trainer—Lucy dropped to the floor, imitating push-ups, barking half-hearted encouragements. Then the socialite, chin lifted, glass raised to an invisible crowd.
+Almost without deciding, she stood and tried to copy Bella next. First the gym trainer—Lucy dropped to the floor, imitating push-ups, barking half-hearted encouragements. Then the socialite, chin lifted, glass raised to an invisible crowd.
 
 But when she reached Bella herself, sprawled on the bed in that oversized white shirt, Lucy faltered. She tugged at her own collar, loosened her hair, but the mirror gave her nothing. Bella’s expressions were not poses; they carried a weight Lucy couldn’t place—half-daring, half-mocking, as if she belonged to a world beyond reach.
 
