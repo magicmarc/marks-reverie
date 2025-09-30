@@ -33,7 +33,6 @@ That evening, with her parents cooking in the kitchen, Lucy retreated to her roo
 
 For the first time, she dared to improvise alone. She imagined herself a hard-nosed investment banker, issuing orders to invisible subordinates. Then a stray cat, mewling with dramatic flair. Then Bella’s images became her cues: a gym trainer pounding push-ups, a dazzling socialite raising her glass, and finally—hesitantly—Bella on the bed in the white shirt.
 
-Lucy tried to inhabit the scene, to channel its mystery and seduction. But she could not shake the sense that she was playing with fire, tasting a life too wild for her to hold. And yet she laughed, flushed, unable to stop—because for those moments, it felt like the only time she was most like herself.
 ---
 
 ## A Family-Friendly Conversation
