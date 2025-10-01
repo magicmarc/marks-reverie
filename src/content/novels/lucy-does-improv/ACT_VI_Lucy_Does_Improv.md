@@ -47,7 +47,7 @@ His page was the opposite—alive with videos. He was now a content creator, bro
 
 The likes and comments piled. Joseph looked younger than ever, yet sharper, polished into a brand.
 
-Lucy scrolled, unsettled. This Joseph no longer felt like someone she could sit beside in a circle, trading lines in the silly comfort of improv. The easy boyishness she had once seen in him was gone—or perhaps it had never been real. Maybe Joseph had always been this: confident, commercial, moving forward without looking back.
+Lucy scrolled, unsettled. This Joseph no longer felt like someone she could sit beside in a circle, trading lines in the silly comfort of improv. The easy boyishness she had once seen in him was gone—or perhaps it had never been real. Maybe Joseph had always been this: mature, confident, moving forward without looking back.
 
 Nestled among the glossy reels, though, the old photos remained: the stray cat, the city streets, the suit and tie, and finally, the group photo of the Improv Club.
 
