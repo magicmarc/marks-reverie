@@ -13,7 +13,7 @@ Her diary from those years was thin. At school she had recorded every little epi
 
 ---
 
-## The Argument  
+## Park 
 
 One night, she and Park worked late on a financial report for a client. Stacks of papers, the glow of monitors, the city already asleep outside.  
 
@@ -36,7 +36,7 @@ Lucy stayed. She knelt to gather the scattered pages, smoothing each one with tr
 
 ---
 
-## The Boss  
+## Veronica  
 
 Later that morning, Lucy caught a glimpse through the glass wall: Veronica, their boss, face flushed as she shouted into the phone. Then—bang—the receiver slammed down.  
 
@@ -62,7 +62,7 @@ The desk shook under Veronica’s palm as she slammed it. Lucy flinched. Only th
 
 ---
 
-## The Dinner  
+## Making Peace 
 
 That evening, Veronica invited them to dinner. Her face was serene now, almost kind, as if the storm in her office had never happened.  
 
@@ -88,7 +88,7 @@ The three dined as though nothing had happened. Yet Lucy’s heart was a storm o
 
 ---
 
-## The Relapse  
+## Makudonarudo  
 
 That night, alone in her rented room, Lucy pulled out the report she had sent the client. She traced each line, each number, as though red ink might appear on its own. None did. Her hand shook.  
 
