@@ -23,19 +23,22 @@ She turned her face into the pillow and whispered, almost daring herself: *I wan
 
 ## Bella’s Profile  
 
-She reopened Bella’s Instagram, the account she had once muted. The girl she had once wanted to become.  
+She reopened Bella’s Instagram, the account she had once muted. The girl she had once wanted to become.
 
-But what she saw chilled her.  
+But the Bella she remembered had been wiped away.
 
-No gym selfies, no cocktail dresses. Even the sexy white-shirt photo was gone. In its place was a woman, who cradled two children—one already in kindergarten, the other still an infant—her smile gentle but worn, as though stretched thin by sleepless nights. 
+No gym selfies. No cocktail dresses. The white-shirt photo—gone without a trace. In their place stretched a suffocating feed of family moments: children smeared with cake, Bella in sweatpants with hollow eyes, a man’s arm draped around her shoulder in photo after photo.
 
-Lucy scrolled in a frenzy, searching for the Bella she remembered. Instead, she found a wedding portrait: Bella beside a man, plain-faced, almost homely. Only after staring did Lucy recognise her—the tilt of her smile, softened now, worn with care. The rebellion had faded into a kind of weary tenderness.  
+Lucy scrolled faster, frantic, as though somewhere the old Bella might still be hiding. But every swipe only deepened the horror. It was as if someone had reached into her past and scrubbed it clean, leaving nothing but this weary mother, this stranger.
 
-"Who the hell are you, Bella?" she asked the same question once again.
+She stopped at the wedding portrait. Bella stood beside a man whose face was so plain it felt unreal, like a placeholder left unfinished. And Bella’s smile—gentle, tired, compliant—was almost unrecognisable. The silver fire was gone.
 
-Lucy looked in the mirror and startled herself. She too had aged. Yet the outline of that girl from years ago still lingered.  
+Lucy’s breath grew shallow. For an instant she wondered if she had dreamed it all: the earrings, the rebellion, the wild girl who made her heart race. What if Bella had never been there? What if Lucy had conjured her out of need, out of madness?
 
-Her hand hovered over the message button. But every word felt like an intrusion. She closed the app.  
+“Who the hell are you?” she whispered—but the words trembled, as if spoken not to Bella, but to herself.
+
+Her reflection in the black glass of her phone startled her: older, worn, haunted. She slammed the app shut, heart hammering, terrified not only that Bella was gone—
+but that she might never have existed.
 
 ---
 
