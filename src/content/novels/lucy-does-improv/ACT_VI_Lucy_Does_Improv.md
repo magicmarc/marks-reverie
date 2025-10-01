@@ -123,8 +123,8 @@ Lucy (voice breaking, then steady):
 “My heart is here. It has always been here. Not in numbers, not in silence, not in the roles they wrote for me - 
 but in this moment, in this play -
 
-I am Lucy.
-And I can do improv.”
+I am Boots but I am also Lucy.
+And I do improv with a heart.”
 
 (The children cheer, their voices swelling. Catherine watches from the edge, smiling through her own tears. The lights dim, leaving Lucy in a single spotlight, her chest heaving, her eyes lifted, as though she has finally stepped onto the stage of her own life.) 
 
