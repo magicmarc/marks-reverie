@@ -41,19 +41,21 @@ Her hand hovered over the message button. But every word felt like an intrusion.
 
 ## Joseph’s Profile  
 
-With unease still in her chest, Lucy searched for Joseph.  
+With unease still in her chest, Lucy searched for Joseph.
 
-His page was the opposite—alive with videos. He was now a content creator, broadcasting advice on loans, insurance, investment products. Between pitches, he flashed his muscles, shirtless and grinning. He looked younger than ever, even sharper, his speech quick and playful. Years of improv echoed in his timing—each joke landing neatly, his rhythm effortless.  
+His page was the opposite—alive with videos. He was now a content creator, broadcasting advice on loans, insurance, investment products. Between pitches, he flexed and laughed, flashing muscles, shirtless, grinning wide for the camera. His speech was quick, playful, practiced; years of improv honed his timing so every joke landed, every gesture slid neatly into rhythm.
 
-The likes and comments piled by the thousands.  
+The likes and comments piled by the thousands. He looked younger than ever, yet sharper, polished into a brand.
 
-And yet, nestled among the glossy reels, the old photos remained: the stray cat, the city streets, the suit and tie, and finally, the group photo of the Improv Club.  
+Lucy scrolled, unsettled. This Joseph no longer felt like someone she could sit beside in a circle, trading lines in the silly comfort of improv. The easy boyishness she had once seen in him was gone—or perhaps it had never been real. Maybe Joseph had always been this: confident, commercial, moving forward without looking back.
 
-There was Bella again—her hair streaked with rebellion, earrings catching the light, a face at once highborn and wild.  
+Nestled among the glossy reels, though, the old photos remained: the stray cat, the city streets, the suit and tie, and finally, the group photo of the Improv Club.
 
-Lucy’s breath caught. That Bella was gone. Joseph remained—but she could not bear to contact him.  
+There was Bella again—hair streaked with rebellion, silver earrings catching the light, a face both highborn and wild.
 
-What she wanted was something else. Something she had buried for years: *Catherine’s class.*  
+Lucy’s breath caught. That Bella was gone. Joseph remained—but he was no longer hers to know.
+
+What she wanted was something else. Something she had buried for years: *Catherine’s class*.
 
 ---
 
