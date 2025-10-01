@@ -35,7 +35,7 @@ Evelin smiled, as if she had been waiting.
 
 ---
 
-## The Café  
+## The Meetup
 
 They met at Evelin’s chosen place, a café in the city. Lucy rarely ventured into such “adult” spaces; she usually ate with classmates in the canteen. But Evelin worked part-time at a firm downtown, and so Lucy made the trip.  
 
@@ -63,11 +63,7 @@ A flicker of excitement ignited in Lucy’s chest. For the first time she felt t
 
 “I want to,” she said, breath quickening. “I think about it all the time.”  
 
-“Then give me your CV,” Evelin said smoothly. “I’ll push it through.”  
-
----
-
-## The Résumé  
+“Then give me your CV,” Evelin said smoothly. “I’ll push it through.”    
 
 Lucy opened her laptop, showing her neat but sparse document. Evelin chuckled, kind but cutting.  
 
@@ -88,7 +84,7 @@ Lucy stared at the message, unsettled. Bella had thrown herself online without s
 Lucy found herself drawn to both, though in ways she couldn’t untangle. Did she want Bella’s fire, or Evelin’s steel? Was freedom louder, or quieter? She couldn’t tell. All she knew was that whichever path she looked toward, the other one whispered back, asking why she hesitated.
 ---
 
-## First Day Adulting  
+## First Day Everything 
 
 Soon after, Lucy received the offer. Her grades had outshone every other applicant.
 
