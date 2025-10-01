@@ -46,19 +46,19 @@ but that she might never have existed.
 
 With unease still in her chest, Lucy searched for Joseph.
 
-His page was the opposite—alive with videos. He was now a content creator, broadcasting advice on loans, insurance, investment products. Between pitches, he flexed and laughed, flashing muscles, grinning wide for the camera. His speech was quick, playful, practiced; years of improv honed his timing so every joke landed, every gesture slid neatly into rhythm.
+His page burst alive with videos. He was now a content creator—pitching loans, insurance, investment schemes—his voice fast and bright, his grin wide as a salesman’s mask. Between pitches, he flexed shirtless, laughter ringing hollow yet perfectly timed. Every word, every pause, every smirk landed with the precision of someone who had long ago turned improv into business.
 
-The likes and comments piled. Joseph looked younger than ever, yet sharper, polished into a brand.
+The likes and comments towered in the thousands. Joseph gleamed, younger than ever, sharper, polished until he seemed less a man than a brand.
 
-Lucy scrolled, unsettled. This Joseph no longer felt like someone she could sit beside in a circle, trading lines in the silly comfort of improv. The easy boyishness she had once seen in him was gone—or perhaps it had never been real. Maybe Joseph had always been this: mature, confident, moving forward without looking back.
+Lucy scrolled deeper, her pulse quickening. Unlike Bella, Joseph hadn’t erased the past. The old photos were still there: the stray cat, the city streets, the “Bachelor of Finance” suit and tie, the group shot of the Improv Club. They sat beside his new reels without apology, as if they had always been part of the same story.
 
-Nestled among the glossy reels, though, the old photos remained: the stray cat, the city streets, the suit and tie "Bachelor of Finance", and finally, the group photo of the Improv Club.
+Her breath caught. She remembered the circle, the laughter, the boyish warmth she once thought she saw in him. But looking now, the warmth felt staged, his grin already edged with calculation. Had Joseph ever been that boy? Or had she simply projected it, desperate to believe she wasn’t alone?
 
-There was Bella again—hair streaked with rebellion, silver earrings catching the light, a face both highborn and wild.
+In the group photo, Bella still shone, hair streaked with rebellion, silver earrings glinting like tiny sparks. But Joseph’s arm around her shoulder looked different now—firm, possessive, already certain of the man he would become.
 
-Lucy’s breath caught. That Bella was gone. Joseph remained—but he was no longer hers to know.
+Lucy’s stomach turned. Bella had vanished into domesticity, but Joseph remained—intact, whole, unashamed. Perhaps he had never changed at all. Perhaps she had simply failed to see him for what he was.
 
-What she wanted was something else. Something she had buried for years: *Catherine’s class*.
+Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. What she longed for was something else, something she had buried for years: *Catherine*.
 
 ---
 
