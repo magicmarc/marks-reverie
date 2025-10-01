@@ -45,7 +45,7 @@ The café was hushed, lined with professionals in suits, their voices low, their
 
 “No, not at all,” Lucy stammered.  
 
-Evelin’s presence seemed to reshape the room. She was one of *them*—the polished, sophisticated figures who belonged here.  
+Evelin’s presence seemed to reshape the room. She was no longer the unassuming girl from lecture but one of *them*—the polished, sophisticated figures who belonged here.  
 
 “I knew we’d be friends,” Evelin said, eyes warm but steady. “You’re the best student in class.”  
 
