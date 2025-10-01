@@ -113,7 +113,7 @@ Lucy saw Catherine at the edge of her vision, rising, as if to stop the scene—
 
 A boy in a fox costume, meant to play Swiper, piped up. But instead of slyness he said earnestly, “Don’t worry, Boots. Dora is a doctor. She’ll heal you.”  
 
-Lucy could no longer hold back. She pulled Dora and Swiper into her arms, sobbing, laughing. “My heart is here. This is Boots’s heart.”  
+Lucy could no longer hold back. She pulled Dora and Swiper into her arms, sobbing, laughing.
 
 The other children rushed in, a tide of warmth, wrapping their arms around her.  
 
