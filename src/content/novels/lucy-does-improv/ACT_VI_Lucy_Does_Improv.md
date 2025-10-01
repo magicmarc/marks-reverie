@@ -109,7 +109,7 @@ Lucy’s breath broke. Tears welled. She seized the child’s hand, dragging the
 
 The girl blinked, startled but kind. “Yes. I can hear it.”  
 
-“Is Boots’s heart here?” she asked the others.  
+“Is Boots’s heart here?” the girl asked the others in her shaking voice.  
 
 “Yes!” the little animals shouted. “That’s Boots’s heart!”  
 
