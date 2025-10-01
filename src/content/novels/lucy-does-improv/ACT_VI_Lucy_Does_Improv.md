@@ -75,7 +75,7 @@ Lucy was stunned—her teacher remembered.
 
 At the break, she approached. “Do you still teach improv? It seems this class is for children now.”  
 
-“Not many adults come anymore,” Catherine said gently. “The economy is harsh, companies demand more. Grown-ups don’t have time. But for immigrant children, drama helps them learn English. That’s what I teach nowadays.”  
+“Not many adults come anymore,” Catherine said gently. “The economy is harsh, companies demand more. Grown-ups don’t have time. But for immigrant children, drama helps them learn English. This is what I teach nowadays.”  
 
 A shadow crossed Lucy’s face.  
 
