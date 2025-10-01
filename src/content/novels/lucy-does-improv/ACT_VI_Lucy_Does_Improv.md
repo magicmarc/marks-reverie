@@ -29,7 +29,7 @@ She reopened Bella’s Instagram, the account she had once muted. The girl she h
 
 But what she saw chilled her.  
 
-No gym selfies, no cocktail dresses. Even the white-shirt photo was gone. In its place: a heavier woman, slightly older, cradling two children—one in kindergarten, one still an infant.  
+No gym selfies, no cocktail dresses. Even the sexy white-shirt photo was gone. In its place was a woman with a fuller body. She cradled two children—one already in kindergarten, the other still an infant—her smile gentle but worn, as though stretched thin by sleepless nights. 
 
 Lucy scrolled in a frenzy, searching for the Bella she remembered. Instead, she found a wedding portrait: Bella beside an unremarkable man, plain-faced, almost homely. Only after staring did Lucy recognise her—the tilt of her smile, softened now, worn with care. The rebellion had faded into a kind of weary tenderness.  
 
