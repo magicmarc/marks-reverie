@@ -58,7 +58,7 @@ In the group photo, Bella still shone, hair streaked with rebellion, silver earr
 
 Lucy’s stomach turned. Bella had vanished into domesticity, but Joseph remained—intact, whole, unashamed. Perhaps he had never changed at all. Perhaps she had simply failed to see him for what he was.
 
-Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. What she longed for was something else, something she had buried for years: *Catherine*.
+Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. What she longed for was something else, something she had buried for years: *Catherine's class*.
 
 ---
 
