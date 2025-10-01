@@ -100,19 +100,19 @@ To distract herself, she opened YouTube. A playlist shuffled, and then—unexpec
 
 She froze. It was Namewee’s parody she had once laughed at in passing. But now the words struck like cues.
 
-**Makudonarudo!**
+**Makudonarudo!** —>
 She mimed a greedy bite into an invisible burger.
 
-**Guguru Toiletto!**
+**Guguru Toiletto!** —>
 She stumbled about, searching desperately for a bathroom that didn’t exist.
 
-**Kitto! Katto!**
+**Kitto! Katto!** —>
 She unwrapped an invisible chocolate bar, blushing as if offered by an unseen hand.
 
-**Dizunirando!**
+**Dizunirando!** —>
 She spun in circles, arms flung wide, as though she were riding a carousel in a kingdom of light.
 
-**Kōhī Kēki! Aisukurīmu Konbini!** 
+**Kōhī Kēki! Aisukurīmu Konbini!** —> 
 She became a shop girl, pitching sweets with exaggerated bows and bright-eyed urgency.
 
 And with every gesture, her room began to distort. The wallpaper unfurled into heavy curtains, the desk melted into footlights. The carpet warped beneath her feet until it became dark, gleaming stagewood.
@@ -133,7 +133,7 @@ Lucy’s chest tightened. They said nothing, but their eyes pinned her in place.
 
 At the final shout—
 
-“**Ba-ka-ya-ro-u!**”
+“**Ba-ka-ya-ro-u!**” —>
 
 Lucy screamed it too, the word tearing from her throat.
 “Baka yarō! Stupid Lucy! Fool!”
