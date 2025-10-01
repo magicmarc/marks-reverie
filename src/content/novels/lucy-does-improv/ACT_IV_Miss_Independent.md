@@ -83,7 +83,7 @@ In her diary she wrote: *Evelin is my benefactor. I am so grateful.* Then, sudde
 
 When she asked, Evelin replied: *I don’t use social media. I don’t like exposing my private life.*  
 
-Lucy stared at the message, unsettled. Bella had thrown herself online without shame, wild and unguarded, daring the world to look. Evelin, by contrast, seemed carved from restraint—disciplined, deliberate, hidden. One lived as if rules didn’t exist; the other as if rules were everything.
+Lucy stared at the message, unsettled. Bella had thrown herself online without shame, wild and unguarded, daring the world to look. Evelin, by contrast, lived in a different register. Opportunities, credentials, the glow of competence: all present, yet never flaunted. She was practical, purposeful, moving forward without the need for spectacle.
 
 Lucy found herself drawn to both, though in ways she couldn’t untangle. Did she want Bella’s fire, or Evelin’s steel? Was freedom louder, or quieter? She couldn’t tell. All she knew was that whichever path she looked toward, the other one whispered back, asking why she hesitated.
 ---
