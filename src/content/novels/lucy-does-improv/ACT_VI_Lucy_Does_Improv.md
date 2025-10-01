@@ -31,6 +31,8 @@ No gym selfies, no cocktail dresses. Even the sexy white-shirt photo was gone. I
 
 Lucy scrolled in a frenzy, searching for the Bella she remembered. Instead, she found a wedding portrait: Bella beside a man, plain-faced, almost homely. Only after staring did Lucy recognise her—the tilt of her smile, softened now, worn with care. The rebellion had faded into a kind of weary tenderness.  
 
+"Who the hell are you, Bella?" she asked the same question once again.
+
 Lucy looked in the mirror and startled herself. She too had aged. Yet the outline of that girl from years ago still lingered.  
 
 Her hand hovered over the message button. But every word felt like an intrusion. She closed the app.  
