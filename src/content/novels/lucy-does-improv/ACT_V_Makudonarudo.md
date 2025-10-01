@@ -108,11 +108,11 @@ She froze. It was Namewee’s song, a parody she had once laughed at in passing.
 
 **Dizunirando** —> She rode an imaginary carousel, laughing with a girlish delight she had long buried.  
 
-**Kōhī Kēki. Aisukurīmu Konbini.** —She played a shop girl in a convenience store, eager, breathless, selling coffee, cake, ice cream, every gesture exaggerated, ridiculous, alive.  
+**Kōhī Kēki. Aisukurīmu Konbini.** —>She played a shop girl in a convenience store, eager, breathless, selling coffee, cake, ice cream, every gesture exaggerated, ridiculous, alive.  
 
 The music whipped her into motion. She lost control, every lyric a cue, every beat a command. She was no longer in her room but back in the rehearsal space, back in the freedom she had denied herself.  
 
-At the final shout -   
+At the final shout —>   
 
 **“Ba-ka-ya-ro-u!”**  
 
