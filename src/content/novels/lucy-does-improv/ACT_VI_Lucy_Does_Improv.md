@@ -43,7 +43,7 @@ Her hand hovered over the message button. But every word felt like an intrusion.
 
 With unease still in her chest, Lucy searched for Joseph.
 
-His page was the opposite—alive with videos. He was now a content creator, broadcasting advice on loans, insurance, investment products. Between pitches, he flexed and laughed, flashing muscles, shirtless, grinning wide for the camera. His speech was quick, playful, practiced; years of improv honed his timing so every joke landed, every gesture slid neatly into rhythm.
+His page was the opposite—alive with videos. He was now a content creator, broadcasting advice on loans, insurance, investment products. Between pitches, he flexed and laughed, flashing muscles, grinning wide for the camera. His speech was quick, playful, practiced; years of improv honed his timing so every joke landed, every gesture slid neatly into rhythm.
 
 The likes and comments piled by the thousands. He looked younger than ever, yet sharper, polished into a brand.
 
