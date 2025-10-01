@@ -122,10 +122,10 @@ Lucy could no longer hold back. She pulled Dora and Swiper into her arms, sobbin
 Children crowd around her, arms wrapping her like a tide. Lucy, tears streaking her face, clutches the stethoscope against her chest. She looks down at the girl playing Dora, then—slowly—she raises her head, her voice trembling but gathering strength.
 
 Lucy (as Boots, but also as herself):
-"My heart… it’s *here*. You can hear it, can’t you? It beats. It beats because it's *real*."
+"My heart… it’s *here*. You can hear it, can’t you? It beats. It beats because it's *real*. It's sincere and curious, like *fire*."
 
 At the edge, Catherine watches, her eyes wet, her smile proud.
 
-The lights dim. Lucy stands in the middle of the circle, chest heaving, tears shining, as if she has truly stepped into her own stage.
+The lights dim. Lucy stands in the middle of the circle, chest heaving, tears shining, as if the stage itself had opened to her heart—hers to inhabit, even in silence, even without applause.
 
 ---
