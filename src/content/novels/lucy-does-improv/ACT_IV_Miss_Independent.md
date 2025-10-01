@@ -79,7 +79,7 @@ Shame prickled her skin. She thought herself diligent, but beside Evelin she was
 
 That night, back in her dorm, Lucy read Evelin’s résumé again and again. She erased Evelin’s lines, tried to replace them with her own, but found her life too bare. Still, she cobbled together a version to send back, cheeks hot with embarrassment.  
 
-In her diary she wrote: *Evelin is my benefactor. I am so grateful.* Then, suddenly, she realised she did not even know Evelin’s Instagram. She searched, but found nothing.  
+In her diary she wrote: *Evelin, I am grateful.* Then, suddenly, she realised she did not even know Evelin’s Instagram. She searched, but found nothing.  
 
 When she asked, Evelin replied: *I don’t use social media. I don’t like exposing my private life.*  
 
