@@ -9,7 +9,9 @@ slug: "act-v"
 
 Lucy succeeded in the internship. She got a job offer after graduation.
 
-In her accounting career, Lucy had grown older and perhaps wiser, though she hardly noticed when it began. University had blurred into memory, like a dream that revisited her at night but left her waking hours empty. She worked now as an auditing consultant, promoted quietly, steadily, nothing flashy.  
+In her accounting career, Lucy had grown older and perhaps wiser, though she hardly noticed when it began. University had blurred into memory, like a dream that revisited her at night but left her waking hours empty. 
+
+She worked now as an auditing consultant, promoted quietly.  
 
 Her diary from those years was thin. At school she had recorded every little episode—Joseph’s laughter, Bella’s earrings, Catherine’s guiding hand. But of her work there was almost nothing. It was as though her mind refused to make room for ledgers and client accounts. She lived those days diligently, yet when she dreamed, she was always a student still.  
 
