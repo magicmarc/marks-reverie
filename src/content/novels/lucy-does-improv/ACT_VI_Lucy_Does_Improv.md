@@ -119,15 +119,17 @@ A boy in a fox costume, meant to play Swiper, piped up. But instead of slyness h
 
 Lucy could no longer hold back. She pulled Dora and Swiper into her arms, sobbing, laughing.
 
-Children crowd around her, arms wrapping her like a tide. Lucy, tears streaking her face, rises slightly, lifting her voice as though addressing not only the children, but the unseen audience beyond the fourth wall.
+Children crowd around her, arms wrapping her like a tide. Lucy, tears streaking her face, clutches the stethoscope against her chest. She looks down at the girl playing Dora, then—slowly—she raises her head, her voice trembling but gathering strength.
 
-Lucy (voice breaking, then steady):
-“My heart is here. It has always been here. Not in numbers, not in silence, not in the roles they wrote for me - 
-but in this moment, in this play -
+Lucy (as Boots, but also as herself):
+“My heart… it’s here. You can hear it, can’t you? It beats. It beats because it's *real*.
 
-I am Boots but I am also Lucy.
-And I do improv with a heart.”
+I’m Boots, yes—but I’m also *Lucy*. And my heart belongs on this stage, with all of you.”
 
-The children cheer, their voices swelling. Catherine watches from the edge, smiling through her own tears. The lights dim, leaving Lucy in a single spotlight, her chest heaving, her eyes lifted, as though she has finally stepped onto the stage of her own life.
+The children cheer, voices ringing bright as bells. Dora claps with delight, Swiper tugs her hand, and the little animals crowd closer, laughing.
+
+At the edge, Catherine watches, her eyes wet, her smile proud.
+
+The lights dim. Lucy stands in the middle of the circle, chest heaving, tears shining, no longer hiding, as if—for the first time—she has truly stepped into her own stage.
 
 ---
