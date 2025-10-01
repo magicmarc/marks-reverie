@@ -45,7 +45,7 @@ With unease still in her chest, Lucy searched for Joseph.
 
 His page was the opposite—alive with videos. He was now a content creator, broadcasting advice on loans, insurance, investment products. Between pitches, he flexed and laughed, flashing muscles, grinning wide for the camera. His speech was quick, playful, practiced; years of improv honed his timing so every joke landed, every gesture slid neatly into rhythm.
 
-The likes and comments piled by the thousands. He looked younger than ever, yet sharper, polished into a brand.
+The likes and comments piled. Joseph looked younger than ever, yet sharper, polished into a brand.
 
 Lucy scrolled, unsettled. This Joseph no longer felt like someone she could sit beside in a circle, trading lines in the silly comfort of improv. The easy boyishness she had once seen in him was gone—or perhaps it had never been real. Maybe Joseph had always been this: confident, commercial, moving forward without looking back.
 
