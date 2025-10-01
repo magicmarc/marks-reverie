@@ -131,12 +131,7 @@ And Evelin, poised and perfect, clipboard in hand, assessing her like a candidat
 
 Lucy’s chest tightened. They said nothing, but their eyes pinned her in place. She spun, danced, mimed, desperate to please them all—and yet their faces remained still, carved in shadow.
 
-At the final shout—
-
-“**Ba-ka-ya-ro-u!**” —>
-
-Lucy screamed it too, the word tearing from her throat.
-“Baka yarō! Stupid Lucy! Fool!”
+At the final shout: “**Ba-ka-ya-ro-u!**” —> Lucy screamed it too, the word tearing from her throat. “**Baka yarō! Stupid Lucy! Fool!**”
 
 Her voice ricocheted across the phantom auditorium. The audience leaned forward as one, their stares converging on her like knives. She collapsed onto the stage—laughing, sobbing, trembling—as invisible applause cracked like thunder.
 
