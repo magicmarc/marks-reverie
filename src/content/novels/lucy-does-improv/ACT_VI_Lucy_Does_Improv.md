@@ -63,7 +63,7 @@ The studio was real. And inside—Catherine.
 
 Her hair was white now, but her posture straight, her eyes sharp, the soul still burning. She was teaching children, little ones in animal costumes, their voices bright and eager.  
 
-“Catherine-sensei!” Lucy blurted.  
+“Catherine!” Lucy blurted.  
 
 Catherine froze, then broke into recognition. “Lucy, isn’t it?”  
 
