@@ -68,7 +68,7 @@ She searched desperately online. No Instagram, but a faint address surfaced—a 
 
 The studio was real. And inside—Catherine.  
 
-Her hair was white now, but her posture straight, her eyes sharp, the soul still burning. She was teaching children, little ones in animal costumes, their voices bright and eager.  
+Her hair was white now, but her posture straight, her eyes sharp. She was teaching children, little ones in animal costumes, their voices bright and eager.  
 
 “Catherine!” Lucy blurted.  
 
