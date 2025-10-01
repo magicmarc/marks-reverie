@@ -100,19 +100,19 @@ To distract herself, she opened YouTube. A playlist shuffled, and then—unexpec
 
 She froze. It was Namewee’s song, a parody she had once laughed at in passing. But now the words struck like triggers:  
 
-**Makudonarudo** —She found herself miming a greedy bite into an invisible burger.
+**Makudonarudo** —> She found herself miming a greedy bite into an invisible burger.
 
-**Guguru Toiletto** —She stumbled around, frantic, searching for a toilet in a maze-like mall.  
+**Guguru Toiletto** —> She stumbled around, frantic, searching for a toilet in a maze-like mall.  
 
-**Kitto Katto** —She pretended to unwrap chocolate, eyes melting into sweetness, cheeks flushing as if receiving it from a secret lover.  
+**Kitto Katto** —> She pretended to unwrap chocolate, eyes melting into sweetness, cheeks flushing as if receiving it from a secret lover.  
 
-**Dizunirando** —She rode an imaginary carousel, laughing with a girlish delight she had long buried.  
+**Dizunirando** —> She rode an imaginary carousel, laughing with a girlish delight she had long buried.  
 
 **Kōhī Kēki. Aisukurīmu Konbini.** —She played a shop girl in a convenience store, eager, breathless, selling coffee, cake, ice cream, every gesture exaggerated, ridiculous, alive.  
 
 The music whipped her into motion. She lost control, every lyric a cue, every beat a command. She was no longer in her room but back in the rehearsal space, back in the freedom she had denied herself.  
 
-At the final shout—  
+At the final shout -   
 
 **“Ba-ka-ya-ro-u!”**  
 
