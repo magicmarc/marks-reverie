@@ -2,7 +2,7 @@
 title: "Lucy Does Improv"
 excerpt: "An accounting student stumbles into an improv club, torn between duty and destiny."
 publishedAt: "2025-01-28"
-readTime: 45
+readTime: 57
 tags: ["novel", "fiction", "improv", "coming-of-age", "lucy-does-improv"]
 slug: "lucy-does-improv"
 author: "Mark"
