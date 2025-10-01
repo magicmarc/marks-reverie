@@ -35,7 +35,7 @@ Another photo showed Bella in a cocktail dress, glittering sequins catching ever
 
 "Who the hell are you, Bella?" Lucy couldn't help asking.
 
-Before she could find the answer, the next picture completely shocked her. It's a picture she could never erase from her memory.
+Before she could even grasp the thought, the next image struck her like a blow—one she knew she would never be able to forget.
 
 Bella sprawled across a bed in an oversized white shirt, bare beneath the fabric. The collar had slipped low, exposing the curve of her shoulder, the pale line of her collarbone. Her hair was loose, tumbling wildly as if she had just rolled over, too careless to tame it.
 
