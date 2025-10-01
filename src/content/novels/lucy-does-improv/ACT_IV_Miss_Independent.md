@@ -90,14 +90,24 @@ Lucy found herself drawn to both, though in ways she couldn’t untangle. Did sh
 
 ## First Day Adulting  
 
-Soon after, Lucy received the offer. Her grades had outshone every other applicant.  
+Soon after, Lucy received the offer. Her grades had outshone every other applicant.
 
-On her first day she stepped into the office, breath caught in her throat. The hum of printers, the faint smell of coffee, the rows of desks—all of it felt foreign, almost theatrical, as though she had wandered onto a set.  
+On her first day she stepped into the office, breath caught in her throat. The hum of printers, the faint smell of coffee, the rows of desks—all of it felt foreign, almost theatrical, as though she had wandered onto a set.
 
-She met the other interns: Mike, tall and muscular, voice surprisingly gentle; and Park, slighter, but radiating a confidence that made him seem twice as large.  
+She met the other interns: Mike, tall and muscular, his voice surprisingly gentle when he introduced himself; and Park, slighter in frame but carrying himself with a calm authority that made him seem twice his size.
 
-Lucy looked around at the monitors, the spreadsheets, the serious faces. She felt something stir—curiosity, awe, the dizzying sensation of being somewhere she had never thought she’d belong.  
+At first, Lucy tried to speak to them as she might with classmates, expecting the usual chatter about exams or balance-sheet formulas. But the conversation swerved differently here.
 
-Perhaps, she thought, she was growing up after all.  
+Mike leaned over his screen, tapping numbers with an easy rhythm. “The client’s cash flow looks solid, but the reporting cycle is messy—we’ll need to reconcile that before the partner sees it.”
+
+Park nodded, adding smoothly, “And don’t forget their overseas subsidiary. If we don’t factor in currency fluctuations, our recommendation will look naive.”
+
+Lucy froze for a second, pen hovering above her notebook. It wasn’t like the classroom at all. There, numbers were abstractions—ratios, formulas, neat examples lifted from textbooks. Here, they were alive, tethered to real people, real companies, real stakes. Every sentence felt weighted, as if their words were part of a language she’d only just discovered.
+
+She stole a glance at Mike’s broad shoulders, at Park’s steady eyes. They looked ordinary enough—like any other students on campus. Yet here, in this office, their voices carried differently: grounded, confident, speaking in a dialect that belonged to the adult world.
+
+Lucy’s heart quickened. She realised, with a sudden clarity, that she had stepped into a new country without leaving the city. A place where she didn’t yet know the customs, but desperately wanted to belong.
+
+And in that moment, she thought: this what feels like to be an adult. 
 
 ---
