@@ -94,33 +94,47 @@ That night, alone in her rented room, Lucy pulled out the report she had sent th
 
 She wanted to call Park, to demand answers, but couldn’t bring herself to dial. She gripped the papers until her knuckles whitened, her whole body trembling.  
 
-To distract herself, she opened YouTube. A playlist shuffled, and then—unexpectedly—a song filled her room.  
+To distract herself, she opened YouTube. A playlist shuffled, and then—unexpectedly—a song filled her room.
 
-“Makudonarudo…”  
+“Makudonarudo…”
 
-She froze. It was Namewee’s song, a parody she had once laughed at in passing. But now the words struck like triggers:  
+She froze. It was Namewee’s parody she had once laughed at in passing. But now the words struck like cues.
 
-**Makudonarudo** —> She found herself miming a greedy bite into an invisible burger.
+Makudonarudo —She mimed a greedy bite into an invisible burger.
 
-**Guguru Toiletto** —> She stumbled around, frantic, searching for a toilet in a maze-like mall.  
+Guguru Toiletto —She stumbled about, searching desperately for a bathroom that didn’t exist.
 
-**Kitto Katto** —> She pretended to unwrap chocolate, eyes melting into sweetness, cheeks flushing as if receiving it from a secret lover.  
+Kitto Katto —She unwrapped an invisible chocolate bar, blushing as if offered by an unseen hand.
 
-**Dizunirando** —> She rode an imaginary carousel, laughing with a girlish delight she had long buried.  
+Dizunirando —She spun in circles, arms flung wide, as though she were riding a carousel in a kingdom of light.
 
-**Kōhī Kēki. Aisukurīmu Konbini.** —>She played a shop girl in a convenience store, eager, breathless, selling coffee, cake, ice cream, every gesture exaggerated, ridiculous, alive.  
+Kōhī Kēki. Aisukurīmu Konbini. —She became a shop girl, pitching sweets with exaggerated bows and bright-eyed urgency.
 
-The music whipped her into motion. She lost control, every lyric a cue, every beat a command. She was no longer in her room but back in the rehearsal space, back in the freedom she had denied herself.  
+And with every gesture, her room began to distort. The wallpaper unfurled into heavy curtains, the desk melted into footlights. The carpet warped beneath her feet until it became dark, gleaming stagewood.
 
-At the final shout —>   
+Shadows gathered in the corners, thickening, swelling, until they formed an audience. At first faceless, then—slowly—faces emerged.
 
-**“Ba-ka-ya-ro-u!”**  
+Her father, sitting stiffly in the front row, expression weary, disappointment etched deep.
 
-Lucy screamed it too, at herself.  
-“Baka yarō! Stupid Lucy! Fool!”  
+Her mother beside him, eyes wet with unshed tears, lips pressed thin as if whispering a warning.
 
-Her voice cracked, tears streaming. She laughed and sobbed, collapsing onto the bed.  
+Joseph, arms crossed, his booming laugh absent, watching her with an unreadable calm.
 
-The relapse had come. Improv had claimed her again.  
+Bella, silver earrings glinting, gaze sharp and burning, both invitation and accusation.
 
----
+And Evelin, poised and perfect, clipboard in hand, assessing her like a candidate who had already failed.
+
+Lucy’s chest tightened. They said nothing, but their eyes pinned her in place. She spun, danced, mimed, desperate to please them all—and yet their faces remained still, carved in shadow.
+
+At the final shout—
+
+“Ba-ka-ya-ro-u!”
+
+Lucy screamed it too, the word tearing from her throat.
+“Baka yarō! Stupid Lucy! Fool!”
+
+Her voice ricocheted across the phantom auditorium. The audience leaned forward as one, their stares converging on her like knives. She collapsed onto the stage—laughing, sobbing, trembling—as invisible applause cracked like thunder.
+
+For an instant she was radiant, lit cruelly by the spotlight. But she could feel their eyes devouring her, weighing her, condemning her.
+
+The relapse had come. Improv had claimed her again—not as freedom, but as judgment.
