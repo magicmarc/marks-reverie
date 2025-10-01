@@ -88,7 +88,7 @@ Lucy stared at the message, unsettled. Bella had thrown herself online without s
 Lucy found herself drawn to both, though in ways she couldn’t untangle. Did she want Bella’s fire, or Evelin’s steel? Was freedom louder, or quieter? She couldn’t tell. All she knew was that whichever path she looked toward, the other one whispered back, asking why she hesitated.
 ---
 
-## First Taste of Work  
+## First Day Adulting  
 
 Soon after, Lucy received the offer. Her grades had outshone every other applicant.  
 
