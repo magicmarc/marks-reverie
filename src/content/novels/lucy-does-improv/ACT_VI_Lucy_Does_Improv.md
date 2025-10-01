@@ -29,7 +29,7 @@ But what she saw chilled her.
 
 No gym selfies, no cocktail dresses. Even the sexy white-shirt photo was gone. In its place was a woman, who cradled two children—one already in kindergarten, the other still an infant—her smile gentle but worn, as though stretched thin by sleepless nights. 
 
-Lucy scrolled in a frenzy, searching for the Bella she remembered. Instead, she found a wedding portrait: Bella beside an unremarkable man, plain-faced, almost homely. Only after staring did Lucy recognise her—the tilt of her smile, softened now, worn with care. The rebellion had faded into a kind of weary tenderness.  
+Lucy scrolled in a frenzy, searching for the Bella she remembered. Instead, she found a wedding portrait: Bella beside a man, plain-faced, almost homely. Only after staring did Lucy recognise her—the tilt of her smile, softened now, worn with care. The rebellion had faded into a kind of weary tenderness.  
 
 Lucy looked in the mirror and startled herself. She too had aged. Yet the outline of that girl from years ago still lingered.  
 
