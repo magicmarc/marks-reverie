@@ -15,9 +15,11 @@ Lucy woke with her head pounding, too drained to think of correcting the report.
 
 For the first time, Lucy felt he wasn’t an enemy. Not quite a friend either—not the shallow kind she’d known in school—but something more complicated, belonging to the adult world.  
 
-Flat on her bed, Lucy wondered: if she had already failed, then why not do what she truly wanted?  
+Flat on her bed, Lucy stared at the ceiling, the weight of failure pressing her down. But then a strange thought rose, sharp and liberating: If I’ve already fallen, why bother clinging to the rails?
 
-And in a whisper, she admitted it to herself: *I want to find Bella.*  
+A laugh escaped her, brittle but real. The careful daughter, the diligent employee—both were ruined already. So why not break the last rule, the one she had always tiptoed around?
+
+She turned her face into the pillow and whispered, almost daring herself: *I want to find Bella.* 
 
 ---
 
