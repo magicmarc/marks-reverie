@@ -1,6 +1,6 @@
 ---
 title: "Act III: A Break from School" 
-excerpt: "Druing school's summer break, Lucy returned home with a new discovery." 
+excerpt: "Druing school's summer break, Lucy returned home with a discovery." 
 publishedAt: "2025-09-30" 
 readTime: 10
 tags: ["novel", "fiction", "lucy-does-improv"] 
