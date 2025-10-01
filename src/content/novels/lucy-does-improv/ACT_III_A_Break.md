@@ -1,6 +1,6 @@
 ---
-title: "Act III: A Break from School" 
-excerpt: "Druing school's summer break, Lucy returned home with a discovery." 
+title: "Act III: A Break" 
+excerpt: "Druing school's summer break, Lucy returned home." 
 publishedAt: "2025-09-30" 
 readTime: 10
 tags: ["novel", "fiction", "lucy-does-improv"] 
@@ -35,7 +35,7 @@ Another photo showed Bella in a cocktail dress, glittering sequins catching ever
 
 "Who the hell are you, Bella?" Lucy couldn't help asking.
 
-There were camping pictures too—Bella sprawled by the fire in ripped jeans, hair tangled, eyes glittering with mischief as if she had just dared someone to jump into the lake at midnight.
+Before she could find the answer, the next picture of Bella shocked her. That's a picture Lucy could never erase from her memory.
 
 Bella sprawled across a bed in an oversized white shirt, bare beneath the fabric. The collar had slipped low, exposing the curve of her shoulder, the pale line of her collarbone. Her hair was loose, tumbling wildly as if she had just rolled over, too careless to tame it.
 
