@@ -117,8 +117,15 @@ Lucy could no longer hold back. She pulled Dora and Swiper into her arms, sobbin
 
 The other children rushed in, a tide of warmth, wrapping their arms around her.  
 
-In the background, Catherine smiled.  
+(Children crowd around her, arms wrapping her like a tide. Lucy, tears streaking her face, rises slightly, lifting her voice as though addressing not only the children, but the unseen audience beyond the fourth wall.)
 
-“You are Lucy,” she said softly. “You can do improv.”  
+Lucy (voice breaking, then steady):
+“My heart is here. It has always been here. Not in numbers, not in silence, not in the roles they wrote for me - 
+but in this moment, in this play -
+
+I am Lucy.
+And I can do improv.”
+
+(The children cheer, their voices swelling. Catherine watches from the edge, smiling through her own tears. The lights dim, leaving Lucy in a single spotlight, her chest heaving, her eyes lifted, as though she has finally stepped onto the stage of her own life.) 
 
 ---
