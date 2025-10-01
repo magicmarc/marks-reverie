@@ -108,7 +108,7 @@ Her eyes blurred.
 
 Then Dora pressed it to her chest. “Is Boots’s heart here?”  
 
-Lucy’s breath broke. Tears welled. She seized the child’s hand, dragging the stethoscope to her heart. “It’s here! My heart is here! Do you hear it? Can you feel it?! ”  
+Lucy’s breath broke. Tears welled. She seized the child’s hand, dragging the stethoscope to her heart. “**It’s here! My heart is here! Do you hear it? Can you feel it?!** ”  
 
 The girl blinked, startled but kind. “Yes. I can hear it.”  
 
