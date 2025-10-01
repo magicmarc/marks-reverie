@@ -126,6 +126,6 @@ Lucy (as Boots, but also as herself):
 
 At the edge, Catherine watches, her eyes wet, her smile proud.
 
-The lights dim. Lucy stands in the middle of the circle, chest heaving, tears shining, no longer hiding, as if—for the first time—she has truly stepped into her own stage.
+The lights dim. Lucy stands in the middle of the circle, chest heaving, tears shining, as if she has truly stepped into her own stage.
 
 ---
