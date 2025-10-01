@@ -49,7 +49,7 @@ The likes and comments piled. Joseph looked younger than ever, yet sharper, poli
 
 Lucy scrolled, unsettled. This Joseph no longer felt like someone she could sit beside in a circle, trading lines in the silly comfort of improv. The easy boyishness she had once seen in him was gone—or perhaps it had never been real. Maybe Joseph had always been this: mature, confident, moving forward without looking back.
 
-Nestled among the glossy reels, though, the old photos remained: the stray cat, the city streets, the suit and tie, and finally, the group photo of the Improv Club.
+Nestled among the glossy reels, though, the old photos remained: the stray cat, the city streets, the suit and tie "Bachelor of Finance", and finally, the group photo of the Improv Club.
 
 There was Bella again—hair streaked with rebellion, silver earrings catching the light, a face both highborn and wild.
 
@@ -73,7 +73,7 @@ Catherine froze, then broke into recognition. “Lucy, isn’t it?”
 
 Lucy was stunned—her teacher remembered.  
 
-At the break, she approached. “Do you still teach improv? It seems this is for children.”  
+At the break, she approached. “Do you still teach improv? It seems this class is for children now.”  
 
 “Not many adults come anymore,” Catherine said gently. “The economy is harsh, companies demand more. Grown-ups don’t have time. But for immigrant children, drama helps them learn English. That’s what I teach nowadays.”  
 
