@@ -60,9 +60,9 @@ Lucy’s stomach turned. Bella had dissolved into domestic shadows, but Joseph s
 
 The Improv Club flickered in her memory, like a dream she had forced herself to forget. And as she wished, it would never rise again to tempt her now.
 
-Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. 
+Her thumb hovered, trembling, over the screen. She could not message Joseph. She could not even look at him. 
 
-What she longed for was something else now, something she had buried for years: *Catherine's class*.
+Then she remembered something else, something she had buried for years: *Catherine's class*.
 
 ---
 
