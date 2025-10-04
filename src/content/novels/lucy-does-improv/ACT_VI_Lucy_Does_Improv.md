@@ -56,9 +56,13 @@ Her breath caught. She remembered the circle, the laughter, the boyish warmth sh
 
 In the group photo, Bella still shone, hair streaked with rebellion, silver earrings glinting like tiny sparks. But Joseph’s arm around her shoulder looked different now—firm, possessive, already certain of the man he would become.
 
-Lucy’s stomach turned. Bella had vanished into domesticity, but Joseph remained—intact, whole, unashamed. 
+Lucy’s stomach turned. Bella had dissolved into domestic shadows, but Joseph seemed to sharpen the longer she stared. And in that fixity lay the horror: perhaps he had never been different, never the boy she thought she’d known.
 
-Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. What she longed for was something else, something she had buried for years: *Catherine's class*.
+The Improv Club flickered in her memory, like a dream she had forced herself to forget. As she wished, it would never rise again to tempt her .
+
+Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. 
+
+What she longed for was something else now, something she had buried for years: *Catherine's class*.
 
 ---
 
