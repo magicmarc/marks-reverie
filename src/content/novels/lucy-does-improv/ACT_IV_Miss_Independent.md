@@ -13,7 +13,7 @@ No improv club. No Joseph. No Bella. No daydreams spiraling into panic.
 
 She finished her assignments on time, memorised every accounting formula, read every page of the textbooks. She became, once more, the diligent student her parents trusted her to be.  
 
-She almost believed it herself.  
+She believed it—that she could be her own Miss Independent: sharp, pragmatic, even ruthless.
 
 ---
 
