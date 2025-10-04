@@ -11,7 +11,7 @@ Lucy could barely recall the details of the new semester. What she did remember 
 
 No improv club. No Joseph. No Bella. No daydreams spiraling into panic.  
 
-She told herself she could be her own Miss Independent—pragmatic, polished, ruthless—stepping into the role as if onto a stage: *real life*.
+She told herself she could be her own Miss Independent—pragmatic, polished, ruthless—stepping into the role as if onto another stage: *real life*.
 
 ---
 
