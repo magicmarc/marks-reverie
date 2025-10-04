@@ -13,7 +13,7 @@ Lucy woke with her head pounding, too drained to think of correcting the report.
 
 “The report, right? Don’t worry,” Park said, his voice softer than she expected. “Rest. I’ll fix it.”  
 
-For the first time, Lucy felt he wasn’t an enemy. Not quite a friend either—not the shallow kind she’d known in school—but something more complicated, belonging to the adult world.  
+For the first time, Lucy felt he wasn’t an enemy. Not quite a friend either, but something more complicated, belonging to the adult world.  
 
 A laugh escaped her, brittle but real. Her world was ruined already. So why not break the last rule, the one she had always tiptoed around?
 
