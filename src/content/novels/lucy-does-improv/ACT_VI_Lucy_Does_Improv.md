@@ -58,7 +58,7 @@ In the group photo, Bella still shone, hair streaked with rebellion, silver earr
 
 Lucy’s stomach turned. Bella had dissolved into domestic shadows, but Joseph seemed to sharpen the longer she stared. And in that fixity lay the horror: perhaps he had never been different, never the boy she thought she’d known.
 
-The Improv Club flickered in her memory, like a dream she had forced herself to forget. As she wished, it would never rise again to tempt her .
+The Improv Club flickered in her memory, like a dream she had forced herself to forget. And as she wished, it would never rise again to tempt her now.
 
 Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. 
 
