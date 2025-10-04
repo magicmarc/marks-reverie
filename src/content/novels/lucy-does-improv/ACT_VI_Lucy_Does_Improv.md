@@ -56,7 +56,7 @@ Her breath caught. She remembered the circle, the laughter, the boyish warmth sh
 
 In the group photo, Bella still shone, hair streaked with rebellion, silver earrings glinting like tiny sparks. But Joseph’s arm around her shoulder looked different now—firm, possessive, already certain of the man he would become.
 
-Lucy’s stomach turned. Bella had vanished into domesticity, but Joseph remained—intact, whole, unashamed. Perhaps he had never changed at all. Perhaps she had simply failed to see him for what he was.
+Lucy’s stomach turned. Bella had vanished into domesticity, but Joseph remained—intact, whole, unashamed. 
 
 Her thumb hovered, trembling, over the screen. She could not message him. She could not even look at him. What she longed for was something else, something she had buried for years: *Catherine's class*.
 
