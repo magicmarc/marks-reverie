@@ -42,7 +42,7 @@ Now, years later, I’m writing these lines from a quiet apartment in Sydney. Pe
 
 But why that city? Why not Perth, or Adelaide, or some distant corner of the map where comparisons lose their meaning?
 
-Because, I’ve come to realise, when I’m in Melbourne I’m allowed to express myself; in Sydney, I’m expected to perform.
+Because, I’ve come to realise, when I’m in Melbourne I’m allowed to *express myself*; in Sydney, I’m expected to *perform*.
 
 When I asked my Sydney friends what they thought of Melbourne, their answers came with the precision of a well-rehearsed play.
 
