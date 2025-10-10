@@ -6,9 +6,20 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const HeroSection = styled.section`
-  padding: ${({ theme }) => theme.spacing['4xl']} 0;
+  padding: ${({ theme }) => theme.spacing['xl']} 0;
   text-align: center;
-  margin-bottom: ${({ theme }) => theme.spacing['3xl']};
+  margin-bottom: ${({ theme }) => theme.spacing.xl};
+`
+
+const HeroBanner = styled.div`
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  margin: 0 auto ${({ theme }) => theme.spacing['xl']};
+  border-radius: ${({ theme }) => theme.borderRadius.lg};
+  overflow: hidden;
+  box-shadow: ${({ theme }) => theme.shadows.lg};
 `
 
 
@@ -56,8 +67,8 @@ const CTAButton = styled(Link)`
 const ContentSection = styled.section`
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: ${({ theme }) => theme.spacing['2xl']};
-  margin-bottom: ${({ theme }) => theme.spacing['3xl']};
+  gap: ${({ theme }) => theme.spacing.lg};
+  margin-bottom: ${({ theme }) => theme.spacing['2xl']};
 
   @media (max-width: ${({ theme }) => theme.breakpoints.lg}) {
     grid-template-columns: 1fr 1fr;
@@ -65,13 +76,13 @@ const ContentSection = styled.section`
 
   @media (max-width: ${({ theme }) => theme.breakpoints.md}) {
     grid-template-columns: 1fr;
-    gap: ${({ theme }) => theme.spacing['2xl']};
+    gap: ${({ theme }) => theme.spacing.lg};
   }
 `
 
 const ContentCard = styled.div`
   background-color: ${({ theme }) => theme.colors.background.paper};
-  padding: ${({ theme }) => theme.spacing['2xl']};
+  padding: ${({ theme }) => theme.spacing.xl};
   border-radius: ${({ theme }) => theme.borderRadius.xl};
   border: 1px solid ${({ theme }) => theme.colors.border.light};
   box-shadow: ${({ theme }) => theme.shadows.sm};
@@ -84,13 +95,6 @@ const ContentCard = styled.div`
   }
 `
 
-const CardTitle = styled.h2`
-  font-size: ${({ theme }) => theme.typography.fontSize['2xl']};
-  color: ${({ theme }) => theme.colors.text.primary};
-  margin-bottom: ${({ theme }) => theme.spacing.lg};
-  font-weight: ${({ theme }) => theme.typography.fontWeight.semibold};
-`
-
 const CardDescription = styled.p`
   color: ${({ theme }) => theme.colors.text.secondary};
   line-height: ${({ theme }) => theme.typography.lineHeight.relaxed};
@@ -99,10 +103,10 @@ const CardDescription = styled.p`
 
 const QuoteSection = styled.section`
   background-color: ${({ theme }) => theme.colors.background.subtle};
-  padding: ${({ theme }) => theme.spacing['3xl']};
+  padding: ${({ theme }) => theme.spacing['2xl']};
   border-radius: ${({ theme }) => theme.borderRadius.xl};
   text-align: center;
-  margin-bottom: ${({ theme }) => theme.spacing['3xl']};
+  margin-bottom: ${({ theme }) => theme.spacing['2xl']};
 `
 
 const Quote = styled.blockquote`
@@ -134,6 +138,15 @@ export default function Home() {
   return (
     <Layout>
       <HeroSection>
+        <HeroBanner>
+          <Image
+            src="/images/Home-Page-Banner.png"
+            alt="Community of writers and readers discussing literature"
+            fill
+            style={{ objectFit: 'contain' }}
+            priority
+          />
+        </HeroBanner>
         <HeroTitle>Welcome to Mark&apos;s Reverie</HeroTitle>
         <HeroSubtitle>
           A contemplative space where thoughts wander freely, ideas take flight, and the written word finds its home.
