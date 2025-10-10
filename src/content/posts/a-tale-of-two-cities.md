@@ -42,7 +42,7 @@ Why that city, though? Why not Perth, or Adelaide, or somewhere far enough to er
 
 Because, to me, while in Melbourne I could constantly express myself; while in Sydney I am constantly performing for others.  
 
-When I asked my friends what they thought of Melbourne, their answers came quickly, almost rehearsed.  
+When I asked my Sydney friends what they thought of Melbourne, their answers came quickly, almost rehearsed.  
 
 “Too many crazies,” said Max. “Sydney’s safer.”  
 “No beaches,” said William. “How am I supposed to live without the ocean?”  
