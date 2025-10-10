@@ -49,7 +49,7 @@ When I asked my Sydney friends what they thought of Melbourne, their answers cam
 “All those lefties,” said Summer. “If my kids grew up there, they’d spend their lives protesting. Sydney’s better for discipline.”  
 Jack didn’t even pause. “Bloody outsiders,” he muttered.  
 
-Not a single person wanted to move south. Not one.  
+Not a single person wanted to move south here. Not one.  
 
 ---
 
