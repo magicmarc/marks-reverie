@@ -36,20 +36,30 @@ Back then, I was speaking sincerely. Sydney did feel like a city built for worke
 
 ## **II. The Grass, the Fence, the Mirror**
 
-Now, years later, I’m writing these lines from a quiet apartment in Sydney. Perhaps what fuels this essay is simple discontent. *The grass is always greener*, as they say, and mine, apparently, grows in Melbourne.  
+Now, years later, I’m writing these lines from a quiet apartment in Sydney. Perhaps what fuels this essay is simple discontent. The grass is always greener, they say—and mine, apparently, grows somewhere south, watered by Melbourne rain.
 
-Why that city, though? Why not Perth, or Adelaide, or somewhere far enough to erase comparison altogether?  
+But why that city? Why not Perth, or Adelaide, or some distant corner of the map where comparisons lose their meaning?
 
-Because, to me, while in Melbourne I could constantly express myself; while in Sydney I am constantly performing for others.  
+Because, I’ve come to realise, when I’m in Melbourne I’m allowed to express myself; in Sydney, I’m expected to perform.
 
-When I asked my Sydney friends what they thought of Melbourne, their answers came quickly, almost rehearsed.  
+When I asked my Sydney friends what they thought of Melbourne, their answers came with the precision of a well-rehearsed play.
 
-“Too many crazies,” said Max. “Sydney’s safer.”  
-“No beaches,” said William. “How am I supposed to live without the ocean?”  
-“All those lefties,” said Summer. “If my kids grew up there, they’d spend their lives protesting. Sydney’s better for discipline.”  
-Jack didn’t even pause. “Bloody outsiders,” he muttered.  
+Max entered first, in the role of the sensible man:
+“Too many crazies,” he said, lowering his voice as if Melbourne might overhear. “Sydney’s safer.”
 
-Not a single person wanted to move south here. Not one.  
+William, tanned and impatient, waved his hand like a surf instructor dismissing theory:
+“No beaches! How am I supposed to live without the ocean?”
+
+Then came Summer, the moral philosopher of the group, clutching her coffee like a manifesto.
+“All those lefties,” she sighed. “If my kids grew up there, they’d be ruined—forever protesting, never working. Sydney keeps people grounded.”
+
+And Jack—dear, unfiltered Jack—didn’t even pretend to think.
+“Bloody outsiders,” he muttered, as though the conversation itself were treason.
+
+It was almost comic, how united they were in their disapproval. Each of them a different character, yet all speaking the same line: Why would anyone leave perfection for chaos?
+
+Not one of them wanted to move south.
+Not one.
 
 ---
 
