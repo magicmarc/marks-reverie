@@ -11,7 +11,7 @@ slug: "a-tale-of-two-cities"
 
 Australia has two great cities: Sydney and Melbourne.  
 
-As someone not from here—and, more recently, a homebound worker who spends long days behind a screen—I can’t claim to know either city in any comprehensive way. What I have are impressions, partial and fleeting, gathered from the edges of living.  
+As someone not from here—and, more recently, a homebound worker who spends long days behind a screen—I can’t claim to know either city in any comprehensive way. What I have are impressions, gathered from the edges of living.  
 
 ---
 
