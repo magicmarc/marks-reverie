@@ -25,7 +25,7 @@ I first came to Sydney years ago, a friend asked how it was. “Wonderful,” I 
 
 He looked surprised.  
 
-“Sydney feels too much like Hong Kong,” I said. “And one of the reasons I came to Australia was to leave Hong Kong behind.”  
+“Sydney feels too much like Hong Kong,” I said. “And one of the reasons I came to Australia was to leave the past behind.”  
 
 The resemblance was uncanny. Sydney’s skyline, its crowded ferries, the ring of its harbour—all felt like echoes of home. Later I learned that its metro system was built by the same company that built Hong Kong’s. That explained the déjà vu.  
 
