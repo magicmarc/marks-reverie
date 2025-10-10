@@ -38,11 +38,11 @@ But sincerity, I’ve since learned, isn’t the same as truth. What I said was 
 
 ## **II. The Grass, the Fence, the Mirror**
 
-Now, years later, I’m writing these lines from my Sydney apartment. Perhaps what fuels this essay is simple discontent in life. *The grass is always greener*, they say—and mine, apparently, grows somewhere south, watered by Melbourne rain.
+Now, years later, I’m writing these lines from my Sydney apartment. Perhaps what fuels this essay is simple discontent in life. *The grass is always greener*, they say—and mine, apparently, grows somewhere south.
 
-But why that city? Why not Perth, or Adelaide, or some distant corner of the map where comparisons lose their meaning?
+Moving to Melbourne wouldn't solve all my problems. But the idea itself made me think.
 
-Because, I’ve come to realise, when I’m in Melbourne I’m allowed to *express myself*; in Sydney, I’m expected to *perform*.
+I’ve come to realise, when I’m in Melbourne I’m allowed to *express myself*; in Sydney, I’m expected to *perform*.
 
 When I asked my Sydney friends what they thought of Melbourne, their answers came with the precision of a well-rehearsed play.
 
