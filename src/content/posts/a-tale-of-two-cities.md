@@ -132,6 +132,5 @@ Perhaps I was never meant to choose—only to move between them.
 
 I have no wish to become the muttering dreamer on a Melbourne tram, lost in the echo of his own genius; nor the immaculate machine in a Sydney high-rise, efficient, gleaming, and quietly hollow.
 
-I want to build and dream, to argue and reconcile—
-to fall, and still keep creating.
+I want to build and dream, to argue and reconcile.
 > Because maybe, just maybe, Sydney and Melbourne were never that far apart.
