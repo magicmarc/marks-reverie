@@ -107,7 +107,7 @@ Every artist must negotiate with the world. Some deals work, some don’t. But I
 
 ## **V. Sydney and Melbourne: The Twin Engines**
 
-And so we circle back: Sydney and Melbourne are not adversaries. They are, like art and life, parts of the same system.  
+And so we circle back: Sydney and Melbourne are not adversaries. They are, parts of the same system.  
 
 In Melbourne, you can spend twenty dollars to see a small, experimental show—sometimes even free, with a donation jar passed around at the end.  
 In Sydney, a single night at the Opera House can cost two hundred.  
