@@ -29,7 +29,7 @@ He looked surprised.
 
 Back in Hong Kong, my days had been consumed by work—endless hours in glass towers that never slept, deadlines stacked like dominoes, and the unspoken rule that to rest was to fall behind. There was no such thing as after work; there was only before exhaustion. The city moved at the speed of ambition, and I moved with it until I could no longer tell whether I was living, or merely functioning.
 
-I had come to Australia for something gentler—a life that allowed space between effort and being, a rhythm where work ended and living began. I wanted to spend my evenings reading, or sitting in a small theatre watching strangers perform their truth. Art, to me, was not a luxury; it was proof that time could still be mine.
+I had come to Australia for something gentler—a life that allowed space between effort and being. I wanted to spend my evenings reading, or sitting in a small theatre watching strangers perform their truth. Art, to me, was not a luxury; it was proof that time could still be mine.
 
 But when I first arrived in Sydney, that sense of escape faltered. The resemblance was uncanny. Sydney’s skyline, its crowded ferries, the ring of its harbour—all felt like echoes of the city I thought I’d left behind. Even the rhythm of footsteps in the financial district—the suits, the coffee queues, the silent urgency—brought a chill to my spine. It was as if the same metropolis had followed me across the sea, wearing a different accent but the same expression of fatigue.
 
