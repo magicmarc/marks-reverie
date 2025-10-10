@@ -30,7 +30,9 @@ He looked surprised.
 
 The resemblance was uncanny. Sydney’s skyline, its crowded ferries, the ring of its harbour—all felt like echoes of home. Later I learned that its metro system was built by the same company that built Hong Kong’s. That explained the déjà vu.  
 
-Back then, I was speaking sincerely. Sydney did feel like a city built for workers—or, more precisely, for those who could afford to hire them. But sincerity, I’ve since learned, isn’t the same as truth. What I said was honest, but it wasn’t the root of what I felt. The real reason lay deeper, beneath logic or comparison—something quieter, harder to name.
+Back then, I was speaking sincerely. Sydney did feel like a city built for workers—or, more precisely, for those who could afford to hire them. 
+
+But sincerity, I’ve since learned, isn’t the same as truth. What I said was honest, but it wasn’t the root of what I felt. The real reason lay deeper, beneath logic or comparison—something quieter, harder to name.
 
 ---
 
