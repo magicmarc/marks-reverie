@@ -56,11 +56,10 @@ Not a single person wanted to move south here. Not one.
 ## **III. Two Kinds of Art**
 
 To be fair, their complaints were not without merit.  
+
 Melbourne rains endlessly. The wind howls. The sky refuses to stay the same colour for an hour. There are men on trams who speak to invisible audiences.  
 
-And yet—I prefer it.  
-
-For one reason: **self-expression.**  
+And yet—I prefer it. For one reason: **self-expression.**  
 
 Melbourne, I’ve always felt, carries an artistic pulse in its everyday life.  
 
