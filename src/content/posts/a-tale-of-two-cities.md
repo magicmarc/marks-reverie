@@ -71,6 +71,8 @@ Sydney, of course, has art in abundance—an opera house that gleams like a seas
 
 Melbourne, on the other hand, feels like the back room of that same building—messy, alive, a little improvised. Art here isn’t performed for you; it happens around you. In Sydney, art demands a ticket; in Melbourne, it demands attention. Sydney wants to impress you; Melbourne wants to include you. 
 
+>In Sydney, art is a career. In Melbourne, art is a way of life.
+
 It’s the same distinction one might draw between Los Angeles and New York.
 Hollywood lives in L.A.; Broadway lives in New York.
 Both belong to the same constellation of art, yet they burn at different temperatures.
@@ -105,42 +107,11 @@ Every artist must negotiate with the world. Some deals work, some don’t. But I
 
 ---
 
-## **V. Sydney and Melbourne: The Twin Engines**
+## **V. The Twin Engines**
 
-And so we circle back: Sydney and Melbourne are not adversaries. They are, parts of the same system.  
+And perhaps this is what I’ve been circling all along—the quiet reconciliation between creation and commerce, between freedom and structure, between dream and daylight. The left hand and the right, finally moving together.
 
-In Melbourne, you can spend twenty dollars to see a small, experimental show—sometimes even free, with a donation jar passed around at the end.  
-In Sydney, a single night at the Opera House can cost two hundred.  
+Maybe it’s the same with cities. Sydney, with its order and shine, teaches you how to build; Melbourne, with its rain and chaos, reminds you why you began. One speaks in boardroom tones, the other hums in alleyways—but the conversation, I suspect, is the same.
 
-Melbourne invites participation; Sydney commands reverence.  
-Both, in their own ways, are essential.  
-
-Without Sydney’s infrastructure, professionalism, and audience, few artists could make a living.  
-Without Melbourne’s raw, unpolished energy, art would lose its pulse.  
-
-So here’s the balance I’ve come to accept:  
-> In Sydney, art is a career. In Melbourne, art is a way of life.  
-
-Too much of Melbourne’s “life” and art dissolves into self-indulgence—the bus of muttering prophets and overzealous children.  
-Too much of Sydney’s “career” and art calcifies into spectacle—technically perfect, emotionally sterile.  
-
-Good art lives somewhere between the two: grounded yet free, personal yet public.  
-To express oneself honestly while still listening—that, I think, is the secret.  
-
----
-
-## **VI. The Middle Path**
-
-In Chinese philosophy, we call this balance *zhongyong*—the “Doctrine of the Mean.”  
-But there’s nothing mediocre about it. Balance is not compromise; it’s precision.  
-
-A person needs both a career and a life.  
-Both the scaffolding of work and the softness of being.  
-
-At work, we should remember that colleagues are not machines.  
-In life, we should remember that even friendships have their economies.  
-
-Sydney and Melbourne, then, are not so far apart.  
-One makes you look upward; the other teaches you to breathe.  
-
-And somewhere in that rhythm—between the skyline and the rain—I hope to find my own footing.  
+Perhaps Sydney and Melbourne were never opposites at all.
+Perhaps they were always two hands of the same gesture.
