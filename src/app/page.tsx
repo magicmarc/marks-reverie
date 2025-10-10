@@ -3,18 +3,14 @@
 import styled from 'styled-components'
 import Layout from '@/components/Layout/Layout'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const HeroSection = styled.section`
   padding: ${({ theme }) => theme.spacing['4xl']} 0;
   text-align: center;
-  background: linear-gradient(
-    135deg,
-    ${({ theme }) => theme.colors.background.main} 0%,
-    ${({ theme }) => theme.colors.primary.paleBlue} 100%
-  );
-  border-radius: 0 0 40px 40px;
   margin-bottom: ${({ theme }) => theme.spacing['3xl']};
 `
+
 
 const HeroTitle = styled.h1`
   font-size: ${({ theme }) => theme.typography.fontSize['5xl']};
@@ -59,9 +55,13 @@ const CTAButton = styled(Link)`
 
 const ContentSection = styled.section`
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: ${({ theme }) => theme.spacing['3xl']};
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: ${({ theme }) => theme.spacing['2xl']};
   margin-bottom: ${({ theme }) => theme.spacing['3xl']};
+
+  @media (max-width: ${({ theme }) => theme.breakpoints.lg}) {
+    grid-template-columns: 1fr 1fr;
+  }
 
   @media (max-width: ${({ theme }) => theme.breakpoints.md}) {
     grid-template-columns: 1fr;
@@ -122,35 +122,92 @@ const QuoteAuthor = styled.cite`
   font-style: normal;
 `
 
+const WritingChallengeImage = styled.div`
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  height: 300px;
+  margin: 0 auto ${({ theme }) => theme.spacing.lg};
+`
+
 export default function Home() {
   return (
     <Layout>
       <HeroSection>
         <HeroTitle>Welcome to Mark&apos;s Reverie</HeroTitle>
         <HeroSubtitle>
-          A contemplative space where thoughts wander freely, 
-          ideas take flight, and the written word finds its home.
+          A contemplative space where thoughts wander freely, ideas take flight, and the written word finds its home.
         </HeroSubtitle>
-        <CTAButton href="/blog">Explore My Thoughts</CTAButton>
       </HeroSection>
 
       <ContentSection>
         <ContentCard>
-          <CardTitle>About This Space</CardTitle>
+          <WritingChallengeImage>
+            <Image
+              src="/images/Writing-Challenge.png"
+              alt="Mark's Reverie Writing Challenge - Submit your work"
+              fill
+              style={{ objectFit: 'contain' }}
+              priority
+            />
+          </WritingChallengeImage>
           <CardDescription>
-            This is where I share my musings, reflections, and literary explorations. 
-            Each post is a window into my thoughts on life, literature, creativity, 
-            and the quiet moments that shape our understanding of the world.
+            Join our ongoing Writing Challenge! Submit your short stories, poems, 
+            reflections, or book reviews. Selected works will be featured on our website.
           </CardDescription>
+          <CTAButton href="/writing-challenge" style={{ 
+            fontSize: '0.9rem', 
+            padding: '0.75rem 1.5rem',
+            marginTop: '1rem'
+          }}>
+            Join the Challenge
+          </CTAButton>
         </ContentCard>
 
         <ContentCard>
-          <CardTitle>Recent Reflections</CardTitle>
+          <WritingChallengeImage>
+            <Image
+              src="/images/Community-Blog.png"
+              alt="Community Blog - A place where voices converge"
+              fill
+              style={{ objectFit: 'contain' }}
+            />
+          </WritingChallengeImage>
           <CardDescription>
-            From the profound to the playful, from book reviews to personal essays, 
-            you&apos;ll find a collection of writings that capture the essence of 
-            thoughtful living and mindful observation.
+            Discover thoughtful reflections, literary explorations, and insights 
+            from our community. From book reviews to personal essays, find writings 
+            that capture the essence of thoughtful living.
           </CardDescription>
+          <CTAButton href="/blog" style={{ 
+            fontSize: '0.9rem', 
+            padding: '0.75rem 1.5rem',
+            marginTop: '1rem'
+          }}>
+            Read Our Stories
+          </CTAButton>
+        </ContentCard>
+
+        <ContentCard>
+          <WritingChallengeImage>
+            <Image
+              src="/images/Featured-Novels.png"
+              alt="Featured Novels - Immersive stories and literary works"
+              fill
+              style={{ objectFit: 'contain' }}
+            />
+          </WritingChallengeImage>
+          <CardDescription>
+            Explore our collection of original novels and literary works. 
+            Dive into immersive stories that showcase the power of narrative 
+            and the beauty of the written word.
+          </CardDescription>
+          <CTAButton href="/novel" style={{ 
+            fontSize: '0.9rem', 
+            padding: '0.75rem 1.5rem',
+            marginTop: '1rem'
+          }}>
+            Discover Novels
+          </CTAButton>
         </ContentCard>
       </ContentSection>
 

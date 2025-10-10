@@ -125,12 +125,12 @@ const Description = styled.p`
   text-align: center;
 `
 
-export default function ContactPage() {
+export default function ConnectPage() {
   return (
     <Layout>
       <Container>
         <Header>
-          <Title>Contact</Title>
+          <Title>Connect</Title>
           <Subtitle>Let's connect and share ideas</Subtitle>
         </Header>
 

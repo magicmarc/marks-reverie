@@ -4,9 +4,9 @@ import FontLoader from '@/components/FontLoader'
 import { LoadingProvider } from '@/components/LoadingProvider'
 
 export const metadata: Metadata = {
-  title: "Mark's Reverie",
-  description: 'A personal blog for thoughts, reflections, and literary musings',
-  keywords: ['blog', 'literature', 'reflections', 'writing', 'thoughts'],
+  title: "Mark's Reverie - Writer's Community",
+  description: 'A vibrant community of writers, readers, and literary enthusiasts. Join our Writing Challenge and share your stories.',
+  keywords: ['writing community', 'writing challenge', 'literature', 'writers', 'stories', 'poems', 'book reviews', 'creative writing'],
   authors: [{ name: 'Mark' }],
   icons: {
     icon: '/logos/logo-light.png',
@@ -14,8 +14,8 @@ export const metadata: Metadata = {
     apple: '/logos/logo-light.png',
   },
   openGraph: {
-    title: "Mark's Reverie",
-    description: 'A personal blog for thoughts, reflections, and literary musings',
+    title: "Mark's Reverie - Writer's Community",
+    description: 'A vibrant community of writers, readers, and literary enthusiasts. Join our Writing Challenge and share your stories.',
     type: 'website',
   },
 }

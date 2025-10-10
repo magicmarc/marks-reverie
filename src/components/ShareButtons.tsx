@@ -12,11 +12,13 @@ const ShareContainer = styled.div`
 
 const ShareTitle = styled.h3`
   font-size: ${({ theme }) => theme.typography.fontSize.lg};
-  font-weight: ${({ theme }) => theme.typography.fontWeight.medium};
-  color: ${({ theme }) => theme.colors.text.primary};
+  font-weight: ${({ theme }) => theme.typography.fontWeight.light};
+  color: ${({ theme }) => theme.colors.text.secondary};
   margin-bottom: ${({ theme }) => theme.spacing.lg};
   text-align: center;
   font-family: ${({ theme }) => theme.typography.fontFamily.serif};
+  font-style: italic;
+  letter-spacing: 0.5px;
 `
 
 const ButtonGroup = styled.div`
@@ -27,26 +29,28 @@ const ButtonGroup = styled.div`
   flex-wrap: wrap;
 `
 
-const ShareButton = styled.button<{ $bgColor: string; $hoverColor: string }>`
+const ShareButton = styled.button`
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: ${({ theme }) => theme.spacing.xs};
-  padding: ${({ theme }) => theme.spacing.sm} ${({ theme }) => theme.spacing.lg};
-  background-color: ${({ $bgColor }) => $bgColor};
-  color: white;
-  border: none;
-  border-radius: ${({ theme }) => theme.borderRadius.lg};
+  padding: ${({ theme }) => theme.spacing.md} ${({ theme }) => theme.spacing.lg};
+  background-color: ${({ theme }) => theme.colors.background.paper};
+  color: ${({ theme }) => theme.colors.text.primary};
+  border: 1px solid ${({ theme }) => theme.colors.border.medium};
+  border-radius: ${({ theme }) => theme.borderRadius.md};
   font-size: ${({ theme }) => theme.typography.fontSize.sm};
   font-weight: ${({ theme }) => theme.typography.fontWeight.medium};
   font-family: ${({ theme }) => theme.typography.fontFamily.sans};
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
   box-shadow: ${({ theme }) => theme.shadows.sm};
 
   &:hover {
-    background-color: ${({ $hoverColor }) => $hoverColor};
-    transform: translateY(-2px);
+    background-color: ${({ theme }) => theme.colors.accent.gold};
+    color: white;
+    border-color: ${({ theme }) => theme.colors.accent.gold};
+    transform: translateY(-1px);
     box-shadow: ${({ theme }) => theme.shadows.md};
   }
 
@@ -55,8 +59,9 @@ const ShareButton = styled.button<{ $bgColor: string; $hoverColor: string }>`
   }
 
   svg {
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
+    opacity: 0.8;
   }
 
   @media (max-width: ${({ theme }) => theme.breakpoints.sm}) {
@@ -64,19 +69,26 @@ const ShareButton = styled.button<{ $bgColor: string; $hoverColor: string }>`
     font-size: ${({ theme }) => theme.typography.fontSize.xs};
     
     svg {
-      width: 16px;
-      height: 16px;
+      width: 14px;
+      height: 14px;
     }
   }
 `
 
 const CopyButton = styled(ShareButton)<{ $copied: boolean }>`
   background-color: ${({ $copied, theme }) => 
-    $copied ? theme.colors.accent.sage : '#6b7280'};
+    $copied ? theme.colors.accent.sage : theme.colors.background.paper};
+  color: ${({ $copied, theme }) => 
+    $copied ? 'white' : theme.colors.text.primary};
+  border-color: ${({ $copied, theme }) => 
+    $copied ? theme.colors.accent.sage : theme.colors.border.medium};
   
   &:hover {
     background-color: ${({ $copied, theme }) => 
-      $copied ? theme.colors.accent.sage : '#4b5563'};
+      $copied ? theme.colors.accent.sage : theme.colors.accent.gold};
+    color: white;
+    border-color: ${({ $copied, theme }) => 
+      $copied ? theme.colors.accent.sage : theme.colors.accent.gold};
   }
 `
 
@@ -128,8 +140,6 @@ export default function ShareButtons({ url, title, description }: ShareButtonsPr
       <ShareTitle>Share this article</ShareTitle>
       <ButtonGroup>
         <ShareButton
-          $bgColor="#1DA1F2"
-          $hoverColor="#1a8cd8"
           onClick={() => handleShare('twitter')}
           aria-label="Share on Twitter"
         >
@@ -140,8 +150,6 @@ export default function ShareButtons({ url, title, description }: ShareButtonsPr
         </ShareButton>
 
         <ShareButton
-          $bgColor="#1877F2"
-          $hoverColor="#166fe5"
           onClick={() => handleShare('facebook')}
           aria-label="Share on Facebook"
         >
@@ -152,8 +160,6 @@ export default function ShareButtons({ url, title, description }: ShareButtonsPr
         </ShareButton>
 
         <ShareButton
-          $bgColor="#0A66C2"
-          $hoverColor="#004182"
           onClick={() => handleShare('linkedin')}
           aria-label="Share on LinkedIn"
         >
@@ -164,8 +170,6 @@ export default function ShareButtons({ url, title, description }: ShareButtonsPr
         </ShareButton>
 
         <ShareButton
-          $bgColor="#25D366"
-          $hoverColor="#128C7E"
           onClick={() => handleShare('whatsapp')}
           aria-label="Share on WhatsApp"
         >
@@ -176,8 +180,6 @@ export default function ShareButtons({ url, title, description }: ShareButtonsPr
         </ShareButton>
 
         <CopyButton
-          $bgColor="#6b7280"
-          $hoverColor="#4b5563"
           $copied={copied}
           onClick={handleCopyLink}
           aria-label="Copy link"

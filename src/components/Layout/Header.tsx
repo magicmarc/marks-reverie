@@ -219,8 +219,11 @@ const Header = () => {
             <NavLink href="/novel" $isActive={pathname === '/novel' || pathname.startsWith('/novel/')}>
               Novels
             </NavLink>
-            <NavLink href="/contact" $isActive={pathname === '/contact'}>
-              Contact
+            <NavLink href="/writing-challenge" $isActive={pathname === '/writing-challenge'}>
+              Writing Challenge
+            </NavLink>
+            <NavLink href="/connect" $isActive={pathname === '/connect'}>
+              Connect
             </NavLink>
           </Navigation>
           <MobileMenuButton onClick={toggleMobileMenu}>
@@ -245,8 +248,11 @@ const Header = () => {
         <MobileNavLink href="/novel" $isActive={pathname === '/novel' || pathname.startsWith('/novel/')} onClick={closeMobileMenu}>
           Novels
         </MobileNavLink>
-        <MobileNavLink href="/contact" $isActive={pathname === '/contact'} onClick={closeMobileMenu}>
-          Contact
+        <MobileNavLink href="/writing-challenge" $isActive={pathname === '/writing-challenge'} onClick={closeMobileMenu}>
+          Writing Challenge
+        </MobileNavLink>
+        <MobileNavLink href="/connect" $isActive={pathname === '/connect'} onClick={closeMobileMenu}>
+          Connect
         </MobileNavLink>
       </MobileMenu>
     </>
