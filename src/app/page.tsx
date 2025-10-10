@@ -211,8 +211,7 @@ export default function Home() {
           </WritingChallengeImage>
           <CardDescription>
             Explore our collection of original novels and literary works. 
-            Dive into immersive stories that showcase the power of narrative 
-            and the beauty of the written word.
+            Dive into immersive stories that showcase the power of narrative.
           </CardDescription>
           <CTAButton href="/novel" style={{ 
             fontSize: '0.9rem', 
