@@ -112,8 +112,6 @@ Then, one day, I realised something quiet but decisive: the hands could work tog
 
 A small play, if it succeeds, may one day become a film. And that’s not corruption.
 
-Art, like water, takes the shape of whatever holds it. Sometimes that container is a stage, sometimes a screen, sometimes the brief space between two people who understand each other.
-
 Every artist must negotiate with the world. Some deals work, some don’t. But I’ve come to believe the real trick is not to win the negotiation—it’s to keep your voice breathing inside it.
 
 ---
