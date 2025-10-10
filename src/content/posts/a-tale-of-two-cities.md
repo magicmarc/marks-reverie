@@ -15,7 +15,7 @@ As an outsider—and, more recently, a homebound worker who spends long days beh
 
 ---
 
-## **I. In Sydney, but Dreaming of Melbourne**
+## **I. The Quiet Discontent**
 
 If I were to begin with an ending, I’d say this: I live in Sydney, but my heart drifts south to Melbourne.  
 
@@ -25,13 +25,19 @@ I first came to Sydney years ago, a friend asked how it was. “Wonderful,” I 
 
 He looked surprised.  
 
-“Sydney feels too much like Hong Kong,” I said. “And one of the reasons I came to Australia was to leave the past behind.”  
+“Sydney feels too much like Hong Kong,” I said. “And one of the reasons I came to Australia was to leave the past behind.”
 
-The resemblance was uncanny. Sydney’s skyline, its crowded ferries, the ring of its harbour—all felt like echoes of home. Later I learned that its metro system was built by the same company that built Hong Kong’s. That explained the déjà vu.  
+Back in Hong Kong, my days had been consumed by work—endless hours in glass towers that never slept, deadlines stacked like dominoes, and the unspoken rule that to rest was to fall behind. There was no such thing as after work; there was only before exhaustion. The city moved at the speed of ambition, and I moved with it until I could no longer tell whether I was living, or merely functioning.
 
-Back then, I was speaking sincerely. Sydney did feel like a city built for workers—or, more precisely, for those who could afford to hire them. 
+I had come to Australia for something gentler—a life that allowed space between effort and being, a rhythm where work ended and living began. I wanted to spend my evenings reading, or sitting in a small theatre watching strangers perform their truth. Art, to me, was not a luxury; it was proof that time could still be mine.
 
-But sincerity, I’ve since learned, isn’t the same as truth. What I said was honest, but it wasn’t the root of what I felt. The real reason lay deeper, beneath logic or comparison—something quieter, harder to name.
+But when I first arrived in Sydney, that sense of escape faltered. The resemblance was uncanny. Sydney’s skyline, its crowded ferries, the ring of its harbour—all felt like echoes of the city I thought I’d left behind. Even the rhythm of footsteps in the financial district—the suits, the coffee queues, the silent urgency—brought a chill to my spine. It was as if the same metropolis had followed me across the sea, wearing a different accent but the same expression of fatigue.
+
+Later I learned that Sydney’s metro system was built by the same company that built Hong Kong’s. That explained the déjà vu, though not the unease.
+
+Sydney did feel like a city built for workers—or, more precisely, for those who could afford to hire them.
+
+What I said was honest, but it wasn’t the root of what I felt. The real reason lay deeper, beneath logic or comparison—something quieter, harder to name.
 
 ---
 
