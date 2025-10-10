@@ -108,7 +108,7 @@ But that, too, might be projection. The cities themselves are not opposites—ju
 
 For years, I treated those dialects as rivals: the purity of creation versus the practicality of production, expression versus survival. I thought I had to choose between them—to be either the dreamer who refused to compromise, or the pragmatist who played by the rules. It felt like a war fought between my two hands, each trying to prove the other unnecessary.
 
-Then, one day, I realised something quiet but decisive: the hands could work together. The left could shape what the right could build. The art I made didn’t have to be pure to be honest, nor commercial to be seen. Creation and ambition were never enemies; I had simply mistaken collaboration for surrender.
+Then, one day, I realised something quiet but decisive: the hands could work together. The left could shape what the right could build. The art I made didn’t have to be pure to be honest, nor commercial to be seen. Creation and ambition were never enemies; instead, they work together, like two adults.
 
 A small play, if it succeeds, may one day become a film. That’s not corruption; it’s evolution.
 
