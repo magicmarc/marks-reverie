@@ -36,8 +36,7 @@ Back then I was speaking sincerely: Sydney, I thought, was a city for workers—
 
 ## **II. The Grass, the Fence, the Mirror**
 
-Now, years later, I’m writing these lines from a quiet apartment in Sydney. Perhaps what fuels this essay is simple discontent.  
-*The grass is always greener*, as they say, and mine, apparently, grows in Melbourne.  
+Now, years later, I’m writing these lines from a quiet apartment in Sydney. Perhaps what fuels this essay is simple discontent. *The grass is always greener*, as they say, and mine, apparently, grows in Melbourne.  
 
 Why that city, though? Why not Perth, or Adelaide, or somewhere far enough to erase comparison altogether?  
 
