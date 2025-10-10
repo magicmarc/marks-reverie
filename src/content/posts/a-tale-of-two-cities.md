@@ -61,7 +61,11 @@ Melbourne rains endlessly. The wind howls. The sky refuses to stay the same colo
 
 And yet—I prefer it. For one reason: **self-expression.**  
 
-Melbourne, I’ve always felt, carries an artistic pulse in its everyday life.  
+Self-expression gives rise to a kind of artistry that feels uniquely Melbourne. The city hums with small, unguarded acts of creativity: independent bookstores spilling poetry onto the sidewalks, cafés perfumed with espresso and quiet ambition, buskers whose voices echo between tram bells and drizzle. There’s always something happening just around the corner—someone sketching, someone singing, someone talking too loudly about a book that changed their life.
+
+Melbourne dresses like no one is watching—an effortless collision of colours and textures, thrift-store coats paired with confidence. Its people speak with a clarity that feels almost rehearsed, as if every word has been weighed and chosen, polished until it catches the light. Conversations are animated but sincere; they listen as much as they perform.
+
+And there’s a certain social grace here, an openness rare in other cities. Strangers become companions over a single cup of coffee; introductions dissolve into friendships before you realise it. Every time I visit Melbourne, I meet someone new—someone who paints, writes, plays, dreams. This, I think, is the spirit I once naively called “artsy.” Perhaps I still do.
 
 Sydney, of course, has art in abundance—an opera house that gleams like a seashell, galleries and museums of every scale, international orchestras, film festivals, pop stars.  
 If culture is an industry, Sydney is its boardroom.  
