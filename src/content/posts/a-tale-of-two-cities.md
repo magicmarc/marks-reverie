@@ -101,8 +101,6 @@ A small play, if it succeeds, may one day become a film. That’s not corruption
 
 Art, like water, takes the shape of whatever holds it. Sometimes that container is a stage, sometimes a screen, sometimes the brief space between two people who understand each other.
 
-A monologue with no audience is not art; it’s a man muttering to himself on a Melbourne tram.
-
 Every artist must negotiate with the world. Some deals work, some don’t. But I’ve come to believe the real trick is not to win the negotiation—it’s to keep your voice breathing inside it.
 
 ---
