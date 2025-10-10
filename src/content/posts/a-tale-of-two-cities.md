@@ -90,16 +90,20 @@ And perhaps that’s the point: art, at its best, is not display—it’s dialog
 
 ## **IV. Art and Capital, Uneasy Allies**
 
-If I were a performer, I suspect I’d be happier in New York than Los Angeles.  
-But that, too, might be projection. The cities themselves are not opposites—just different dialects of the same hunger.  
+If I were a performer, I suspect I’d be happier in New York than Los Angeles.
+But that, too, might be projection. The cities themselves are not opposites—just different dialects of the same hunger.
 
-A small play, if it succeeds, may one day become a film. That’s not corruption; it’s evolution.  
-Art, like water, changes shape according to its container.  
+For years, I treated those dialects as rivals: the purity of creation versus the practicality of production, expression versus survival. I thought I had to choose between them—to be either the dreamer who refused to compromise, or the pragmatist who played by the rules. It felt like a war fought between my two hands, each trying to prove the other unnecessary.
 
-Collaboration, compromise—these are not betrayals but necessities.  
-A monologue with no audience is not art; it’s a man muttering to himself on a Melbourne tram.  
+Then, one day, I realised something quiet but decisive: the hands could work together. The left could shape what the right could build. The art I made didn’t have to be pure to be honest, nor commercial to be seen. Creation and ambition were never enemies; I had simply mistaken collaboration for surrender.
 
-Every artist must negotiate with the world. Some deals work; some don’t. The trick is to find the ecosystem where your voice can breathe.  
+A small play, if it succeeds, may one day become a film. That’s not corruption; it’s evolution.
+Art, like water, takes the shape of whatever holds it. Sometimes that container is a stage, sometimes a screen, sometimes the brief space between two people who understand each other.
+
+Collaboration and compromise—these are not betrayals but bridges.
+A monologue with no audience is not art; it’s a man muttering to himself on a Melbourne tram.
+
+Every artist must negotiate with the world. Some deals work, some don’t. But I’ve come to believe the real trick is not to win the negotiation—it’s to keep your voice breathing inside it.
 
 ---
 
