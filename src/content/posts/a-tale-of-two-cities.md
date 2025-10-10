@@ -110,7 +110,7 @@ For years, I treated those dialects as rivals: the purity of creation versus the
 
 Then, one day, I realised something quiet but decisive: the hands could work together. The left could shape what the right could build. The art I made didn’t have to be pure to be honest, nor commercial to be seen. Creation and ambition were never enemies; instead, they work together, like two adults.
 
-A small play, if it succeeds, may one day become a film. That’s not corruption; it’s evolution.
+A small play, if it succeeds, may one day become a film. And that’s not corruption.
 
 Art, like water, takes the shape of whatever holds it. Sometimes that container is a stage, sometimes a screen, sometimes the brief space between two people who understand each other.
 
