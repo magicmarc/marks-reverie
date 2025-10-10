@@ -1,14 +1,19 @@
+const getSiteUrl = () => {
+  return process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'
+}
+
 export const blogConfig = {
   // 博客基本配置
   siteName: process.env.NEXT_PUBLIC_SITE_NAME || "Mark's Reverie",
   siteDescription: process.env.NEXT_PUBLIC_SITE_DESCRIPTION || "A personal blog for thoughts, reflections, and literary musings",
+  siteUrl: getSiteUrl(),
   
   // 数据源配置
   dataSource: {
     // 可选: 'json', 'markdown', 'api', 'cms'
     type: process.env.BLOG_DATA_SOURCE || 'markdown',
-    // API 端点（如果使用 API）
-    apiUrl: process.env.BLOG_API_URL,
+    // API 端点（如果使用 API）- 自动基于 siteUrl 构建
+    apiUrl: `${getSiteUrl()}/api/posts`,
     // CMS 配置（如果使用 CMS）
     cms: {
       type: process.env.CMS_TYPE, // 'contentful', 'strapi', 'sanity', etc.

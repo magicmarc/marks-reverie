@@ -4,6 +4,8 @@ import styled from 'styled-components'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { BlogPost } from '@/lib/blog'
+import ShareButtons from './ShareButtons'
+import { blogConfig } from '@/config/blog'
 
 const PostContainer = styled.div`
   max-width: 800px;
@@ -229,6 +231,11 @@ export default function BlogPostContent({ post }: BlogPostContentProps) {
     })
   }
 
+  // Get the current page URL for sharing
+  const shareUrl = typeof window !== 'undefined' 
+    ? window.location.href 
+    : `${blogConfig.siteUrl}/blog/${post.slug}`
+
   return (
     <PostContainer>
       <BackLink href="/blog">Back to Blog</BackLink>
@@ -268,6 +275,12 @@ export default function BlogPostContent({ post }: BlogPostContentProps) {
           {post.content}
         </ReactMarkdown>
       </PostContent>
+
+      <ShareButtons 
+        url={shareUrl}
+        title={post.title}
+        description={post.excerpt}
+      />
     </PostContainer>
   )
 }
