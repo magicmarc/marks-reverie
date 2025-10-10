@@ -116,7 +116,7 @@ For years, I treated those dialects as rivals: the purity of creation versus the
 
 Then, one day, I realised something quiet but decisive: the hands could work together. The left could shape what the right could build. The art I made didn’t have to be pure to be honest, nor commercial to be seen. Creation and ambition were never enemies; instead, they work together, like two adults.
 
-A small play, if it succeeds, may one day become a film. And that’s not corruption.
+A small play, if it succeeds, may one day become a film. And that’s not corruption, but a *success*.
 
 Every artist must negotiate with the world. Some deals work, some don’t. But I’ve come to believe the real trick is not to win the negotiation—it’s to keep your voice breathing inside it.
 
