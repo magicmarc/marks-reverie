@@ -67,23 +67,22 @@ Melbourne dresses like no one is watching—an effortless collision of colours a
 
 And there’s a certain social grace here, an openness rare in other cities. Strangers become companions over a single cup of coffee; introductions dissolve into friendships before you realise it. Every time I visit Melbourne, I meet someone new—someone who paints, writes, plays, dreams. This, I think, is the spirit I once naively called “artsy.” Perhaps I still do.
 
-Sydney, of course, has art in abundance—an opera house that gleams like a seashell, galleries and museums of every scale, international orchestras, film festivals, pop stars.  
-If culture is an industry, Sydney is its boardroom.  
+Sydney, of course, has art in abundance—an opera house that gleams like a seashell, galleries and museums of every scale, international orchestras, film festivals, pop stars. If culture is an industry, Sydney is its boardroom. It curates beauty the way corporations curate vision statements: sleek, precise, always ready for a press release. The city celebrates excellence, but it does so with the distant polish of a glass tower—spectacular, professional, and faintly impersonal. You buy your ticket, take your seat, and admire from the correct distance. The art dazzles, but you rarely touch it.
 
-But art in Melbourne feels different—not grander, but closer.  
+Melbourne, on the other hand, feels like the back room of that same building—messy, alive, a little improvised. Art here isn’t performed for you; it happens around you. In Sydney, art demands a ticket; in Melbourne, it demands attention. Sydney wants to impress you; Melbourne wants to include you. 
 
-It’s the same distinction one might draw between Los Angeles and New York.  
-Hollywood lives in L.A.; Broadway lives in New York.  
-Both are “art,” but they operate at different temperatures.  
+It’s the same distinction one might draw between Los Angeles and New York.
+Hollywood lives in L.A.; Broadway lives in New York.
+Both belong to the same constellation of art, yet they burn at different temperatures.
 
-In Los Angeles, art is aspiration: actors hustling between auditions, waiting for their one immaculate break.  
-In New York, art is discipline: actors performing the same lines, night after night, in the dim warmth of a stage that might never make them rich.  
+Film, to me, feels like a constellation you can only admire from afar—magnificent, but untouchable. It demands capital, coordination, and an army of professionals. Every frame is polished, every silence edited. You sit in the dark, passive, a spectator to someone else’s dream.
 
-The difference is not one of high and low culture—it’s one of *participation.*  
+Theatre, by contrast, feels like standing too close to a fire. The actors breathe the same air as you; their sweat and trembling are real, not simulated. A single stumble, a missed line, can alter the night’s chemistry. The play unfolds not on stage alone but between performer and audience—an invisible current that makes everyone complicit. You don’t just watch it; it happens to you.
 
-A film requires capital, coordination, an army.  
-A play needs a room and a handful of people.  
-Film is spectacle; theatre is communion.  
+Film is spectacle; theatre is collision.
+Film entertains; theatre implicates.
+
+And perhaps that’s why I love it—because theatre breaks the fourth wall not as a trick, but as an invitation. For a few hours, you’re no longer an observer; you’re part of the story. 
 
 And perhaps that’s the point: art, at its best, is not display—it’s dialogue.  
 
