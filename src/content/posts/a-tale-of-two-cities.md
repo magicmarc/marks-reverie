@@ -40,7 +40,7 @@ Now, years later, I’m writing these lines from a quiet apartment in Sydney. Pe
 
 Why that city, though? Why not Perth, or Adelaide, or somewhere far enough to erase comparison altogether?  
 
-Perhaps because, to me, while in Melbourne I can constantly express myself; while in Sydney I am constantly performing for others.  
+Because, to me, while in Melbourne I could constantly express myself; while in Sydney I am constantly performing for others.  
 
 When I asked my friends what they thought of Melbourne, their answers came quickly, almost rehearsed.  
 
