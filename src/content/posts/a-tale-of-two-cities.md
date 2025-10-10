@@ -125,10 +125,9 @@ And perhaps this is what I’ve been circling all along—the quiet reconciliati
 
 Maybe it’s the same with cities. Sydney, with its order and shine, teaches you how to build; Melbourne, with its rain and chaos, reminds you why you began. One speaks in boardroom tones, the other hums in alleyways—but the conversation, I suspect, is the same.
 
-Perhaps Sydney and Melbourne were never opposites at all. 
-
 Perhaps I could travel from one to another sometimes.
 
 I don’t wish to become the muttering dreamer on a Melbourne tram, lost in his own brilliance; nor the immaculate opportunist or corporate machine in a Sydney office.
 
-If there’s a stage between the two, I’d like to live there, still believing that art, and maybe life itself, is best performed when you can hear the audience breathe.
+I wish to build AND dream, argue AND reconcile, fall but still creating.
+> Because maybe, just maybe, Sydney and Melbourne were never that far apart.
