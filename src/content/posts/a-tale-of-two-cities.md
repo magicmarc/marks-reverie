@@ -126,7 +126,7 @@ Every artist must negotiate with the world. Some deals work, some don’t. But I
 
 And perhaps this is what I’ve been circling all along—the quiet reconciliation between creation and commerce, between freedom and structure, between dream and daylight. The left hand and the right.
 
-Maybe it’s the same with cities. Sydney, with its order and shine, teaches you how to build; Melbourne, with its rain and chaos, reminds you why you began. One speaks in boardroom tones, the other hums in alleyways.
+Maybe it’s the same with cities. Sydney, with its order and shine, teaches you how to build; Melbourne, with its rain and chaos, reminds you why you began.
 
 Perhaps I was never meant to choose—only to move between them.
 
