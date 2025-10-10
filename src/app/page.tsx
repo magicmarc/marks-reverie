@@ -187,9 +187,9 @@ export default function Home() {
             />
           </WritingChallengeImage>
           <CardDescription>
-            Discover thoughtful reflections, literary explorations, and insights 
-            from our community. From book reviews to personal essays, find writings 
-            that capture the essence of thoughtful living.
+            Discover reflections, literary explorations, and insights 
+            from our community. 
+            Find writings that capture the essence of thoughtful living.
           </CardDescription>
           <CTAButton href="/blog" style={{ 
             fontSize: '0.9rem', 
