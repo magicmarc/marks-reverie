@@ -37,7 +37,7 @@ Later I learned that Sydney’s metro system was built by the same company that 
 
 Sydney did feel like a city built for workers—or, more precisely, for those who could afford to hire them.
 
-What I said was honest, but it wasn’t the root of what I felt. The real reason lay deeper, beneath logic or comparison—something quieter, harder to name.
+That was my honest impression, but it wasn’t the root of what I felt. The real reason lay deeper, beneath logic or comparison—something quieter, harder to name.
 
 ---
 
