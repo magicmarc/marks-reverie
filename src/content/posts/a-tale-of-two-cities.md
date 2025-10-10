@@ -21,8 +21,7 @@ If I were to begin with an ending, I’d say this: I live in Sydney, but my hear
 
 Why, I can’t quite explain. It’s not logic but something closer to texture—a quiet dissonance I can’t ignore.  
 
-I first came to Sydney years ago, a friend asked how it was.  
-“Wonderful,” I said. “Sydney’s a great place to visit—but not for stay.”  
+I first came to Sydney years ago, a friend asked how it was. “Wonderful,” I said. “Sydney’s a great place to visit—but not for stay.”  
 
 He looked surprised.  
 
