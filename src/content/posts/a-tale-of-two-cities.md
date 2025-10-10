@@ -118,13 +118,13 @@ Every artist must negotiate with the world. Some deals work, some don’t. But I
 
 ## **V. The Twin Engines**
 
-And perhaps this is what I’ve been circling all along—the quiet reconciliation between creation and commerce, between freedom and structure, between dream and daylight. The left hand and the right, finally moving together.
+And perhaps this is what I’ve been circling all along—the quiet reconciliation between creation and commerce, between freedom and structure, between dream and daylight. The left hand and the right.
 
-Maybe it’s the same with cities. Sydney, with its order and shine, teaches you how to build; Melbourne, with its rain and chaos, reminds you why you began. One speaks in boardroom tones, the other hums in alleyways—but the conversation, I suspect, is the same.
+Maybe it’s the same with cities. Sydney, with its order and shine, teaches you how to build; Melbourne, with its rain and chaos, reminds you why you began. One speaks in boardroom tones, the other hums in alleyways.
 
 Perhaps I could travel from one to another sometimes.
 
-I don’t wish to become the muttering dreamer on a Melbourne tram, lost in his own brilliance; nor the immaculate opportunist or corporate machine in a Sydney office.
+I don’t wish to become the muttering dreamer on a Melbourne tram, lost in his own brilliance; nor the immaculate machine in a Sydney office.
 
 I wish to build AND dream, argue AND reconcile, fall but still creating.
 > Because maybe, just maybe, Sydney and Melbourne were never that far apart.
