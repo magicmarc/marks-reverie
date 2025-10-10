@@ -22,7 +22,7 @@ If I were to begin with an ending, I’d say this: I live in Sydney, but my hear
 Why, I can’t quite explain. It’s not logic but something closer to texture—a quiet dissonance I can’t ignore.  
 
 I first came to Sydney years ago, when I was still living in Brisbane. After a short trip, a friend asked how it was.  
-“Wonderful,” I said. “Sydney’s a perfect place to visit—but I’d rather live in Brisbane.”  
+“Wonderful,” I said. “Sydney’s a perfect place to visit—but not for stay.”  
 
 He looked surprised.  
 
